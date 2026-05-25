@@ -45,6 +45,7 @@
       line-height: 1.75;
       color: var(--text);
       background: var(--bg);
+      overflow-x: hidden;
     }
     .skip-link {
       position: absolute;
@@ -257,16 +258,21 @@
       .site-header { padding-right: calc(var(--toc-width) + 2rem); }
     }
     .hero {
-      min-height: 72vh;
+      min-height: clamp(560px, 82svh, 880px);
       display: flex;
       flex-direction: column;
       justify-content: flex-end;
       align-items: center;
-      padding: 4rem 1.5rem 5rem;
+      padding: clamp(2.5rem, 9vh, 6rem) 1.25rem clamp(5rem, 9vh, 7rem);
       background: linear-gradient(180deg, #0d0d0d 0%, #1a1a1a 45%, #2a1515 100%);
       color: #f8f6f2;
       text-align: center;
       position: relative;
+    }
+    .hero > * {
+      width: min(100%, 48rem);
+      margin-left: auto;
+      margin-right: auto;
     }
     .hero-scroll {
       position: absolute;
@@ -317,16 +323,22 @@
       font-style: italic;
       color: #d8d0c8;
       max-width: 42rem;
-      margin: 0 auto 2.5rem;
+      margin: 0 auto 2rem;
       line-height: 1.55;
+      text-wrap: balance;
     }
     .hero-meta {
       font-family: var(--sans);
       font-size: 0.8rem;
       letter-spacing: 0.06em;
       color: #9a9088;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+      gap: 0.55rem 0.8rem;
     }
-    .hero-meta span { margin: 0 0.75rem; }
+    .hero-meta span { margin: 0; }
     .hero-reading {
       display: inline-block;
       margin-top: 0.5rem;
@@ -340,6 +352,9 @@
       max-width: var(--content-max);
       margin: 0 auto;
       padding: 0 1.5rem 6rem;
+    }
+    .content-start {
+      margin-top: 1.5rem;
     }
     .section-label {
       font-family: var(--sans);
@@ -591,6 +606,41 @@
       blockquote, .card, .record-note { break-inside: avoid; }
       a { color: #000; text-decoration: underline; }
     }
+    @media (max-width: 900px) {
+      .wrap {
+        padding: 0 1.25rem 5rem;
+      }
+      .content-start {
+        margin-top: 0.75rem;
+      }
+    }
+    @media (max-width: 640px) {
+      body {
+        font-size: 1.035rem;
+        line-height: 1.68;
+      }
+      .hero h1 {
+        font-size: clamp(2rem, 11vw, 2.8rem);
+      }
+      .hero-deck {
+        font-size: 1.05rem;
+        line-height: 1.5;
+      }
+      .hero-meta {
+        font-size: 0.75rem;
+        letter-spacing: 0.04em;
+      }
+      .hero-meta span:nth-child(2) {
+        display: none;
+      }
+      .hero-reading {
+        margin-top: 0.15rem;
+      }
+      blockquote {
+        margin: 2rem 0;
+        padding: 1.25rem 1.1rem;
+      }
+    }
   </style>
 </head>
 <body>
@@ -625,7 +675,7 @@
   </a>
 </header>
 
-<div class="layout">
+<div class="layout content-start">
 <article class="wrap" id="main">
 
   <p class="lead">Ashley St. Clair did not stumble into the culture war. She was manufactured inside it—then seduced, in her word, by the wealthiest man in the room. What follows is not speculation. It is a reconstruction from 30,383 lines of archived X data (~26,500 unique posts, 2018–2026), 45 OCR court filings across two federal cases, and more than fifty interview and TikTok transcripts. The arc is simple and brutal: she built a brand on anti-trans children’s literature and pro-MAGA grievance; she courted Elon Musk with rocket-baby jokes and Babylon Bee access; she bore a son he helped name; she fought him over paternity, money, and custody; and when Grok undressed her as a child on the platform he owns, the tech utopianism she once defended became the weapon that broke her alignment forever.</p>
