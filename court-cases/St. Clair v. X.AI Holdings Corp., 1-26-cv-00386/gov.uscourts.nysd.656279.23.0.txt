@@ -1,0 +1,108 @@
+Source PDF: gov.uscourts.nysd.656279.23.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.23.0.pdf
+OCR Pages: 5
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 23 Filed 01/23/26 Page 1 of 5
+
+# UNITED STATES DISTRICT COURT
+## SOUTHERN DISTRICT OF NEW YORK
+
+|  ASHLEY ST. CLAIR,
+
+Plaintiff,
+
+v.
+
+X.AI HOLDINGS CORP.,
+
+Defendant. | Case No. 1:26-cv-00386
+
+DECLARATION OF
+BARRY MURPHY IN
+SUPPORT OF
+DEFENDANT'S REPLY
+IN SUPPORT OF
+MOTION TO TRANSFER
+VENUE  |
+| --- | --- |
+
+I, Barry Murphy, declare under penalty of perjury as follows:
+
+1. I am the Legal Director of Safety, Content, and Law Enforcement at X.AI LLC (“xAI LLC”).
+
+2. I submit this declaration in support of Defendant’s Reply In Support of Motion to Transfer Venue.
+
+3. Users can sign up for an xAI LLC account in several different ways, including signing up by using an email address, using a Google account, using an Apple account, or using an X account.
+
+4. As I noted in my previous declaration in this action, dated January 21, 2026, the records of xAI LLC show that Defendant Ashley St. Clair signed up for an xAI LLC account on December 10, 2024 through her X account. Below is a screenshot demonstrating this, with her User Id redacted:
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 23 Filed 01/23/26 Page 2 of 5
+
+Ashley St. Clair
+User ☐
+User Id: [Redacted]
+
+User Id: [Redacted]
+
+Create Time: 14:08:19, Dec 10, 2024
+
+Given Name: Ashley St. Clair
+
+Family Name: [Redacted]
+
+ACLs: [Redacted]
+
+5. At the time Defendant signed up for her xAI LLC account, she was required to manifest assent to the xAI LLC Terms of Service. Since at least December 10, 2024 to the present, users are presented with a webpage, when creating an X.AI account, that states, “By continuing, you agree to xAI’s Terms of Service and Privacy Policy.” In that statement, the Terms of Service and Privacy Policy are underlined and contain hyperlinks. Below is a screenshot of the webpage containing this statement. No user may create an X.AI account without being taken to this webpage.
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386-ALC Document 23 Filed 01/23/26 Page 3 of 5
+
+![img-0.jpeg](img-0.jpeg)
+
+6. A true and correct copy of the Terms of Service effective on December 10, 2024 is attached as Exhibit A to this Declaration.
+
+7. xAI LLC most recently updated its Terms of Service on November 4, 2025, attached as exhibit B to this Declaration.
+
+8. The xAI LLC Terms of Service effective beginning November 4, 2025 “apply to your use of Grok, Grokipedia, and xAI’s other services for individuals, including associated applications and websites (collectively, the ‘Service’).”
+
+9. Ashley St. Clair has used the @Grok account following the November 4, 2025 update to xAI LLC Terms of Service.
+
+10. For example, on January 4, 2026, Ashley St. Clair used the @Grok account operated by xAI LLC and governed by xAI LLC’s Terms of Service by
+
+
+===== Page 3 =====
+
+Case 1:26-cv-00386-ALC Document 23 Filed 01/23/26 Page 4 of 5
+
+prompting the account and requesting that it generate information for her. Below is a screenshot showing that prompt and request:
+
+![img-1.jpeg](img-1.jpeg)
+
+11. Ashley St. Clair has used @Grok since November 4, 2025 for purposes other than requesting removal of X posts. For example, Ashley St. Clair prompted the @Grok account to generate information for her on January 6, 2026. Below is a screenshot showing that prompt and request:
+
+![img-2.jpeg](img-2.jpeg)
+
+12. X users cannot request the removal of a post via @Grok. @Grok does not have the ability to remove posts from the X platform, instead users must request removal by making a report on the platform. Indeed, the business records of xAI LLC show Ms. St. Clair made such reports through the platform this month.
+
+
+===== Page 4 =====
+
+Case 1:26-cv-00386-ALC Document 23 Filed 01/23/26 Page 5 of 5
+
+13. On January 19, 2026, xAI LLC implemented further safeguards to prevent the creation or editing of intimate images of real people across all Grok platforms, including the standalone Grok apps and Grok in X. The January 19, 2026 update eliminates entirely Grok’s ability to generate images of real individuals in revealing attire or sexualized positions.
+
+14. xAI LLC continues to consider further amendments to the functionality of the image-editing features of Grok, including @Grok, to the extent necessary to ensure that Grok does not generate images, statements, or other expression that violates the law or xAI’s policies.
+
+15. I declare under penalty of perjury that the foregoing is true and correct.
+
+Dated: January 23, 2026
+Austin, Texas
+
+![img-3.jpeg](img-3.jpeg)

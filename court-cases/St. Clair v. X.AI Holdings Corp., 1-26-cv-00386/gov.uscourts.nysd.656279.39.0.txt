@@ -1,0 +1,53 @@
+Source PDF: gov.uscourts.nysd.656279.39.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.39.0.pdf
+OCR Pages: 2
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 39 Filed 02/03/26 Page 1 of 2
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+425 Lexington Avenue
+New York, New York 10017
+Tel: (646) 837-5151
+Fax: (646) 837-5150
+www.hsgllp.com
+
+Michael Shuster
+(646) 837-5153
+mshuster@hsgllp.com
+
+February 3, 2026
+
+VIA ECF
+Hon. Andrew L. Carter Jr.
+Thurgood Marshall
+United Staes Courthouse
+40 Foley Square
+New York, NY 10007
+
+Re: Ashley St. Clair v. X.AI Holdings Corp. et al., No. 1:26-cv-00386
+
+Dear Judge Carter,
+
+We write on behalf of Defendants X.AI Holdings Corp., X.AI LLC, and X.AI Corp. (collectively "X.AI"), pursuant to Rule 6.C.ii of Your Honor's Individual Practices, to respectfully request that the Court permit certain proposed redactions to Defendants' supplemental brief in support of their motion to transfer venue.
+
+As this Court previously instructed, Defendants should seal "any sensitive, personal, or identifying information" contained within the records Defendants have submitted in connection with their motion to transfer venue. See Dkt. 25; see also Jan. 27, 2026 Tr. at 28:17-20 (explaining "it would be helpful for counsel to file under seal or, perhaps, to simply e-mail to plaintiffs and to the Court" certain information). On January 30, 2026, Defendants filed those records, see Dkt.s. 29-34, and sought sealed treatment, see Dkt. 28.
+
+X.AI's supplemental brief contains screenshots, quotations, characterizations, and discussions of those records. That material in the brief should be redacted because, like the records themselves, it reflects sensitive, personal, and/or identifying information of Plaintiff. Filing this information under seal is consistent with the Court's prior Order and protects the "higher values" of Plaintiff's "personal privacy interests." See Robinson v. De Niro, 2022 WL 2712827, at *1 (S.D.N.Y. July 13, 2022) (citing Bernsten v. O'Reilly, 307 F. Supp. 3d 161, 168 (S.D.N.Y. 2018));
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 39 Filed 02/03/26 Page 2 of 2
+
+see also Tropical Sails Corp. v. Yext, Inc., 2016 WL 1451548, at *5 (S.D.N.Y. Apr. 12, 2016) (finding sealing to be narrowly tailored where the documents in question only contained sensitive information); see also Lugosch v. Pyramid Co. of Onondaga, 435 F.3d 110, 120 (2d Cir. 2006) (noting that courts must balance the "privacy interests of those resisting disclosure").
+
+Accordingly, pursuant to the Court's order at Dkt. 25, and consistent with the foregoing law, the Court should permit the redactions to the supplemental brief proposed by Defendants.
+
+Respectfully submitted,
+
+/s/ Michael Shuster
+
+Michael Shuster

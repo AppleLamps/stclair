@@ -1,0 +1,108 @@
+Source PDF: gov.uscourts.nysd.656279.1.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.1.0.pdf
+OCR Pages: 4
+
+===== Page 0 =====
+
+Case 1:26-cv-00386 Document 1 Filed 01/15/26 Page 1 of 4
+
+# UNITED STATES DISTRICT COURT
+## SOUTHERN DISTRICT OF NEW YORK
+
+|  ASHLEY ST. CLAIR, | )  |
+| --- | --- |
+|  Plaintiff, | )  |
+|  v. | )  |
+|  X.AI HOLDINGS CORP., | )  |
+|  Defendant. | )  |
+
+## NOTICE OF REMOVAL
+
+Defendant x.AI Holdings Corp. (“xAI”), pursuant to 28 U.S.C. §§ 1332, 1441, and 1446, hereby gives notice of its removal of this action from Supreme Court of the State of New York to this Court. In support of its Notice of Removal, xAI states as follows:
+
+1. On January 15, 2026, Plaintiff Ashley St. Clair (“St. Clair”) commenced an action by filing a Summons and Complaint against xAI in Supreme Court of the State of New York, County of New York (the “State Court Action”). Copies of the Summons, Complaint, and related papers are attached to this Notice of Removal as Exhibit A.
+
+2. By this Notice, xAI has removed the State Court Action to this Court, pursuant to 28 U.S.C. §§ 1441(a) and 1446, and asserts that federal subject matter jurisdiction is proper under diversity jurisdiction.
+
+3. Removal based on diversity jurisdiction is permitted if the action is between “citizens of different States” and “the matter in controversy exceeds the sum or value of $75,000.” 28 U.S.C. § 1332(a).
+
+4. St. Clair alleges that she resides in New York. Compl. ¶ 7. On information and belief, St. Clair is domiciled in New York.
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386 Document 1 Filed 01/15/26 Page 2 of 4
+
+5. xAI is a corporation that is incorporated in Nevada, and has its principal place of business in Palo Alto, California.
+
+6. Since St. Clair is a citizen only of New York, and xAI is a citizen only of Nevada and California, the parties are citizens of different States. See 28 U.S.C. § 1332(a).
+
+7. St. Clair alleges that she has “suffered[] and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.” Compl. ¶ 90. St. Clair also characterizes her injuries as “severe.” Id. ¶ 73.
+
+8. Although St. Clair avers in a state court filing that “no subsequent award of money damages could be adequate compensation” (Mem. of Law in Support of Plaintiff’s Order to Show Cause at 6), her Complaint expressly seeks “compensatory damages,” “punitive damages,” “prejudgment interest,” and the “costs and fees of this action, including attorney’s fees.”
+
+9. Thus, on information and belief, the monetary value to St. Clair of the relief she seeks exceeds $75,000. Am. Standard, Inc. v. Oakfabco, Inc., 498 F. Supp. 2d 711, 717 (S.D.N.Y. 2007) (“the value of the requested relief is the monetary value of the benefit that would flow to the plaintiff if . . . relief were granted”); see, e.g., Velez v. Girraphic LLC, 2021 WL 1873233, at *5 (S.D.N.Y. May 10, 2021) (“alleg[ations] that [plaintiff] ‘suffered and continues to suffer emotional distress, mental anguish, humiliation and damage to his reputation’” satisfy amount in controversy requirement); Major v. Diageo N. Am., Inc., 2022 WL 2003490, at *2 (S.D.N.Y. June 6, 2022) (allegations of “extreme mental anguish, physical injury, outrage, severe anxiety about her future, painful embarrassment among her friends and coworkers, disruption of her personal life and loss of enjoyment of the ordinary pleasures of
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386 Document 1 Filed 01/15/26 Page 3 of 4
+
+everyday life, as well as damage to her physical health” satisfy amount in controversy requirement).
+
+10. In addition to St. Clair’s requested compensatory damages, she also seeks an award of punitive damages. Her requested punitive damages are “properly considered in assessing the amount in controversy.” *Nunez v. JPMorgan Chase Bank, N.A.*, 2024 WL 244624, at *4 (S.D.N.Y. Jan. 23, 2024) (denying motion to remand and holding that removal based in part on claim for punitive damages was “proper under diversity jurisdiction”).
+
+11. Since the value of the relief St. Clair seeks plausibly exceeds $75,000, the amount in controversy requirement is met. See *Dart Cherokee Basin Operating Co., LLC v. Owens*, 574 U.S. 81, 89 (2014) (“defendant’s notice of removal need include only a plausible allegation that the amount in controversy exceeds the jurisdictional threshold”).
+
+12. xAI was first sent the Summons and Complaint on January 15, 2026.
+
+13. In accordance with 28 U.S.C. § 1446(b), this Notice of Removal is timely filed within 30 days of service of summons. See *Murphy Bros., Inc. v. Michetti Pipe Stringing, Inc.*, 526 U.S. 344, 354–56 (1999) (30-day removal period begins upon service of summons and complaint).
+
+14. This Notice has also been filed within one year of the commencement of the State Court Action. See 28 U.S.C. § 1446(c)(1).
+
+15. xAI has attached all process, pleadings, and orders sent to it in the State Court Action, as required by 28 U.S.C. § 1446(a). See Exhibit A.
+
+16. Removal to this Court is proper because the State Court Action was filed in this Court’s District. See 28 U.S.C. § 1441(a).
+
+
+===== Page 3 =====
+
+Case 1:26-cv-00386 Document 1 Filed 01/15/26 Page 4 of 4
+
+17. Written notice of the filing of this Notice of Removal will be given promptly by xAI to counsel for St. Clair, as required by 28 U.S.C. § 1446(d).
+
+18. A copy of this Notice of Removal will be filed promptly by xAI in Supreme Court of the State of New York, in accordance with 28 U.S.C. § 1446(d).
+
+19. xAI files this Notice of Removal solely for the purpose of removing the instant Action and does not waive, and specifically reserves, any and all defenses, arguments, and affirmative matters.
+
+WHEREFORE, xAI hereby removes this action from Supreme Court of the State of New York to the United States District Court for the Southern District of New York.
+
+Dated: January 15, 2026
+
+Respectfully submitted,
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+/s/ Michael S. Shuster
+
+Michael S. Shuster
+
+Daniel M. Sullivan
+
+Gregory J. Dubinsky
+
+425 Lexington Ave.
+
+14th Floor
+
+New York, NY 10017
+
+(646) 837-5151
+
+mshuster@hsgllp.com
+
+dsullivan@hsgllp.com
+
+gdubinsky@hsgllp.com
+
+Attorneys for x.AI Holdings Corp.

@@ -1,0 +1,681 @@
+Source PDF: gov.uscourts.nysd.656279.17.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.17.0.pdf
+OCR Pages: 33
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 1 of 33
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+v.
+X.AI HOLDINGS CORP.,
+Defendant.
+
+Case No. 1:26-cv-00386
+
+DEFENDANT'S MEMORANDUM OF LAW
+IN OPPOSITION TO PLAINTIFF'S MOTION,
+BY ORDER TO SHOW CAUSE, FOR PRELIMINARY INJUNCTION
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 2 of 33
+
+# TABLE OF CONTENTS
+
+PRELIMINARY STATEMENT ...1
+
+BACKGROUND ...2
+
+ARGUMENT ...4
+
+I. Plaintiff’s Motion Is Improper Because
+This Action Should Not Be Heard In This Court. ...4
+
+A. This Suit Must Be Transferred To The U.S.
+District Court For The Northern District Of Texas. ...4
+
+B. The First-Filed Action Between The Parties Is In The Northern District Of Texas. ...5
+
+II. Plaintiff’s Motion For A Preliminary Injunction Must Be Denied ...6
+
+A. Plaintiff Does Not Face Irreparable Harm Absent Preliminary Relief. ...6
+
+1. The Content Plaintiff Has Reported Has Been Removed And Any Content
+That Violates X.AI’s Terms of Service Will Continue To Be Removed. ...6
+
+2. Before Plaintiff Filed This Suit, Defendant Had Already Taken Steps
+to Prevent Further Objectionable Image Generation and Disclosure. ...7
+
+3. Any Purported Harm From Demonetizing Plaintiff Is Not Irreparable. ...9
+
+B. Plaintiff Has Failed To Establish That She Is Likely To Succeed On The Merits ...9
+
+1. Section 230 of the Communications Decency
+Act Bars Plaintiff’s Claims Against xAI Holdings Corp. ...9
+
+2. Plaintiff’s Complaint Is Defective Because
+It Challenges The Actions of Non-Parties. ...15
+
+3. Plaintiff Has Failed To Show Likelihood Of
+Success On The Merits Of Her State-Law Claims. ...15
+
+C. The Balance Of The Equities And The Public Interest Weigh Against Relief ...23
+
+III. Defendant Does Not Seek A Bond. ...24
+
+CONCLUSION ...25
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 3 of 33
+
+# TABLE OF AUTHORITIES
+
+## Cases
+
+Abdel-Fattah v. Pepsico, Inc.,
+948 S.W.2d 381 (Tex. App. 1997) ... 15
+
+Acevedo v. Duncan-Walker,
+2025 WL 2349793 (E.D. Tex. 2025) ... 18
+
+ACLU v. Clapper,
+804 F.3d 617 (2d Cir. 2015) ... 23
+
+Alexander v. Sutton,
+747 F. Supp. 3d 520 (E.D.N.Y. 2024) ... 24
+
+Almeida v. Amazon.com,
+456 F.3d 1316 (11th Cir. 2006) ... 10
+
+Angelilli v. Activision Blizzard, Inc.,
+781 F. Supp. 3d 691 (N.D. Ill. 2025) ... 11, 12
+
+Atl. Marine v. U.S. Dist. Ct.,
+571 U.S. 49 (2013) ... 1, 5
+
+Atl. Recording Corp. v. Project Playlist, Inc.,
+603 F. Supp. 2d 690 (S.D.N.Y. 2009) ... 12
+
+Berlent v. Focus Features, LLC,
+2006 WL 1594478 (S.D.N.Y. 2006) ... 7
+
+Boothbay Absolute Return Strategies v. Belgische Scheepvaartmaatschappij-Compagnie,
+2024 WL 1097128 (S.D.N.Y. 2024) ... 23
+
+Bruesewitz v. Wyeth,
+562 U.S. 223 (2011) ... 10
+
+Courtright v. Epic Games, Inc.,
+795 F. Supp. 3d 1156 (W.D. Mo. 2025) ... 11, 12
+
+Daniel v. Armslist,
+386 Wis. 2d 449 (2019) ... 12
+
+Diaz v. Kroger Co.,
+2019 WL 2357531 (S.D.N.Y. 2019) ... 7
+
+Dryoff v. Ultimate Software Grp.,
+2017 WL 5665670 (N.D. Cal. 2017) ... 11
+
+
+===== Page 3 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 4 of 33
+
+Fair Hous. Council v. Roommates.com, 521 F.3d 1157 (9th Cir. 2008)...10, 12, 13
+Force v. Facebook, Inc., 934 F.3d 53 (2d Cir. 2019)...passim
+Fresh Coat, Inc. v. K-2, Inc., 318 S.W.3d 893 (Tex. 2010)...16
+FTC v. LeadClick Media, 838 F.3d 158 (2d Cir. 2016)...10, 13, 14
+Goddard v. Google, Inc., 640 F. Supp. 2d 1193 (N.D. Cal. 2009)...11, 14
+Gurrola v. United States, 2021 WL 4953906 (W.D. Tex. 2021)...18
+Hedges v. Obama, 2012 WL 1721124 (S.D.N.Y. 2012)...24
+Herrick v. Grindr, 765 F. App'x 586 (2d Cir. 2019)...2
+Herrick v. Grindr, LLC, 306 F. Supp. 3d 579 (S.D.N.Y. 2018)...11
+Himmelstein, McConnell, Gribben, Donoghue &amp; Joseph, LLP v. Matthew Bender &amp; Co., 37 N.Y.3d 169 (2021)...20
+Hurley v. Irish-Am. Gay, Lesbian &amp; Bisexual Grp. of Boston, 515 U.S. 557 (1995)...21
+IHS Ceders v. Mason, 143 S.W.3d 794 (Tex. 2004)...19
+Jackson v. Airbnb, Inc., 639 F. Supp. 3d 994 (C.D. Cal. 2022)...16
+James v. Alorica, Inc., 2025 WL 3028173 (N.D. Tex. 2025)...18
+James v. Meow Media, Inc., 90 F. Supp. 2d 798 (W.D. Ky. 2000)...aff'd, 300 F.3d 683 (6th Cir. 2002)...17
+Jane Doe v. Uber Techs., 79 Cal. App. 5th 410 (2022)...16
+
+
+===== Page 4 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 5 of 33
+
+JSG Trading Corp. v. Tray-Wrap, Inc.,
+917 F.2d 75 (2d Cir. 1990)...9
+
+Klayman v. Zuckerberg,
+753 F.3d 1354 (D.C. Cir. 2014)...10
+
+Mais v. Mais,
+2025 WL 2600040 (Tex. App. 2025)...18
+
+Marshall's Locksmith Serv. v. Google, LLC,
+925 F.3d 1263 (D.C. Cir. 2019)...14
+
+Matal v. Tam,
+582 U.S. 218 (2017)...21
+
+McGee v. T.D.C.J. Director,
+2025 WL 4053151 (E.D. Tex. 2025)...18
+
+Metro Allied Ins. v. Lin,
+304 S.W.3d 830 (Tex. 2009)...20
+
+Metro. Opera v. Local 100,
+239 F.3d 172 (2d Cir. 2001)...21
+
+Miami Herald Publishing Co. v. Tornillo,
+418 U.S. 241 (1974)...21
+
+Moody v. NetChoice, LLC,
+603 U.S. 707 (2024)...20, 21
+
+Neb. Press Ass'n v. Stuart,
+427 U.S. 539 (1976)...22
+
+Oakley, Inc. v. McWilliams,
+879 F. Supp. 2d 1087 (C.D. Cal. 2012)...22
+
+Opera Solutions v. Schwan's Home Service,
+2015 WL 1378968 (S.D.N.Y. 2015)...5
+
+Org. for a Better Austin v. Keefe,
+402 U.S. 415 (1971)...22, 23
+
+Pan Albanian Fed'n v. Mirakaj,
+2025 WL 636090 (S.D.N.Y. 2025)...23
+
+Ricci v. Teamsters Union Local 456,
+781 F.3d 25 (2d Cir. 2015)...10
+
+
+===== Page 5 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 6 of 33
+
+Robinson v. Big Mouth, Inc.,
+2017 WL 11725906 (D. Md. 2017) ...17
+
+SEC v. Alpine Sec.,
+768 F. App’x 93 (2d Cir. 2019) ...5
+
+St. Joseph’s Hosp. v. Am. Anesthesiology.,
+131 F.4th 102 (2d Cir. 2025) ...9
+
+Sweigert v. Goodman,
+2021 WL 2678621 (S.D.N.Y. 2021) ...24
+
+Tenaris Bay City Inc. v. Ellisor,
+718 S.W.3d 193 (Tex. 2025) ...19
+
+Tory v. Cochran,
+544 U.S. 734 (2005) ...22
+
+Twitter, Inc. v. Taamneh,
+598 U.S. 471 (2023) ...19
+
+United States v. Brown,
+348 F.3d 1200 (10th Cir. 2003) ...17
+
+United States v. Stevens,
+559 U.S. 460 (2010) ...23
+
+Vaughns v. Kaufman Cnty.,
+2025 WL 3221482 (N.D. Tex. 2025) ...18
+
+Volokh v. James,
+656 F. Supp. 3d 431 (S.D.N.Y. 2023) ...21, 22
+
+Way v. Boy Scouts of Am.,
+856 S.W.2d 230 (Tex. App. 1993) ...16, 17
+
+Werner Enters. v. Blake,
+719 S.W.3d 525 (Tex. 2023) ...19
+
+Widakuswara v. Lake,
+773 F. Supp. 3d 46 (S.D.N.Y. 2025) ...6
+
+## Statutes
+
+47 U.S.C. § 230 ...passim
+47 U.S.C. § 223 ...6
+
+
+===== Page 6 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 7 of 33
+
+N.Y. Civ. Rights Law § 52-c(2)(a) ... 21
+Tex. Civ. Prac. &amp; Rem. Code § 82.001(3) ... 17
+Tex. Civ. Prac. &amp; Rem. Code §§ 98B.002–0022 ... 21
+
+## Other Authorities
+
+Louis Shaheen, *Section 230’s Immunity for Generative Artificial Intelligence*,
+15 Seattle Journal of Technology, Environmental, &amp; Innovation Law 14 (2024) ... 11
+Restatement (Third) of Torts: Prod. Liab. § 19 ... 17
+
+
+===== Page 7 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 8 of 33
+
+Defendant X.AI Holdings Corp. (“xAI Holdings”) submits this memorandum in opposition to Plaintiff Ashley St. Clair’s motion for a preliminary injunction. Dkt. Nos. 7; 7-1; see also Dkt. No. 15 (denying Plaintiff’s request for a temporary restraining order).¹
+
+## PRELIMINARY STATEMENT
+
+The Court should deny—or, at a minimum, decline to decide—Plaintiff’s sweeping and unjustified motion for a preliminary injunction.
+
+First, Plaintiff agreed to a mandatory forum-selection clause that selected the Northern District of Texas as the “exclusive” forum for this dispute—where the parties’ first-filed action lies. Thus, under binding Supreme Court caselaw, this Court should transfer and not hear Plaintiff’s dispute. Atl. Marine v. U.S. Dist. Ct., 571 U.S. 49, 63 (2013).
+
+Second, even were Plaintiff’s motion properly before the Court, the motion fails. Its first, most fundamental flaw is that an injunction is unnecessary here for the simple reason that Defendant and its affiliates either already have done or are working to do what Plaintiff seeks to require. Specifically, Plaintiff wants certain images of her, created by users prompting the Grok account on X, to be removed. The images identified in Plaintiff’s motion have been removed. To the extent Plaintiff seeks forward-looking, prophylactic relief, Defendant’s affiliates have already changed the functionality of Grok in a way that resolves the concerns Plaintiff raises. As early as January 7—more than a week before Plaintiff commenced this action—the Grok account on X was “prevent[ed] ... on X globally from allowing the editing of images of real people in revealing clothing such as bikinis.” X, @Grok Account Image Generation Updates (Jan. 14, 2026).² That functionality has also been disabled in the Grok application and tab in X (on top of the Grok account on X). In short, Plaintiff cannot establish that she would suffer irreparable harm absent preliminary relief.
+
+Nor has Plaintiff shown a likelihood of success on the merits. All of her claims—few of which her brief even mentions, and none of which she offers meaningful argument to support—
+
+¹ All emphases added unless otherwise noted.
+
+² Available at https://x.com/Safety/status/2011573102485127562.
+
+
+===== Page 8 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 9 of 33
+
+are subject to dismissal under Section 230 of the Communications Decency Act. That statute provides that companies like Defendant “cannot be held liable for providing ‘neutral assistance’ in the form of tools and functionality available equally to bad actors and the app’s intended users.” Herrick v. Grindr, 765 F. App’x 586, 591 (2d Cir. 2019). Disregarding the statutory text and case law on Section 230, Plaintiff points to the (unsourced) remark of a single Senator opining that Section 230 would not apply to AI chatbots. That snippet does not override the text or this Circuit’s precedents.
+
+Plaintiff’s claims have numerous other defects. To name a few: She sues a holding company, rather than the entities that operate Grok and X. She brings product-liability claims without making any effort to show that Grok, X, or the Grok account on X are products as opposed to services; the law shows they should be considered services. She brings causes of action requiring intent without any showing that X, X.AI, or the Defendant holding company ever intended to post sexually explicit content about anyone. She ignores that the content she objects to was created not by Defendant, but by X users using Grok. Finally, the scope of the injunction she seeks presents serious First Amendment problems in its breadth and vagueness—defects that routinely preclude the sort of prior restraint Plaintiff seeks.
+
+For these reasons and others discussed below, the Court should deny Plaintiff’s motion for preliminary injunction and should instead transfer this action promptly to the Northern District of Texas so the parties’ dispute may be resolved in the agreed forum.
+
+## BACKGROUND
+
+Defendant xAI Holdings is the ultimate parent of both X Corp., which operates the X social media platform, and X.AI LLC (“xAI LLC” and, together with xAI Holdings and X Corp., the “xAI Entities”), which operates the popular artificial-intelligence chatbot known as Grok. Defendant itself does not operate either X or Grok.
+
+Grok is a generative artificial-intelligence chatbot that uses xAI’s multimodal models to generate verbal responses upon prompting by users. Declaration of Barry Murphy (“Murphy
+
+
+===== Page 9 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 10 of 33
+
+Decl.”) ¶¶ 8, 9. Users of X can use Grok, including the Grok account on X, to create content. In particular, users can query the Grok account on X (@Grok) and the responses will automatically post to the X platform, the same as from any other X account. Id. ¶ 9. The images of which Plaintiff complains in this action, so far as Defendant and its affiliates have been able to determine, were generated through the Grok account on X. See id. ¶¶ 20–27; Declaration of Samantha Birkenfeld-Malpass (“Birkenfeld-Malpass Decl.”) ¶ 13.
+
+Plaintiff signed up for an account with the xAI Entities on December 10, 2024. Murphy Decl. ¶ 10. In order to do so, Plaintiff was required to manifest assent to the xAI Terms of Service. Id. ¶ 11. When she created her account, those Terms of Service provided that Plaintiff’s “continued use of the Service after any change to these Terms constitutes [her] acceptance of the new Terms of Service.” Id. ¶ 13. “Service” was defined to include the use of Grok and other related services provided by xAI LLC. Id. ¶ 14. Since signing up for her account, Plaintiff has used xAI LLC’s Service, including Grok, on multiple occasions, including as recently as January 4, 2026. See id. ¶¶ 18–19.
+
+Now and at the time Plaintiff most recently used the Service, the xAI Terms of Service have included choice-of-law and forum-selection clauses providing (i) that Texas law “will govern these Terms and any dispute that arises between you and us”; (ii) that “all disputes related to these Terms, the Service, or any patents – including without limitation disputes related to or arising from any Content (whether your or others’ Content), or your or others’ use of the Service or the complete or partial termination thereof – shall be brought and must proceed exclusively” either in the Northern District of Texas or certain Texas state courts; (iii) that the user “consent[s] to personal jurisdiction in those forums and waive[s] any objection as to inconvenient forum”; and (iv) that “[t]he choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph.” Id. ¶ 17.
+
+Despite Plaintiff’s agreement that her claims against xAI LLC’s affiliates—including Defendant here—“shall be brought and must proceed exclusively” in Texas, Plaintiff advised
+
+
+===== Page 10 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 11 of 33
+
+xAI LLC by email in the middle of the day on January 14 that she intended to initiate an action the next day in New York Supreme Court. See Notice of Removal, Ex. A (State Court Filings), Dkt. No. 1-1. Given that Plaintiff appeared determined to litigate in the wrong forum, xAI LLC and xAI Holdings promptly initiated suit in Texas to seek recompense for Plaintiff's threatened—and now effectuated—breach of the forum-selection clause. X.AI LLC, et al v. St. Clair, No. 7:26-cv-00005 (N.D. Tex. Jan. 15, 2026). Later that same day, Plaintiff commenced this action in New York Supreme Court. Defendant filed a Notice of Removal of the state court action to this Court on January 15, 2026, shortly after the action was filed.³
+
+Plaintiff's Complaint brings nine causes of action on allegations that Grok users created sexualized images of her on the X platform and that Defendant supposedly refused to remove such images and retaliated against her by revoking her Premium Subscription to X and demonetizing her account. It is thus immediately apparent that the Complaint rests entirely on allegations concerning the Grok chatbot and related products and services—features expressly governed by the Terms of Service. See generally Notice of Removal, Ex. A (State Court Filings) ¶¶ 9–34, Dkt. No. 1-1. So too for Plaintiff's request for a preliminary injunction, which is based on images made “via Grok and using its technology.” Dkt. No. 7-1 at 1. To protect its contractual right to litigate in the chosen forum, Defendant filed a motion by order to show cause why the forum-selection clause should not be enforced and this action transferred to the Northern District of Texas. Dkt. No. 11.
+
+## ARGUMENT
+
+### I. Plaintiff's Motion Is Improper Because This Action Should Not Be Heard In This Court.
+
+#### A. This Suit Must Be Transferred To The U.S. District Court For The Northern District Of Texas.
+
+As set forth in Defendant’s motion to transfer (see Dkt. Nos. 11, 13), this Court should transfer this action to the Northern District of Texas—i.e., the forum that Plaintiff agreed would be the exclusive venue for disputes between her and xAI Holdings and its affiliates and where
+
+³ The Notice of Removal preserved all defenses, including that venue was improper. See Dkt. No. 1.
+
+
+===== Page 11 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 12 of 33
+
+the first-filed action between the parties is already pending. See Case No. 7:26-CV-00005-O (N.D. Tex.). At all relevant times, the xAI Terms of Service—to which Plaintiff agreed—provided as follows:
+
+[A]ll disputes related to these Terms, the Service, or any patents – including without limitation disputes related to or arising from any Content (whether your or others’ Content), or your or others’ use of the Service ... shall be brought and must proceed exclusively in the federal U.S. District Court for the Northern District of Texas or state courts located in Tarrant County, Texas, United States[.]
+
+Murphy Decl. ¶ 17. The clause further emphasizes that it applies to claims “based in contract, tort, statute, common law, or otherwise,” and likewise expressly clarifies that it “extend[s] to disputes involving [xAI LLC’s] corporate affiliates, who are intended third-party beneficiaries of th[e] [provision].” *Id.* The parties’ forum-selection clause is mandatory, not permissive, and clearly covers the claims and parties here—a suit against an xAI entity regarding content that third-party users generated using the Grok account on X. Moreover, the clause was reasonably communicated to and agreed to by Plaintiff. See Dkt. No. 13.
+
+As the Supreme Court has instructed, “a valid forum-selection clause should be given controlling weight in all but the most exceptional cases.” *Atl. Marine*, 571 U.S. at 63 (quotation marks omitted); see also *Opera Solutions v. Schwan’s Home Service*, 2015 WL 1378968, at *1 (S.D.N.Y. 2015) (Carter, J.). Thus, this Court should deny or decline to decide Plaintiff’s motion for a preliminary injunction and instead enforce the parties’ valid forum-selection clause.
+
+## B. The First-Filed Action Between The Parties Is In The Northern District Of Texas.
+
+As the forum-selection clause requires, xAI and xAI Holdings filed suit against Plaintiff in the Northern District of Texas before she brought the instant action. “With limited exceptions, the first-filed rule instructs that the first suit takes priority.” *SEC v. Alpine Sec.*, 768 F. App’x 93, 94 (2d Cir. 2019). That is all the more reason this Court should deny Plaintiff’s motion or, at a minimum, decline to decide it and transfer this action.
+
+
+===== Page 12 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 13 of 33
+
+## II. Plaintiff's Motion For A Preliminary Injunction Must Be Denied.
+
+### A. Plaintiff Does Not Face Irreparable Harm Absent Preliminary Relief.
+
+To obtain a preliminary injunction, a party must establish that she is “likely to suffer irreparable harm in the absence of preliminary relief.” *Widakuswara v. Lake*, 773 F. Supp. 3d 46, 53 (S.D.N.Y. 2025). Here, Plaintiff seeks an injunction that would direct Defendant to immediately cease (1) “harassment of Ashley St. Clair via Grok and cease using its technology to generate ‘nonconsensual intimate visual depictions’ and ‘digital forgeries,’ as defined by Section 223 of the Communications Act of 1934 (47 U.S.C. § 223) (“Section 223”), depicting Ms. St. Clair; (2) ‘the intentional disclosure of nonconsensual intimate images’ as defined by Section 223 generated by Grok depicting Ms. St. Clair”; and (3) prohibit xAI’s technology including Grok from “retaliating against Ashley St. Clair.” Dkt. No. 7-1. The requested injunction is not necessary to prevent irreparable harm to Plaintiff here for at least three reasons.
+
+#### 1. The Content Plaintiff Has Reported Has Been Removed And Any Content That Violates X.AI’s Terms of Service Will Continue To Be Removed.
+
+Defendant’s affiliated company X Corp. has already removed the specific posts of which Plaintiff complains. And X Corp. will continue to do so should those posts re-appear on the platform and be reported. Indeed, the images Plaintiff complains of began to be removed even before Plaintiff filed this suit. In other words, Plaintiff is pushing on an open door—the xAI Entities’ stated position is that objectionable content will be removed upon request.
+
+The following facts are either undisputed or affirmatively alleged by Plaintiff. X Corp. has a process that allows users to request removal of images from X. Birkenfeld-Malpass Decl. ¶ 7. When users report posts containing objectionable images, X removes images if it is determined that they violate the law or the platform’s policies. *Id.* ¶ 8. Violative posts include child sexual exploitation material, abusive content, certain sexually explicit content, and other content that is illegal or violates X’s policies. *Id.* ¶ 9. In fact, every post Plaintiff identifies in her papers has been removed to the fullest extent practicable. *Id.* ¶ 14. Thus, because the platform’s position before the initiation of this lawsuit has been that it will take down objectionable images of Plaintiff, there is no irreparable harm for an injunction to remedy.
+
+
+===== Page 13 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 14 of 33
+
+To the extent the proposed injunction requests that the objectionable posts be removed as soon as they are posted, it seeks relief that is impracticable. Neither Defendant—which does not control the X platform—nor X Corp. are able to immediately identify and remove from X any and all objectionable images of Plaintiff (or anyone else) that X users post. The X platform is used by hundreds of millions of people who generate untold numbers of posts every day. For one thing, even if the original post containing an objectionable image is removed, other users may have copied it and may repost it. And a third party may use some other generative AI service, such as those offered by the xAI Entities' competitors, and then copy and paste the image onto the X platform. Nonetheless, X Corp. is prepared to remove any content that Plaintiff flags that violates either the law or the platform's guidelines.⁴ Murphy Decl. ¶¶ 20–29; Birkenfeld-Malpass Decl. ¶ 15.
+
+In short, court intervention is not necessary to prevent harm to Plaintiff because images that should be removed have been and are being removed. See Murphy Decl. ¶¶ 20–30; Birkenfeld-Malpass Decl. ¶¶ 14–15. That reality defeats Plaintiff’s request for injunctive relief. See Diaz v. Kroger Co., 2019 WL 2357531, at *3-*4 (S.D.N.Y. 2019) (claim for injunction moot where modifications to website were “completed” and defendant committed to “keep its website up to date and compliant with all applicable standards”). At a minimum, though, Plaintiff cannot “demonstrate any irreparable injury that [she] would suffer that [she] has not already suffered if preliminary relief does not issue.” Berlent v. Focus Features, LLC, 2006 WL 1594478, at *3 (S.D.N.Y. 2006).
+
+2. Before Plaintiff Filed This Suit, Defendant Had Already Taken Steps to Prevent Further Objectionable Image Generation and Disclosure.
+
+Moreover, the xAI Entities have engaged in sustained efforts to address these larger, platform-wide issues, demonstrating that Plaintiff’s requested relief is neither needed nor warranted. Weeks before Plaintiff brought this lawsuit, the xAI Entities changed the functionality of the Grok account on X to address the harms of which Plaintiff complains. Those
+
+⁴ Finally, of course, even requests to remove must be vetted. Users sometimes object to images or posts that violate neither the law nor the platform’s policies.
+
+
+===== Page 14 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 15 of 33
+
+efforts were followed soon after by a similar limitation to the functionality of Grok itself. The result is that the kind of images Plaintiff complains of should be much more difficult, if not impossible, to create through Grok.
+
+Consider the timeline. On December 24, 2025, the Grok account on X obtained the ability to edit images according to user instructions on the X platform. Murphy Decl. ¶ 20. At that time, the @Grok account was prohibited from creating images with nudity. Id. ¶ 21. It soon became apparent that X users were nonetheless prompting Grok to create sexually suggestive images—lacking nudity—by editing user-provided images to dress women and sometimes even children in revealing clothing. Id. ¶ 22.
+
+In response to those user abuses, on January 7, 2026 xAI LLC adopted a new policy to prevent the generation and disclosure of such images. Id. ¶¶ 23–27. The most recent iteration of the press release explains that xAI LLC has “implemented technological measures to prevent the Grok account from allowing the editing of images of real people in revealing clothing such as bikinis.” Id. ¶ 24. That restriction “applies to all users, including paid subscribers.” Id. ¶¶ 24–26. Furthermore, any “image creation and the ability to edit images via the” Grok account on X are now available “only to paid subscribers globally.” Id. ¶ 25. That protection would make it easier to identify those who attempted to generate images that “violate the law or [X]’s policies” and “h[o]ld [them] accountable.” Id.
+
+On January 19, 2026, the xAI Entities took a still further step. Having disabled the at-issue functionality on the Grok account on X, the xAI Entities turned to the Grok app itself. Id. ¶ 27. The January 19 change eliminates entirely Grok’s ability to generate images of real individuals in revealing attire or in sexualized positions. Id.
+
+In short, the xAI Entities’ policies would have prevented and will prevent the creation and dissemination of the images as to which Plaintiff has brought suit. That Defendant’s non-party affiliates have moved speedily to limit the kind of abuses Plaintiff challenges is further confirmation that injunctive relief is unnecessary.
+
+
+===== Page 15 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 16 of 33
+
+3. Any Purported Harm From Demonetizing Plaintiff Is Not Irreparable.
+
+Plaintiff vaguely requests that this Court “prohibit xAI’s technology including Grok from retaliating against Ashley St. Clair.” It is not clear what Plaintiff means, as neither her Complaint nor her motion papers identify any retaliation by or through Grok. Plaintiff does not dispute that the images of which Plaintiff complains were generated by third-party X users via Grok’s automated functionality. The closest Plaintiff comes in alleging retaliation is to complain that, at some point, “xAI retaliated against Ms. St. Clair by removing her Premium subscription and demonetizing her account.” Dkt. No. 7-1 at 2, 7; see also id. at 4.
+
+Plaintiff does not tie any “demonetization” to Grok (or Defendant xAI Holdings) or assert any facts linking it to the objectionable images. In any event, “[w]here money damages are adequate compensation a preliminary junction should not issue.” JSG Trading Corp. v. Tray-Wrap, Inc., 917 F.2d 75, 79 (2d Cir. 1990); see St. Joseph’s Hosp. v. Am. Anesthesiology., 131 F.4th 102, 108 (2d Cir. 2025) (same). By definition, “demonetization” works a harm calculable in money—the effect is to cease paying a given X user. Indeed, Defendant provides evidence of how much Plaintiff has recently made from her X account. See Birkenfeld-Malpass Decl. ¶ 16 (“[I]n 2025 . . . she earned $10,856.24 from X’s ad revenue sharing program.”). Plaintiff does not explain why, even assuming the demonetization was improper—which Plaintiff also does not explain—damages would not be adequate compensation.
+
+B. Plaintiff Has Failed To Establish That She Is Likely To Succeed On The Merits.
+
+Plaintiff’s Complaint advances a fusillade of causes of action. She mentions few of them in her papers, and her limited merits discussion does not remotely meet her burden to show a likelihood of success on the merits. Her claims suffer from numerous fatal flaws.
+
+1. Section 230 of the Communications Decency Act Bars Plaintiff’s Claims Against xAI Holdings Corp.
+
+Section 230 provides that “[n]o provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.” 47 U.S.C. § 230(c)(1). “[T]he text of Section 230(c)(1) should be construed
+
+
+===== Page 16 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 17 of 33
+
+broadly in favor of immunity” for “any cause of action that would make service providers liable for information originating with a third-party user of the service.” Force v. Facebook, Inc., 934 F.3d 53, 64 (2d Cir. 2019); FTC v. LeadClick Media, 838 F.3d 158, 173 (2d Cir. 2016) (quoting Almeida v. Amazon.com, 456 F.3d 1316, 1321 (11th Cir. 2006)).⁵
+
+xAI falls squarely within the protections of Section 230 here. Section 230 “shields conduct if the defendant (1) ‘is a provider or user of an interactive computer service, (2) the claim is based on information provided by another information content provider and (3) the claim would treat [the defendant] as the publisher or speaker of that information.’” Id. Per Plaintiff’s allegations, third parties used Grok to edit user-provided images via their instructions. xAI is immune against Plaintiff’s attempt to make it liable for the speech of others.
+
+To support her crabbed view of Section 230, Plaintiff spurns the statutory text and the caselaw in favor of the statements of a single senator many years after the passage of Section 230 about how the law applies to AI.⁶ Dkt. No. 7-1 at 7–8. Remarkably, she cites no cases to support her Section 230 argument. Her bid to undo Congress’s clear directive should be rejected.
+
+a. xAI Is A “Provider of an Interactive Computer Service.”
+
+xAI LLC is a “provider ... of an interactive computer service”—Grok. See, e.g., Compl. ¶ 2. The statute defines “interactive computer service” as “any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server[.]” 47 U.S.C. § 230(f)(2). This statutory language “has been construed broadly to effectuate the statute’s speech-protective purpose” and has been applied “to a growing list of internet-based service providers.” Ricci v. Teamsters Union Local 456, 781 F.3d 25, 27–28 (2d Cir. 2015); see, e.g., Klayman v. Zuckerberg, 753 F.3d 1354, 1357 (D.C. Cir. 2014) (statute
+
+⁵ The Circuits are unanimous on this point. “[C]lose cases, we believe, must be resolved in favor of immunity[.]” Fair Hous. Council v. Roommates.com, 521 F.3d 1157, 1174 (9th Cir. 2008).
+
+⁶ Of course, “post-enactment” statements “by definition could have had no effect on the congressional vote,” Bruesewitz v. Wyeth, 562 U.S. 223, 242 (2011) (quotation marks omitted), and the Judiciary, not lone members of Congress, applies the law to facts.
+
+
+===== Page 17 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 18 of 33
+
+covers “service that provides information to ‘multiple users’ by giving them ‘computer access to a computer server’”).
+
+Grok is a generative AI service that users can interact with. The conclusion follows that it is “an interactive computer service,” including because it is plainly an “information service” or “system” that “provides or enables computer access by multiple users to a computer server.” See Louis Shaheen, Section 230’s Immunity for Generative Artificial Intelligence, 15 Seattle Journal of Technology, Environmental, &amp; Innovation Law 14 (2024) (arguing that “generative artificial intelligence websites are” an ICS under Section 230) (cleaned up).
+
+## b. Plaintiff’s Claims Are “Based On Information Provided By Another Information Content Provider.”
+
+“The term ‘information content provider’ means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.” 47 U.S.C. § 230(f)(3). As relevant here, it is third-party users—not xAI—who are “responsible” for “information provided through” Grok or X.
+
+Under black-letter law, xAI “cannot be held liable for providing ‘neutral assistance’ in the form of tools and functionality available equally to bad actors and the app’s intended users.” Herrick, 765 F. App’x at 591 (holding Grindr immune under Section 230 for claim based on a third party’s dissemination of objectionable material).7 “[E]ven if a tool facilitates the expression of [harmful or unlawful] information, it is considered neutral so long as users ultimately determine what content to post[.]” Dryoff v. Ultimate Software Grp., 2017 WL 5665670, at *10 (N.D. Cal. 2017) (cleaned up). In other words, “a service provider does not become liable as a content creator simply because it ‘provides neutral tools that a user exploits’ to tortious ends.” Angelilli v. Activision Blizzard, Inc., 781 F. Supp. 3d 691, 699 (N.D. Ill. 2025) (cleaned up); see Courtright v. Epic Games, Inc., 795 F. Supp. 3d 1156, 1163 (W.D. Mo. 2025) (same); Goddard v. Google, Inc., 640 F. Supp. 2d 1193, 1196 (N.D. Cal. 2009) (immunity where
+
+7 Notably, the plaintiff in Herrick used the same counsel as here and similarly brought a hodgepodge of “14 causes of action, the gist of which is that Grindr is a defectively designed and manufactured product.” 306 F. Supp. 3d at 584.
+
+
+===== Page 18 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 19 of 33
+
+website “merely provides third parties with neutral tools to create web content, even if the website knows that third parties are using such tools to create illegal content”).
+
+Indeed, as the Ninth Circuit has explained, a website operator “would likely be entitled to CDA immunity” “even if the users committed their misconduct using electronic tools of general applicability provided by the website operator.” Roommates, 521 F.3d at 1169 n.24; see Force, 934 F.3d at 69 (immunity where Facebook’s algorithms did not “encourage[] or advise[] users to provide the specific actionable content that forms the basis for the claim”); id. at 67 (“[S]o long as a third party willingly provides the essential published content, the interactive service provider receives full immunity[.]”) (quotation marks omitted).
+
+In Angelilli—a case regarding a child’s gaming addiction—the court held that Roblox Corp., “the creator of the Roblox game and platform,” had Section 230 immunity “even though Roblox provides users with tools to create these [addictive] games.” 781 F. Supp. 3d at 696. Critically, Roblox enjoyed immunity despite empowering its users to “create” a “variety of games” that were allegedly “part of what addicts users quickly” and despite allegedly being “aware of the addictive risks inherent in its game.” Id. at 697, 699 (quotation marks omitted). Similarly, in Courtright, the court held that Roblox was protected where it “provided” the “allegedly addictive features to users to utilize in creating games” “as tools for [the] users.” 795 F. Supp. 3d at 1163. In short, “[a] defendant who provides a neutral tool that is subsequently used by a third party to create unlawful content will generally not be considered to have contributed to the content’s unlawfulness.” Daniel v. Armslist, 386 Wis. 2d 449, 472 (2019) (citing cases).
+
+By contrast, a roommate matching service was held unprotected where it “requir[ed] subscribers to provide [violative] information as a condition of accessing its service” rather than simply “provide users neutral tools to post content online.” Roommates, 521 F.3d at 1166, 1175; see Atl. Recording Corp. v. Project Playlist, Inc., 603 F. Supp. 2d 690, 701 (S.D.N.Y. 2009) (“[K]ey to the Ninth Circuit’s decision was the fact that Roommates.com ... provid[ed] the questions and ... requir[ed] users to answer them.”). Similarly, in LeadClick, the defendant
+
+
+===== Page 19 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 20 of 33
+
+received no immunity in a claim centering on the use of “fake news sites to advertise products” where its “role ... far exceeded that of neutral assistance.” 838 F.3d at 164, 176. Among other things, it “affirmatively approved of the use of fake news sites”—including telling a potential client that its “traffic would be ... on fake article pages”—and advised fake news sites on how to be “realistic.” Id. at 164–65.
+
+Unlike cases in which courts have stripped defendants of immunity, Plaintiff does not allege that xAI “elicit[ed] the allegedly illegal content.” Roommates, 521 F.3d at 1172. She does not assert that xAI instructed Grok to create the objectionable content, or that Grok independently did anything.
+
+Rather, as Plaintiff’s allegations make clear, Grok is simply a neutral tool utilized by third parties—placing this case at the heart of Section 230 immunity. See Compl. ¶ 12 (“xAI added an image editing feature to Grok, enabling users to upload a photo, describe the desired changes, and receive a modified version.”). It is solely and exclusively third-party users that “generate[d] sexualized images,” and they do so using images and instructions that they provide. Id. ¶ 18; see, e.g., ¶¶ 20 (“A verified user had prompted Grok with a request” to “alter[] a photo of [Plaintiff].”), 26 (“X users dug up photos of St. Clair . . . and requested Grok undress her and put her in a bikini.”). Third-party users provided the information at issue here: (1) the images of Plaintiff and (2) the prompts dictating how the images should be altered. Indeed, as Plaintiff admits at one point, the inappropriate content arises from images that are “altered by users.” Id. ¶ 27. Thus, as a generally available tool used by third parties, Grok is “content ‘neutral’” and receives immunity. Force, 934 F.3d at 70.
+
+Moreover, xAI’s terms make clear that the content and information users generate via Grok is “User Content” and prohibit users from generating the objectionable content at issue here. Cf. Force, 934 F.3d at 58, 60, 70 (noting Facebook’s terms of service in granting immunity). xAI’s Terms of Service provide that both “input”—including “text” and “images”—and “output from the Service” are “User Content,” which users “are responsible for . . ., including ensuring that it does not violate any applicable law or these Terms.” Murphy Decl.
+
+
+===== Page 20 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 21 of 33
+
+¶ 15. xAI’s “[p]rohibited uses of our Service include[e] any illegal, harmful, or abusive activities, including . . . [v]iolating a person’s privacy or their right to publicity” and “[t]he sexualization or exploitation of children.” *Id.* ¶ 16.
+
+Nor does Plaintiff get any traction with her assertions that xAI was aware of the objectionable nature of the user-generated content. In a case invoked at length by the Second Circuit, the D.C. Circuit explained: “[I]t is well established that notice of the unlawful nature of the information provided is not enough to make it the service provider’s own speech.”
+
+Marshall’s Locksmith Serv. v. Google, LLC, 925 F.3d 1263, 1269 (D.C. Cir. 2019) (quotation marks omitted) (cited by Force, 934 F.3d at 69); see Goddard, 640 F. Supp. 2d at 1198 (Section 230 applies “even if a service provider knows that third parties are using such tools to create illegal content”).
+
+c. Plaintiff’s Claims Treat xAI “As The Publisher or Speaker of That Information.”
+
+Section 230 immunity applies because Plaintiff’s claims treat xAI—not the actual third parties who provided the photos and prompts to edit them—“as the publisher or speaker of th[e] [challenged] information.” LeadClick, 838 F.3d at 173. To determine whether this element is satisfied, “courts must ask whether the duty that the plaintiff alleges the defendant violated derives from the defendant’s status or conduct as a ‘publisher or speaker.’” *Id.* 175 (quotation marks omitted). Plaintiff’s claims clearly meet this test, as she seeks to hold xAI liable for publishing content users generated using Grok. Compl. ¶¶ 20, 26, 27.
+
+d. Stripping xAI of Immunity Here Would Contravene Congress’s Purpose In Shielding Nascent Technology.
+
+If accepted, Plaintiff’s claim that Section 230 does not apply to generative AI would disrupt a massively important and evolving industry and thereby contravene Congress’s purpose in enacting “broad” immunity for interactive computer services. LeadClick, 838 F.3d at 173; see Force, 934 F.3d at 63 (“It is the policy of the United States ... to promote the continued development of the Internet and other interactive computer services and other interactive media[.]”) (quoting § 230(b)(1)); *id.* at 68. In such a critical context—involving a nascent
+
+
+===== Page 21 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 22 of 33
+
+industry valued in the trillions of dollars—and still less on a rushed, preliminary posture, this Court should not be the first to open the floodgates of litigation against AI companies.
+
+2. Plaintiff's Complaint Is Defective Because It Challenges The Actions of Non-Parties.
+
+As Plaintiff is aware, "xAI LLC"—not the defendant in this suit, xAI Holdings Corp.—"owns and operates the generative AI chatbot, Grok." X.AI LLC v. St. Clair, 7:26-cv-00005-O, Dkt. 1 ¶ 16 (Jan. 15, 2026). Nor does xAI Holdings operate Grok or X's social media platform. Murphy Decl. ¶ 7. X.AI Holdings Corp. is simply "xAI LLC's ultimate parent." Id. ¶ 5. There is no allegation that xAI Holdings operates Grok, X, or any other application.
+
+As a matter of Texas law, which governs under the parties' forum-selection clause (see supra, p. 3), parent corporations are not liable for the actions of their subsidiaries absent a showing that Plaintiff has not attempted to make here. See Abdel-Fattah v. Pepsico, Inc., 948 S.W.2d 381, 383 (Tex. App. 1997) ("Because a parent corporation generally has no duty to control its subsidiaries, courts will not ... hold a parent corporation liable for the torts of its subsidiaries."). Therefore, the entity Plaintiff has chosen is simply not responsible for and did not commit the conduct she challenges.
+
+3. Plaintiff Has Failed To Show Likelihood Of Success On The Merits Of Her State-Law Claims.
+
+Plaintiff's affirmative causes of action all arise under state law. In her motion papers, to the extent Plaintiff mentions the legal underpinning of her claims at all, she relies on New York law. But the governing Terms of Service make clear that "[t]he laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us," including to "claims ... based in contract, tort, statute, common law, or otherwise[.]". Murphy Decl. ¶ 17. Thus, Plaintiff must bring her claims under Texas law, and any New York-specific claims fail for this reason alone. Regardless, Plaintiff's claims—to the extent they exist under Texas law—fail for numerous reasons.
+
+
+===== Page 22 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 23 of 33
+
+a. Plaintiff's Strict Liability Claims Fail Because Plaintiff Does Not Even Try To Show That Either Grok Or X Is A Product.
+
+Plaintiff brings three strict-liability causes of action: design defect, manufacturing defect, and marketing defect and failure to warn. See Compl. ¶¶ 35–57 (Causes of Action 1–3). All three claims, of course, require the subject of the claim to be a product. E.g., Way v. Boy Scouts of Am., 856 S.W.2d 230, 238 (Tex. App. 1993) (“[T]he very essence of a products liability cause of action ... is the existence of a product[.]”). Plaintiff is clear that the supposed “product” at which she targets her claims is Grok—specifically the Grok account on X. See, e.g., Compl. ¶ 40 (“Grok was unreasonably dangerous as designed.”); ¶ 38 (challenging “X’s integration of Grok”); see also id. ¶¶ 45, 47 (same for manufacturing defect claim); id. ¶¶ 52, 54 (same for marketing defect claim). Plaintiff’s claims fail because as a matter of law Grok—whether integrated into the X platform or not—is a service, not a product.
+
+Under the Restatement of Torts: Products Liability, which the Texas Supreme Court has invoked (Fresh Coat, Inc. v. K-2, Inc., 318 S.W.3d 893, 897 (Tex. 2010)), “[s]ervices, even when provided commercially, are not products.” Restatement (Third) of Torts: Prod. Liab. § 19(b). The Restatement further cautions that “[a] product is tangible personal property distributed commercially for use or consumption” and “[o]ther items … are products when the context of their distribution and use is sufficiently analogous to the distribution and use of tangible personal property[.]” Id. § 19(a). Texas’s products liability statute similarly contemplates that tangible personal property is the focus of the statute, as it defines “seller” as “a person who is engaged in the business of distributing . . . in the stream of commerce for use or consumption a product or any component part thereof.” Tex. Civ. Prac. &amp; Rem. Code § 82.001(3).
+
+Most courts following the Restatement have declined to find that electronic services such as applications are “products.” See, e.g., Jane Doe v. Uber Techs., 79 Cal. App. 5th 410, 418–19 (2022) (concluding Uber is not a product); Jackson v. Airbnb, Inc., 639 F. Supp. 3d 994, 1010–11 (C.D. Cal. 2022) (dismissing products liability claim against Airbnb because Airbnb is “more
+
+
+===== Page 23 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 24 of 33
+
+akin to a service than to a product”). So too for intangibles generally. See, e.g., United States v. Brown, 348 F.3d 1200, 1213 (10th Cir. 2003) (relying on the Restatement to conclude that “intangibles like investments in securities” are not products).
+
+Moreover, Texas courts have refused to treat the content of speech as a product. In Way v. Boy Scouts of America, the Court of Appeals of Texas addressed allegations that a magazine supplement on shooting sports was defectively designed because it motivated the plaintiff’s son to experiment with firearms, leading to his accidental shooting. See 856 S.W.2d at 232-33. The court held that “the magazine and supplement are not products within the meaning of” the (Second) Restatement. Id. at 239. The court carefully explained that books and other media can be products only in narrow circumstances, as where a flight map contains inaccurate data and a pilot relies on that data to his detriment. See id. at 238. However, critically here, “ideas, thoughts, [and] words” that supposedly “encouraged children to engage in activities that were dangerous” are not products, but rather “intangible characteristics” of the magazine’s communication. Id. at 239.
+
+Way’s holding tracks the law in other jurisdictions, which have refused to treat the content of speech in communications media as a product for purposes of product liability claims. See, e.g., James v. Meow Media, Inc., 90 F. Supp. 2d 798, 811 (W.D. Ky. 2000) (following Restatement § 19 and dismissing claim against makers and distributors of video games, violent movies, and allegedly obscene websites because “intangible thoughts, ideas, and expressive content are not ‘products’ within the realm of the strict liability doctrine”), aff’d, 300 F.3d 683, 701 (6th Cir. 2002) (“video game cartridges, movie cassette, and internet transmissions are not sufficiently ‘tangible’ to constitute products in the sense of their communicative content”); see also Robinson v. Big Mouth, Inc., 2017 WL 11725906, at *1 (D. Md. 2017) (“strict products liability law does not recognize a cause of action for alleged harm stemming from an intangible expression”).
+
+17
+
+
+===== Page 24 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 25 of 33
+
+Plaintiff makes no effort to show that the Grok account on X or its output constitutes a product. Indeed, she ignores the issue entirely. She has therefore failed to establish any likelihood of success on her product liability claims.
+
+b. Plaintiff's IIED Claim Fails Because Plaintiff Substantiates No Intent or Extreme Conduct On The Part Of Defendant.
+
+Plaintiff brings a claim for intentional infliction of emotional distress ("IIED"). Compl. ¶¶ 85–90. Under Texas law, an IIED claim provides for recovery only in “rare instances.” E.g., McGee v. T.D.C.J. Director, 2025 WL 4053151, at *15 (E.D. Tex. 2025). Indeed, “recovery for IIED must be based on circumstances that border on ‘serious criminal acts.’” Mais v. Mais, 2025 WL 2600040, at *3 (Tex. App. 2025). This is not one of those rare cases.
+
+To prove IIED, Plaintiff must show: “(1) the defendant acted intentionally or recklessly; (2) the conduct was extreme and outrageous; (3) the conduct caused the plaintiff emotional distress; and (4) the emotional distress was severe.” Vaughns v. Kaufman Cnty., 2025 WL 3221482, at *9 (N.D. Tex. 2025). Among other things, Plaintiff cannot show that Defendant acted intentionally, given that she admits that the images at issue were generated by users of X, not Defendant. See Gurrola v. United States, 2021 WL 4953906, at *6 (W.D. Tex. 2021) (IIED claim “fail[ed]” where plaintiff failed to plead “any facts to show that [the defendant] acted intentionally or recklessly”).
+
+At best, Plaintiff might allege that in launching Grok and the Grok account on X Defendant’s affiliates should have foreseen that sexually explicit images might be created. Compl. ¶ 43. This hardly amounts to facts alleging conduct “‘so outrageous in character, and so extreme in degree, as to go beyond all possible bounds of decency, and to be regarded as atrocious, and utterly intolerable in a civilized community.’” James v. Alorica, Inc., 2025 WL 3028173, at *5 (N.D. Tex. 2025); see Acevedo v. Duncan-Walker, 2025 WL 2349793, at *7 (E.D. Tex. 2025) (dismissing IIED claim where facts pled did not meet “high standard” for “extreme and outrageous conduct”).
+
+
+===== Page 25 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 26 of 33
+
+c. Plaintiff's Negligence Claim Fails Because Plaintiff Fails To Substantiate The Requisite Causal Connection.
+
+Plaintiff includes a negligence claim. Compl. ¶¶ 65–78. It is a fundamental principle of tort law that a plaintiff pressing a negligence claim must show that the defendant’s conduct was the proximate cause of her alleged injuries. See, e.g., *Tenaris Bay City Inc. v. Ellisor*, 718 S.W.3d 193, 197 (Tex. 2025). “Proximate cause is not established merely by proof that the injury would not have happened if not for the defendant’s negligence.” *Werner Enters. v. Blake*, 719 S.W.3d 525, 528 (Tex. 2023). Here, Plaintiff’s inability to show that Defendant’s conduct was the proximate cause of her supposed injuries dooms her negligence claim.
+
+Defendant’s affiliate, xAI LLC, created neutral, publicly available tools. The conduct Plaintiff challenges is that third parties used those tools to make objectionable images. But “[l]iability does not fall on other participants in the causal chain whose actions merely ‘created the condition which made the injury possible.’” *Id.* (quoting *IHS Ceders v. Mason*, 143 S.W.3d 794, 803 (Tex. 2004)); cf. *Twitter, Inc. v. Taamneh*, 598 U.S. 471, 499 (2023) (“the mere creation of [social media] platforms” is “not culpable,” even if “bad actors ... are able to use platforms like defendants’ for illegal—and sometimes terrible—ends”).
+
+Plaintiff therefore cannot show that Defendant—the non-operating parent entity that Plaintiff sued—proximately caused the alleged harms.
+
+d. Plaintiff’s Statutory Causes Of Action Must Be Brought Under Texas Law, And Are Meritless Regardless.
+
+Plaintiff includes a pair of New York-based statutory causes of action, invoking Section 349 of the General Business Law and Section 52-c of the Civil Rights Law. Compl. ¶¶ 58–64, 91–95. Neither has merit. At the outset, under the binding choice-of-law clause Plaintiff accepted, she has no cause of action under New York statutes and should have brought the relevant claims under Texas law.
+
+In any event, Plaintiff’s deceptive practices and unlawful dissemination claims fail under both New York and Texas law for a host of reasons. For one, an alleged representation is not actionable unless it is a “producing cause” of the plaintiff’s damages, meaning “that the act was a
+
+
+===== Page 26 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 27 of 33
+
+substantial factor in bringing about the injury, without which the injury would not have occurred.” Metro Allied Ins. v. Lin, 304 S.W.3d 830, 834 (Tex. 2009); accord Himmelstein, McConnell, Gribben, Donoghue &amp; Joseph, LLP v. Matthew Bender &amp; Co., 37 N.Y.3d 169, 176 (2021) (requiring that “plaintiff suffered an injury as a result of the deception”).
+
+Plaintiff’s deceptive practices claim is based on the alleged “misrepresentation” that Grok would stop creating objectionable images of Plaintiff, but Plaintiff’s alleged injuries are based instead on third parties’ creation and dissemination of the images. Plaintiff offers no allegations suggesting a separate injury arising from any supposed misrepresentation. Thus, as pleaded, any alleged injury “would ... have occurred” “without” the alleged misrepresentation, Metro, 304 S.W. 2d at 834, and her claim therefore fails.
+
+Plaintiff’s statutory dissemination claim fares no better. Both Texas and New York impose liability under the relevant statutes only where the defendant acts with scienter of at least recklessness. See Tex. Civ. Prac. &amp; Rem. Code §§ 98B.002–0022; N.Y. Civ. Rights Law § 52-c(2)(a). Plaintiff’s Complaint includes no allegations suggesting that xAI Holdings acted with any scienter—whether intentionally, knowingly, or recklessly. At most, Plaintiff alleges that xAI LLC’s chatbot was made aware, at some point, of Plaintiff’s objection, but Plaintiff cites no authority suggesting that xAI LLC (let alone its parent company, Defendant here) should be charged with knowing all information provided to its chatbots. Moreover, that the xAI Entities have worked to remove the objectionable posts further undermines any showing of the requisite scienter.
+
+e. Plaintiff’s Requested Relief Would Likely Violate The First Amendment.
+
+Here, Plaintiff asks this Court to enjoin “harassment of Ashley St. Clair via Grok” and to “prohibit xAI’s technology including Grok from retaliating against Ashley St. Clair.” Plaintiff cannot show a likelihood of success because her requested relief runs headfirst into the First Amendment.
+
+The First Amendment shields “a [social-media] platform [in] compiling the third-party speech it wants in the way it wants.” Moody v. NetChoice, LLC, 603 U.S. 707, 817 (2024); see
+
+
+===== Page 27 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 28 of 33
+
+Hurley v. Irish-Am. Gay, Lesbian &amp; Bisexual Grp. of Boston, 515 U.S. 557, 569-70 (1995) (First Amendment extends to choice in how to “combin[e] multifarious voices”); Miami Herald Publishing Co. v. Tornillo, 418 U.S. 241, 258 (1974) (First Amendment shields newspaper’s decisions concerning “content of the paper” and “[t]he choice of material to go into it”). As relates to the X platform, “[d]eciding on the third-party speech that will be included in or excluded from a compilation . . . is expressive activity,” so “[w]hen the government interferes with such editorial choices,” it “confronts the First Amendment”—even if the “compiler includes most items and excludes just a few.” Moody, 603 U.S. at 731-32; see id. at 738 (“That [social-media] platforms happily convey the lion’s share of posts submitted to them makes no significant First Amendment difference.”). Thus, in operating the X platform, X Corp. exercises functions at the heart of the First Amendment’s protections when it chooses which content it will “remove, label or demote.” Id. at 736; see id. at 740 (“When the platforms use their Standards and Guidelines to decide which third-party content those feeds will display ... they are making expressive choices. And because that is true, they receive First Amendment protection”). And, as this Court has recognized, that protection extends even to odious speech, as “the proudest boast of our free speech jurisprudence is that we protect the freedom to express ‘the thought that we hate.’” Volokh v. James, 656 F. Supp. 3d 431, 436 (S.D.N.Y. 2023) (Carter, J.) (quoting Matal v. Tam, 582 U.S. 218 (2017)); see id. (“the First Amendment protects ... speech that may be deemed ‘hateful’”).
+
+Given the core First Amendment interests implicated here, Plaintiff cannot succeed in asking this Court to impose a nebulous prior restraint on "harassment" and "retaliation." In the first place, the injunction would be a naked invasion of a social media platform's editorial prerogative, which enjoys First Amendment protection. Moreover, as the Second Circuit has explained, "the First Amendment strongly disfavors injunctions that impose a prior restraint on speech." Metro. Opera v. Local 100, 239 F.3d 172, 178 (2d Cir. 2001); see also Neb. Press Ass'n v. Stuart, 427 U.S. 539, 559 (1976) (prior restraints are "the most serious and the least tolerable infringement on First Amendment rights").
+
+21
+
+
+===== Page 28 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 29 of 33
+
+Thus, “[a]ny prior restraint on expression comes ... with a ‘heavy presumption’ against its constitutional validity.” Org. for a Better Austin v. Keefe, 402 U.S. 415, 419 (1971). Plaintiff “carries a heavy burden of showing justification for the imposition of such a restraint.” Id. Among other things, the court must scrutinize whether any relief would be either too narrow to be effective or overbroad. See Tory v. Cochran, 544 U.S. 734, 738 (2005) (overturning injunction that amounted “to an overly broad prior restraint upon speech, lacking plausible justification”); Oakley, Inc. v. McWilliams, 879 F. Supp. 2d 1087, 1090 (C.D. Cal. 2012) (“injunctions against defamation in general ... would also be ineffective, overbroad, or both.”).
+
+The injunction Plaintiff seeks would be almost certainly overbroad, among other potential First Amendment problems. What constitutes "harassment" and "retaliation" in the context of a chatbot that posts content on a social media platform is not at all clear. Consider this Court's decision in Volokh v. James, which addressed a requirement in New York's Hateful Conduct Law that social media companies disclose and create a complaint process for uses of social media that "vilify" or "humiliate" persons based on certain protected characteristics. 656 F. Supp. 3d at 437-38. "It is not clear," this Court warned, "what the terms like 'vilify' and 'humiliate' mean for the purposes of the law." Id. at 446. So too here. Would posts sharply critical of Plaintiff's personal life or politics be prohibited as "harassing" or "retaliatory"? How hostile would the criticism have to be to clear the bar? What about satirical jokes or images, mocking Plaintiff, that a user asks Grok to create? See id. at 446 ("Likewise, could social media posts expressing anti-American views be considered conduct that humiliates or vilifies a group based on national origin?"). The examples of protected speech that could be caught up in an injunction are legion.
+
+Thus, even when a restriction is motivated by legitimate concerns, courts have a constitutional obligation to avoid chilling protected speech. See, e.g., United States v. Stevens, 559 U.S. 460 (2010). In the injunction context, Keefe is instructive. There, local activists objected to Keefe's real estate sales practices, and in response circulated leaflets, including to parishioners entering and exiting Keefe's church. Some of the leaflets even provided Keefe's
+
+
+===== Page 29 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 30 of 33
+
+home phone number. The activists threatened that they would continue until Keefe stopped his practices. 402 U.S. at 416–17. The Illinois courts enjoined the leafleting because of its invasive and coercive nature, but the Supreme Court reversed and vacated the injunction. The Court held that neither ground overcame the “heavy presumption” against prior restraints, cautioning that “[t]he claim that the expressions were intended to exercise a coercive impact on [Keefe] does not remove them from the reach of the First Amendment” and similarly that “[d]esignating the conduct as an invasion of privacy ... is not sufficient to support an injunction against peaceful distribution of informational literature[.]” *Id.* at 419–20.
+
+Plaintiff’s motion is an open invitation to the Court—on a rushed basis—to insert itself into the content moderation policies of the world’s largest social media platform. Worse, Plaintiff makes little effort to explain how the injunction she seeks can be narrowly tailored to give her meaningful relief without suppressing speech the First Amendment protects. Nor are the terms of the injunction clear enough to avoid chilling protected speech. *Cf.* *Volokh*, 656 F. Supp. 3d at 446. This is yet another reason to deny the motion.
+
+## C. The Balance Of The Equities And The Public Interest Weigh Against Relief.
+
+Plaintiff’s motion for injunctive relief also fails because she cannot show the “balance of [the] equities tips in [her] favor and that an injunction is in the public interest.” *ACLU v. Clapper*, 804 F.3d 617, 622 (2d Cir. 2015). “Put simply, a balancing of the equities amounts to ‘the hardship imposed on one party outweigh[ing] the benefit to the other.’” *Pan Albanian Fed’n v. Mirakaj*, 2025 WL 636090, at *9 (S.D.N.Y. 2025). As demonstrated, Plaintiff’s request for relief based on “virtually nude” images (that have been removed and that users can no longer create using the Grok account) are moot, so there is no harm to her that an injunction would remedy. See *Boothbay Absolute Return Strategies v. Belgische Scheepvaartmaatschappij-Compagnie*, 2024 WL 1097128, at *7 (S.D.N.Y. 2024) (“likelihood that Plaintiffs’ claim [was] substantially if not entirely moot” meant that the “balance of equities [] counsel[ed] against preliminary injunctive relief”).
+
+
+===== Page 30 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 31 of 33
+
+Mootness aside, Plaintiff's request for injunctive relief would harm both the xAI Entities and the public's interest because “[s]ecuring First Amendment rights is in the public interest.” *Alexander v. Sutton*, 747 F. Supp. 3d 520, 555 (E.D.N.Y. 2024). Plaintiff's requests go far beyond just matters concerning “virtually nude” images. She seeks a vague and almost certainly unconstitutional prior restraint requiring Defendant to “cease harassment of Ashley St. Clair via Grok” and “prohibit xAI’s technology including Grok from retaliating against Ashley St. Clair.” Dkt. 7 at 2. Thus, to the extent there is any question as to how the balance of the equities tips—and Defendant submits that there is not—such question should be resolved in favor of not infringing on protected speech. See *Sweigert v. Goodman*, 2021 WL 2678621, at *8 (S.D.N.Y. 2021) (“[E]ven if [the plaintiff] had shown irreparable injury, he would not be entitled to a preliminary injunction because the First Amendment considerations would tip the balance of hardships towards [the defendant].”); *Hedges v. Obama*, 2012 WL 1721124, at *27 (S.D.N.Y. 2012) (“[T]he equities must tip in favor of protecting [First Amendment] rights.”).
+
+## III. Defendant Does Not Seek A Bond.
+
+Plaintiff speculates that “Defendant’s likely goal in removing th[is] matter to federal court” was to request an “unaffordable” “bond.” Br. at 10. Not so; if an injunction is granted, Defendant does not seek a bond.
+
+
+===== Page 31 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 32 of 33
+
+## CONCLUSION
+
+For the foregoing reasons, xAI Holdings respectfully requests that the Court decline to rule on the motion for a preliminary injunction so that the motion can be decided in the proper forum, the Northern District of Texas. In the alternative, Defendant requests that the Court deny Plaintiff's motion for a preliminary injunction.
+
+Dated: January 21, 2026
+New York, New York
+
+/s/ Michael S. Shuster
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+Michael S. Shuster
+Daniel M. Sullivan
+Gregory J. Dubinsky
+425 Lexington Ave., 14th Floor
+New York, New York 10017
+Tel: 646.837.5151
+mshuster@hsgllp.com
+dsullivan@hsgllp.com
+gdubinsky@hsgllp.com
+
+Attorneys for Defendant
+
+
+===== Page 32 =====
+
+Case 1:26-cv-00386-ALC Document 17 Filed 01/21/26 Page 33 of 33
+
+## CERTIFICATE OF COMPLIANCE
+
+I hereby certify that the foregoing memorandum complies with Local Rule 7.1(c). The memorandum contains 8733 words, exclusive of the portions exempted by Rule 7.1(c), as determined by the Word Count feature in Microsoft Word.
+
+/s/ Michael S. Shuster
+Michael S. Shuster

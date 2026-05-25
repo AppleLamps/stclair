@@ -1,0 +1,109 @@
+Source PDF: gov.uscourts.nysd.656279.77.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.77.0.pdf
+OCR Pages: 2
+
+===== Page 0 =====
+
+MEMO ENDORSED
+
+3 | 16 COURT STREET, 33rd FLOOR | BROOKLYN, NY 112
+
+CARRIE@CAGOLDBERGLAW.COM | WWW.CAGOLDBERGLAW.COM
+
+DOCKETED BY
+
+OJ/DOCKET
+
+Filed 03/02/26
+
+DOCKET
+
+DOCUMENT
+
+ELECTRONICALLY FILED
+
+DOC#
+
+DATE FILED: 3/2/26
+
+February 26, 2026
+
+VIA ECF
+
+Hon. Andrew L. Carter
+United States District Judge
+Southern District of New York
+500 Pearl Street
+New York, NY 10007
+
+Re: Ashley St. Clair v. X.AI Holdings Corp., et al., No. 1:26-cv-00386ALC
+Response to Shuster Letter dated February 25, 2026, Doc. 71
+
+Dear Judge Carter:
+
+This firm is counsel for Plaintiff Ashley St. Clair in the above-captioned matter.
+
+We write to respectfully request that the Court also allow Plaintiff to file her own Further Supplemental Declaration after granting Defendants' request to file supplemental evidence following the conclusion of briefing on their motion to transfer venue (Dkts. 71-74). Plaintiff's evidence is vital to correct the record and conclusively rebuts Defendants' assertions.
+
+Defendants have been generously afforded multiple opportunities to present new evidence and to restructure their arguments. As we enter this fifth round of submissions, it has become increasingly apparent that they have continued to produce evidence selectively. This has compelled us and the Court to interpret incomplete excerpts of their own internal code and system logs – complex materials that are far better suited for analysis by a qualified expert during discovery. However, again and again, even with a layperson's understanding of Defendants' evidence, it is clear that at every turn Defendants have made demonstrable errors, and their evidence does not support their assertions.
+
+Defendants now claim that their new evidence (a purported IP audit log) shows Plaintiff "used" X eight times on January 15, 2026, the date X's new TOS went into effect (Dkt. 71). Not only is it impossible to corroborate this log, which is partially encrypted, the log provides dates and times based on "Zulu time," or UTC.
+
+It is uncontested that Plaintiff is located in New York, NY (UTC-5 or EST). It is further uncontested that X Corp. has its headquarters in Bastrop, TX (UTC-6 or CST). The datapoints in Defendants' Declaration purport to show use on January 15, 2026 actually occurred on January 14, 2026, under both EST (New York, NY) and CST (Balstrop, TX). There are no entries that fall on January 15, 2026.
+
+X's Terms of Service are silent as to the time zone for the effective date and time. No reasonable person would read a contract to fall under a time zone in which neither contracting
+
+Page 1 of 2
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 77 Filed 03/02/26 Page 2 of 2
+
+646.666.8908 | 16 COURT STREET, 33rd FLOOR | BROOKLYN, NY 11241
+
+CARRIE@CAGOLDBERGLAW.COM | WWW.CAGOLDBERGLAW.COM
+
+party is present, the performance of the contract did not occur, and neither party manifested an intent to contract in a foreign time zone.
+
+This Court’s own precedent is clear that where there is ambiguity giving rise to multiple possible interpretations, “the preferable interpretation is the more equitable and rational of the two.” Ms. Liberty Inc. v. Eyelematic Mfg. Co., Inc., 931 F.Supp. 264, 268 (S.D.N.Y. 1996).
+
+Defendants can hardly expect the Court to conclude that a reasonable person would have believed under the circumstances that X’s TOS referred to a wholly unrelated, foreign time zone with no relevance to the transaction.
+
+Additionally, Defendants supplied highly technical exhibits that it expects the Court to take at face value. The exhibits do not actually describe any use of the X product by Ms. St. Clair. There is no material that shows Ms. St. Clair used X – that is it provides no reference to posts, direct messages, likes, retweets, clicking on links. Instead, it appears to provide ghost pings to her IP address which seems to occur automatically.
+
+To that end, we attach to this letter as Exhibit A: a Declaration of Plaintiff Ashley St. Clair in which she reattests that she has not used X since January 14, 2026, under EST or CST.
+
+Having failed repeatedly to introduce adequate evidence to hold Plaintiff to the asserted forum-selection clause, they now attempt a fifth bite at the apple. It is imperative that Plaintiff be given the same opportunity to respond.
+
+As Plaintiff’s own evidence will show, it is time for this case to proceed to the merits.
+
+We thank the Court for its consideration of this letter.
+
+Respectfully,
+
+C.A. GOLDBERG, PLLC
+
+/s/Carrie Goldberg
+
+Carrie Goldberg, Esq.
+
+C.A. Goldberg, PLLC
+
+16 Court Street, 33rd Floor
+
+Brooklyn, NY 11241
+
+carrie@cagoldberglaw.com
+
+Attorneys for Plaintiff
+
+Copy to: All counsel via ECF
+
+Plaintiff's request to file an additional supplemental declaration, attached as Exhibit A to ECF No. 76, is granted. The Clerk of Court is respectfully directed to terminate the pending letter motion at ECF No 76.
+
+![img-0.jpeg](img-0.jpeg)
+
+March 2, 2026
+
+New York, NY

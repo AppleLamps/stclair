@@ -1,0 +1,182 @@
+Source PDF: gov.uscourts.txnd.413941.1.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\X.AI LLC v. St Clair, 7-26-cv-00005\gov.uscourts.txnd.413941.1.0.pdf
+OCR Pages: 7
+
+===== Page 0 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 1 of 7 PageID 1
+
+# UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS
+## WICHITA FALLS DIVISION
+
+|  X.AI LLC and X.AI HOLDINGS CORP.,
+
+Plaintiffs,
+
+v.
+
+ASHLEY ST. CLAIR,
+
+Defendant. | Case No. _______________
+
+COMPLAINT  |
+| --- | --- |
+
+# INTRODUCTION
+
+1. This is a straightforward case involving an inarguable breach of contract by the Defendant, Ashley St. Clair.
+2. Plaintiff X.AI LLC (“xAI LLC”) operates various technologies, including the generative AI chatbot known as Grok. Plaintiff X.AI Holdings Corp. (“xAI Holdings,” and together with xAI LLC, the “xAI Entities”) is xAI LLC’s ultimate parent.
+3. Defendant Ashley St. Clair signed up for an account on Plaintiff’s platform, and upon doing so agreed to the xAI Terms of Service, which obligate Defendant to bring any disputes between herself and xAI LLC—and xAI’s affiliates—exclusively in this Court or the state courts located in Tarrant County.
+4. Notwithstanding this clear agreement to litigate in Texas, Defendant nonetheless declared her intention to sue xAI Holdings some 1600 miles away in state court in New York.
+5. The xAI Entities bring this action to secure a declaration that Defendant’s actions in commencing the New York suit constitute a violation of the forum-selection clause, injunctive relief to stop Defendant from infringing Plaintiffs’ rights under the Terms of Service, and
+
+
+===== Page 1 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 2 of 7 PageID 2
+
+monetary damages, including reasonable attorney’s fees incurred in defending the New York action.
+
+## PARTIES
+
+6. Plaintiff X.AI LLC is a limited liability company formed under the laws of Nevada, with its principal place of business in Palo Alto, California. Its sole member is X.AI Corp., a Nevada corporation with its principal place of business in Palo Alto, California.
+
+7. Plaintiff X.AI Holdings Corp. is a Nevada corporation with its principal place of business in Palo Alto, California. It is the ultimate parent corporation of xAI LLC.
+
+8. On information and belief, Defendant Ashley St. Clair is a resident and citizen of New York, New York.
+
+## JURISDICTION AND VENUE
+
+9. This Court has subject matter jurisdiction over the matter pursuant to 28 U.S.C. § 1332. There is complete diversity of citizenship between the parties, and the amount in controversy exceeds $75,000.
+
+10. As set forth above, on information and belief, Defendant is a citizen of New York.
+
+11. xAI is a Nevada LLC with its principal place of business in California. Its sole member is X.AI Corp., a Nevada corporation with its principal place of business in California.
+
+12. xAI Holdings is a Nevada corporation with its principal place of business in California.
+
+13. The xAI Entities seek damages for breach of a forum-selection clause, including attorneys’ fees incurred in defending against an action in the wrong forum. Given that such attorneys’ fees will easily exceed $75,000, the amount-in-controversy requirement in 28 U.S.C.
+
+
+===== Page 2 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 3 of 7 PageID 3
+
+§ 1332 is met. In addition, the costs of compliance with a temporary restraining order Defendant seeks in the wrong forum also exceed $75,000.
+
+14. The Court has personal jurisdiction over Defendant by virtue of her agreement to litigate all disputes with xAI LLC and its affiliates in this State.
+
+15. Venue is proper pursuant to the forum-selection clause in an agreement between xAI and Defendant and pursuant to 28 U.S.C. § 1391(b)(3).
+
+## FACTUAL ALLEGATIONS
+
+16. xAI LLC owns and operates the generative AI chatbot, Grok. Grok is a free AI assistant designed by xAI LLC to maximize truth and objectivity. It is a true AI companion for unfiltered answers with advanced capabilities in reasoning, coding, and visual processing. Grok offers real-time search, image generation, trend analysis and more.
+
+17. Defendant signed up for an xAI account on December 10, 2024. In order to do so, she was required to manifest assent to the xAI Terms of Service. At the time Defendant created her account, those Terms provided that “[y]our continued use of the Service after any change to these Terms constitutes your acceptance of the new Terms of Service.” The term “Service” was defined at that time to include Grok.
+
+18. Since signing up for her account, Defendant has used xAI LLC’s Service, including Grok, on multiple occasions, including as recently as January 4, 2026.
+
+19. At present and at the time Defendant most recently used xAI’s Service, the xAI Terms of Service have contained choice-of-law and forum-selection clauses stating as follows:
+
+Governing Law; Jurisdiction and Venue. The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other agreement to the contrary, all disputes related to these Terms, the Service, or any patents
+
+
+===== Page 3 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 4 of 7 PageID 4
+
+- including without limitation disputes related to or arising from any Content (whether your or others' Content), or your or others' use of the Service or the complete or partial termination thereof – shall be brought and must proceed exclusively in the federal U.S. District Court for the Northern District of Texas or state courts located in Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph. Without prejudice to the foregoing, you agree that, in its sole discretion, xAI may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction and venue over the claim.
+
+[Emphasis added]
+
+20. Despite Defendant’s agreement to bring suit against xAI LLC and its affiliates only in Texas, on January 14, 2026, an attorney for Defendant, Carrie Goldberg, e-mailed legal@x.ai purporting to “notif[y]” an unspecified xAI entity of Defendant’s intent to file an ex parte application for a Temporary Restraining Order against an unspecified xAI entity in New York Supreme Court, New York County. Ms. Goldberg stated that the filing would be made the following day at 1:30 PM—but did not provide any court papers at that time.
+
+21. At 1:56 PM on January 14, 2026, counsel for the xAI entities asked Ms. Goldberg to “provide [the] TRO papers . . . as soon as possible and at all events before close of business today.” Ms. Goldberg did not send the xAI Entities’ counsel any papers until 9:43 PM that night.
+
+22. She provided a draft Complaint the next day naming X.AI Holdings Corp. as the defendant in the threatened New York action.
+
+
+===== Page 4 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 5 of 7 PageID 5
+
+23. The xAI Entities bring this suit to enforce their contractual right to have any disputes between them and those who use the xAI platform in their chosen forum.
+
+## CAUSES OF ACTION
+
+## Count I: Breach of Contract/Anticipatory Repudiation
+
+24. Plaintiffs incorporate the allegations of paragraphs 1 through 23 above.
+
+25. The xAI Terms of Service constitutes a valid and enforceable contract. Plaintiff xAI LLC has performed under that contract, including by making its platform available to Defendant, and Plaintiff xAI LLC has not materially breached the contract.
+
+26. Plaintiff xAI Holdings is an expressly designated third-party beneficiary under the above-quoted section of the xAI Terms of Service regarding “Governing Law; Jurisdiction and Venue.”
+
+27. Defendant has breached the xAI Terms of Service either by suing xAI Holdings, an expressly designated third-party beneficiary of those Terms of Service, in New York in violation of the forum-selection clause contained in the xAI Terms of Service or, in the alternative, through her words and conduct repudiating and unambiguously indicating an intention to refuse performance on her contractual obligations, including by a threatened imminent filing of a lawsuit against xAI Holdings in New York in violation of the forum-selection clause.
+
+28. Plaintiffs have suffered damages as a result of Defendant’s breaches, including but not limited to, loss of time, extra efforts and costs expended, loss of a contractually agreed-upon forum for resolution of disputes, and attorney’s fees.
+
+29. Plaintiffs are therefore entitled to contractual monetary damages against Defendant, including attorney’s fees, in an amount exceeding $75,000.
+
+
+===== Page 5 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 6 of 7 PageID 6
+
+## Count II: Declaratory Judgment
+
+30. Plaintiffs incorporate the allegations of paragraphs 1 through 29 above.
+
+31. An actual case or controversy exists as to the rights, duties, and obligations of the parties under the xAI Terms of Service.
+
+32. Thus, Plaintiffs seek a declaratory judgment pursuant to the Court’s authority under 28 U.S.C. § 2201 that the xAI Terms of Service are a valid, binding, and enforceable contract and that Defendant’s commencement, maintenance, or pursuit of any dispute against Plaintiffs or any of their affiliates in any forum other than the state or federal courts of Texas is a violation of the xAI Terms of Service.
+
+## PRAYER FOR RELIEF
+
+WHEREFORE, Plaintiffs pray that the Court grant the following relief:
+
+a. A permanent injunction enjoining Defendant from commencing, maintaining, or pursuing any dispute against Plaintiffs or any of their affiliates in any forum other than the federal or state courts located in Tarrant County, Texas;
+
+b. A money judgment against Defendant in an amount to be determined at trial;
+
+c. A declaration that:
+
+a. the xAI Terms of Service are a valid, binding, and enforceable contract; and
+
+b. Defendant’s commencement, maintenance, or pursuit of any dispute against Plaintiffs or any of their affiliates in any forum other than the state or federal courts of Texas is a violation of the xAI Terms of Service;
+
+d. Pre- and post-judgment interest;
+
+e. Costs of the suit, including reasonable attorney’s fees and expenses; and
+
+f. Such other relief as the Court deems equitable and proper.
+
+
+===== Page 6 =====
+
+Case 7:26-cv-00005-O Document 1 Filed 01/15/26 Page 7 of 7 PageID 7
+
+Dated: January 15, 2026
+
+/s/ Charles W. Fillmore
+Charles W. Fillmore
+Texas Bar No. 00785861
+chad@fillmorefirm.com
+The Fillmore Law Firm, LLP
+201 Main Street, Suite 700
+Fort Worth, Texas 76102
+Tel: (817) 332-2351
+Fax: (817) 870-1859
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+Michael S. Shuster (pro hac vice forthcoming)
+Daniel M. Sullivan (pro hac vice forthcoming)
+Gregory J. Dubinsky (pro hac vice forthcoming)
+425 Lexington Ave., 14th Floor
+New York, New York 10017
+Tel: 646.837.5151
+mshuster@hsgllp.com
+dsullivan@hsgllp.com
+gdubinsky@hsgllp.com
+
+Attorneys for Plaintiffs

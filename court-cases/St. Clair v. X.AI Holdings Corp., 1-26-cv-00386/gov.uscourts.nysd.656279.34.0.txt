@@ -1,0 +1,58 @@
+Source PDF: gov.uscourts.nysd.656279.34.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.34.0.pdf
+OCR Pages: 3
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 34 Filed 01/30/26 Page 1 of 3
+
+# UNITED STATES DISTRICT COURT
+## SOUTHERN DISTRICT OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+v.
+X.AI HOLDINGS CORP.,
+Defendant.
+
+Case No. 1:26-cv-00386
+
+**SUPPLEMENTAL DECLARATION OF BARRY MURPHY IN SUPPORT OF DEFENDANT’S MOTION TO TRANSFER VENUE**
+
+I, Barry Murphy, declare under penalty of perjury as follows:
+
+1. I am the Legal Director of Safety, Content, and Law Enforcement at X.AI LLC (“xAI LLC”).
+2. I submit this supplemental declaration in support of Defendant’s Motion to Transfer Venue.
+3. I am familiar with the records of xAI LLC.
+4. As noted in my prior declarations dated January 16, 2026, and January 23, 2026, Plaintiff Ashley St. Clair signed up for an xAI account on December 10, 2024.
+5. Enclosed as Exhibit A is a full data print out of Ms. St. Clair’s account information, as that information is stored in xAI LLC’s systems. An excerpt of that information, which shows that her xAI account was created on December 10, 2024, is below.
+
+6. As described in my prior declaration dated January 23, 2026, since at least December 10, 2024, to the present, users are presented with a webpage when creating an xAI account that states: “By continuing, you agree to x.AI’s Terms of Service and Privacy Policy.” No user may create an xAI account without being taken to this webpage.
+7. In order to have created an xAI account during this time period, Ms. St. Clair was required to sign up by either going to grok.com or downloading the Grok
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 34 Filed 01/30/26 Page 2 of 3
+
+application. At the time she created her xAI account, there was not a mechanism that pushed users from x.com to grok.com, or otherwise automatically enrolled (or created accounts for) X users in xAI.
+
+8. Enclosed as Exhibit B
+
+9.
+
+10.
+
+11. The above-referenced exhibits (Exhibits A-B) were all made at or near the time of the activity as part of a regular practice of that activity, and these records are kept in the ordinary course of xAI's business.
+
+12. I declare under penalty of perjury that the foregoing is true and correct.
+
+
+===== Page 2 =====
+
+Case 1.28 cv-00366-ALC Document 34 Filed 01/30/20 Page 3 of 3
+
+Dated: January 30, 2026
+Austin, Texas
+
+![img-0.jpeg](img-0.jpeg)

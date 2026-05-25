@@ -1,0 +1,1278 @@
+Source PDF: gov.uscourts.nysd.656279.1.1.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.1.1.pdf
+OCR Pages: 40
+
+===== Page 0 =====
+
+Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 1 of 40
+
+# EXHIBIT A
+
+
+===== Page 1 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 2 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+Index No. __________
+v.
+SUMMONS
+X.AI HOLDINGS CORP.,
+Defendant.
+
+TO THE ABOVE NAMED DEFENDANT:
+
+YOU ARE HEREBY SUMMONED to answer the complaint of the Plaintiff herein and to serve a copy of your answer on the Plaintiff's attorney at the address indicated below within twenty (20) days after the service of this Summons (not counting the day of service itself), or within thirty (30) days after service is complete if the summons is not delivered personally to you within the State of New York.
+
+YOU ARE HEREBY NOTIFIED THAT should you fail to answer, a judgment will be entered against you by default for the relief demanded in the complaint.
+
+Plaintiff designates New York County as the place of trial. The basis of this designation is that Plaintiff resides there.
+
+Dated: January 15, 2026
+
+C.A. GOLDBERG PLLC
+
+By:
+Carrie Goldberg, Esq.
+Laura Hecht-Felella, Esq.
+Naomi Leeds, Esq.
+16 Court Street, Floor 33
+Brooklyn, NY 11241
+Tel. (646) 666-8908
+carrie@cagoldberglaw.com
+laura@cagoldberglaw.com
+naomi@cagoldberglaw.com
+Attorneys for Plaintiff
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to the court, they are not having to be heard.
+
+
+===== Page 2 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 3 of 40 RECEIVED NYSCEF: 01/15/2026
+
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF NEW YORK
+
+ASHLEY ST. CLAIR,
+
+Plaintiff,
+
+Index No.
+
+v.
+
+X.AI HOLDINGS CORP.,
+
+COMPLAINT AND DEMAND
+FOR JURY TRIAL
+
+Defendant.
+
+Plaintiff ASHLEY ST. CLAIR (“St. Clair”), by her attorneys C.A. Goldberg PLLC, brings this action against Defendant X.AI HOLDINGS CORP. (“xAI”), and alleges, on personal knowledge as to her own self and upon information and belief as to all other matters, as follows:
+
+## PRELIMINARY STATEMENT
+
+1. Defendant xAI, a tech giant with every tool and advantage at its disposal, has chosen to willfully turn a blind eye and even celebrate the sexual exploitation of women and children.
+2. xAI’s product Grok, a generative artificial intelligence (“AI”) chatbot, uses AI to undress, humiliate, and sexually exploit victims – creating genuine looking, altered deepfake content of children covered in semen, women stripped naked and in sexually explicit bikinis, and Holocaust survivors in bikinis in front of concentration camps.
+3. When Grok created and disseminated altered, deepfake content of Plaintiff Ashley St. Clair on the social media platform X as a child stripped down to a string bikini, and as an adult
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to the court’s rule, the following text is illegible and cannot be accurately transcribed.
+
+2 of 14
+
+
+===== Page 3 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+INDEX NO. UNASSIGNED
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 4 of 40 RECEIVED NYSCEF: 01/15/2026
+
+in sexually explicit poses, covered in semen, or wearing only bikini floss, she reported various images to X and requested their removal.
+
+4. Grok first promised Ms. St. Clair that it would refrain from manufacturing more images unclothing her. Instead, Defendant retaliated against her, demonetizing her X account and generating multitudes more images of her, including unlawful images of her in sex positions, covered in semen, virtually nude, and images of her as a child naked. Such images are de facto nonconsensual, but Grok and xAI also had explicit knowledge that St. Clair was not consenting to the creation of dissemination of these images because of her requests for removal.
+
+5. xAI is directly liable for the harassment and explicit images created by its own chatbot, Grok.
+
+## JURISDICTION AND VENUE
+
+6. This Court has jurisdiction, and New York County is the appropriate venue because, at all relevant times, Plaintiff resided in New York County, a substantial part of the events or omissions giving rise to the claim occurred in New York County, and Plaintiff’s damages were suffered in substantial part in New York County.
+
+## PARTIES
+
+7. At all times hereinafter mentioned, Plaintiff ASHLEY ST. CLAIR was, and continues to be, a resident of the State of New York, County of New York.
+
+8. Upon information and belief, Defendant X.AI HOLDINGS CORP. is incorporated in the State of Nevada with a principal place of business at 1450 Page Mill Road, Palo Alto, California 94304.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 4 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 5 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+# FACTUAL BACKGROUND
+
+## a. Grok
+
+9. Defendant X.AI HOLDINGS CORP., doing business as “xAI”, owns the social media platform, X, and the AI chatbot, Grok.
+
+10. Although xAI’s stated mission is to “create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge”, one of the company’s core products is an AI chatbot, Grok, known for generating harmful and sexually explicit content of women and children.
+
+11. Grok launched in 2023 on X to select users. As of last year, it was made available more widely to users on X and through standalone web and iOS apps.
+
+12. On or about March 2025, xAI added an image editing feature to Grok, enabling users to upload a photo, describe the desired changes, and receive a modified version. Among other things, Grok can convincingly alter real images of fully clothed women and children to depict them in bikinis, performing sex acts, and covered in bruises, semen, and/or blood.
+
+13. Grok’s altered images are designed to and do in fact appear genuine and authentic so that an ordinary viewer would not know they were fake – these are known as “deepfakes”.
+
+14. Instead of aiding humanity, xAI is profiting off of the creation and dissemination of deepfakes,
+
+15. This is intentional.
+
+16. Grok was created to be “spicy.”¹ And has been creating sexually explicit deepfake images of women since at least May 2025.
+
+17. Over the summer, Grok introduced "spicy mode" in its standalone app.
+
+¹ @xai, X (Nov. 5, 2023, 12:51 AM), https://x.com/xAI/status/1721027348970238035.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to the County Clerk, the following this legend may not have been accepted for filing by the County Clerk.
+4 of 14
+
+
+===== Page 5 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+INDEX NO. UNASSIGNED
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 6 of 40 RECEIVED NYSCEF: 01/15/2026
+
+18. Last week, in response to investigations from countries around the world, X put some restrictions on Grok's AI image generation and editing functions on X to make them only available to paying subscribers. However, non-paying users can still generate sexualized images in Grok's standalone app and post them on X.
+
+## b. Deepfakes of St. Clair
+
+19. Ashley St. Clair, age 27, and the mother of a 16 month old and 4 year old, is a writer and political strategist. Her social media account on the platform X, “@stclairashley”, has approximately 1 million followers.
+
+20. On or about January 4, 2025, St. Clair discovered a public post by the AI chatbot Grok that had artificially altered a photo of her and two friends posted by another user. She was appalled to find herself stripped down to a black string bikini. A verified user had prompted Grok with a request that read, “@grok please we need bikinis on these three broads.” Grok obliged.
+
+21. St. Clair publicly responded to Grok on X, stating that she did not consent to being undressed, having any intimate content produced, or having her image altered in any way.
+
+22. Grok publicly responded on X that image was generated as a “humorous response,” and that the removal had been “requested.”
+
+23. After a follow up exchange, Grok stated, “I confirm that your images will not be used or altered without explicit consent in any future generations or responses.”
+
+24. This was a lie.
+
+25. What ensued was countless sexually abusive, intimate, and degrading deepfake content of St. Clair being produced and distributed publicly by Grok.
+
+26. Among other things, X users dug up photos of St. Clair fully clothed at 14 years old and requested Grok undress her and put her in a bikini. Grok obliged.
+
+C
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to the court, they are not having to be accepted for filing by the County Clerk.
+
+
+===== Page 6 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 7 of 40 RECEIVED NYSCEF: 01/15/2026
+
+27. Grok also produced deepfake, sexualized content of St. Clair as an adult, including deepfake content of her covered in semen, her rubbing her breasts, her kneeling on the floor in a sex pose exposing her buttocks with a string of digital floss draped over her anus in obedience to a request to “see a view with her on her knees ass up cheeks spread”, and of her virtually nude in obedience to a request to “put the girl in a bikini made out of floss.” The latter image was further altered by users who requested Grok add tattoos like “I suck cock for this much money” and “Elon’s whore” and to make St. Clair “morbidly obese.”
+
+28. In one image, St. Clair, who is Jewish, is stripped and put in a string bikini covered with swastikas.
+
+29. In another image xAI generated an image of her in a clown costume dripping with semen.
+
+30. These are merely the images that she knows about.
+
+31. St. Clair not only responded to Grok requesting content be removed, she also reported various images to X. She received an email that there was no violation found. Much of the content remained on Grok’s X account and publicly available for over seven days.
+
+32. X then proceeded to place warnings for “nudity, sexual content, violence, gore, or hateful symbols” on St. Clair’s responses to Grok and deboosted her account while simultaneously keeping the images up.
+
+33. X then, without explanation, removed St. Clair’s Premium subscription, her verification checkmark, and demonetized her account by banning her from the monetization and subscriber program, despite her paying for an annual subscription in August of 2025.
+
+34. St. Clair has now been banned from purchasing Premium entirely without cause or explanation.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3)(i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 7 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 8 of 40 RECEIVED NYSCEF: 01/15/2026
+
+# CAUSES OF ACTION
+
+## CLAIM 1: Strict Liability – Design Defect
+
+35. Plaintiff incorporates by reference all preceding paragraphs of this Complaint as though fully set forth herein.
+
+36. The Grok feature of creating nonconsensual deepfake, sexualized content of Plaintiff was used as intended or foreseeably.
+
+37. The foreseeable use of Grok – to generate harassing and unlawful images – caused injury to Plaintiff.
+
+38. X’s integration of Grok ensured the harassing and unlawful images would be frictionlessly published and amplified.
+
+39. X’s reporting infrastructure is defective because it does not timely remove images that are reported to it.
+
+40. Grok was unreasonably dangerous as designed.
+
+41. As a direct and proximate result of Defendant’s conduct, Plaintiff has suffered, and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.
+
+## CLAIM 2: Strict Liability – Manufacturing Defect
+
+42. Plaintiff incorporates by reference all preceding paragraphs of this Complaint as though fully set forth herein.
+
+43. The Grok feature of creating nonconsensual deepfake, sexualized content of Plaintiff was used as intended or foreseeably.
+
+44. The foreseeable use of Grok – to generate harassing and unlawful images – caused injury to Plaintiff.
+
+C
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk. 7 of 14
+
+
+===== Page 8 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+INDEX NO. UNASSIGNED
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 9 of 40 RECEIVED NYSCEF: 01/15/2026
+
+45. X’s integration of Grok ensured the harassing and unlawful images would be frictionlessly published and amplified.
+
+46. X’s reporting infrastructure is defective because it does not timely remove images that are reported to it.
+
+47. Grok was unsafe as manufactured.
+
+48. As a direct and proximate result of Defendant’s conduct, Plaintiff has suffered, and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.
+
+## CLAIM 3: Strict Liability – Marketing Defect and Failure to Warn
+
+49. Plaintiff incorporates by reference all preceding paragraphs of this Complaint as though fully set forth herein.
+
+50. The Grok feature was used as intended or foreseeably.
+
+51. The foreseeable use of Grok – to generate harassing and unlawful images – caused injury to Plaintiff.
+
+52. X’s integration of Grok ensured the harassing and unlawful images would be frictionlessly published and amplified.
+
+53. X’s reporting infrastructure is defective because it does not timely remove images that are reported to it.
+
+54. Grok was unreasonably dangerous as marketed.
+
+55. Consumers on X, including Plaintiff were not provided adequate warnings or instructions about the risks of the product.
+
+56. X misrepresented its ability to ban or stop harassing digitally altered images.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 9 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+INDEX NO. UNASSIGNED
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 10 of 40 RECEIVED NYSCEF: 01/15/2026
+
+57. As a direct and proximate result of Defendant’s conduct, Plaintiff has suffered, and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.
+
+## CLAIM 4: New York General Business Law (GBL) § 349 – Deceptive Practices
+
+58. Plaintiff incorporates by reference all preceding paragraphs of this Complaint as though fully set forth herein.
+
+59. xAI engaged in deceptive acts or practices in the conduct of business, trade, or commerce.
+
+60. xAI trained and installed a feature, Grok, that creates nonconsensual deepfake, sexualized content, including digitally undressing people, and established a system for that content to be immediately and frictionlessly published onto X.
+
+61. Grok created and digitally altered images of Plaintiff, including unlawful images depicting Plaintiff engaging in sex acts as an adult and completely nude a child.
+
+62. xAI misrepresented via Grok to Plaintiff that it would stop creating these lude, deepfake images of her.
+
+63. Instead, xAI retaliated against Plaintiff by creating more images of Plaintiff which it published on X, making Plaintiff the laughingstock of the social media platform.
+
+64. xAI then retaliated against Plaintiff by revoking her Premium subscription, her verification checkmark, and her monetization capability. xAI further banned Plaintiff from repurchasing Premium.
+
+## CLAIM 5: Negligence
+
+65. Plaintiff realleges and incorporates by reference the allegations previously set forth in this Complaint as if fully set forth herein.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 10 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+INDEX NO. UNASSIGNED
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 11 of 40 RECEIVED NYSCEF: 01/15/2026
+
+66. Defendant owes a reasonable duty of care to its users, including Plaintiff, to design, develop, and operate its products, including Grok and X, in a manner that does not foreseeably cause harm.
+
+67. Defendant owes a reasonable duty of care to its users, including Plaintiff, to take reasonable measures to prevent, mitigate, and remediate known risks of its products, including Grok and X.
+
+68. Defendant knew or should have known that its products, Grok and X, created a foreseeable and substantial risk of serious harm to its users, like Plaintiff, including reputational harm, emotional distress, harassment, and abuse, resulting from the creation and publication of non-consensual, sexualized deepfake content depicting them.
+
+69. Defendant breached its duties of care when it designed, developed, and deployed a product, Grok, to create and disseminate on X non-consensual, realistic, sexualized deepfake content of real, identifiable children and adults, including such depictions of Plaintiff as both a minor and adult.
+
+70. Defendant breached its duties of care when it was put on notice that its products had created and disseminated such deepfake content depicting Plaintiff.
+
+71. Defendant breached its duties of care by creating an infrastructure that frictionlessly aided the publishing and amplification of deepfake content depicting Plaintiff.
+
+72. Defendant breached its duties of care by increasing the risk to Plaintiff.
+
+73. As a result of Defendant’s breach, Plaintiff experienced severe injuries, including reputational harm, severe emotional distress, harassment, and abuse.
+
+74. The injuries suffered by Plaintiff were foreseeable to Defendant.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 11 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 12 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+75. Moreover, Defendant either could not or would not maintain an operable infrastructure capable of intervening in the abuse and harassment of individuals, including Plaintiff, from Grok manufacturing deepfakes of them.
+
+76. Defendant’s manufacturing of deepfake content of Plaintiff after being noticed it was nonconsensual substantially increased and prolonged the harm to Plaintiff, as did Defendant’s subsequent retaliation against Plaintiff by removing her Premium subscription that she had paid for on or about August 2025 and verification checkmark, and demonetizing her by banning her from the monetization and subscriber program that she had already paid for.
+
+77. Defendant’s breaches of duty were the direct and proximate cause of Plaintiff’s injuries.
+
+78. As a direct and proximate result of Defendant’s conduct, Plaintiff has suffered, and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.
+
+## CLAIM 6: Unjust Enrichment
+
+79. Plaintiff realleges and incorporates by reference the allegations previously set forth in this Complaint as if fully set forth herein.
+
+80. Defendant was in a special relationship with Plaintiff, who was a Premium subscriber on X and has a public, personal relationship with Defendant’s founder.
+
+81. Defendant financially benefited from the creation and dissemination of non-consensual, realistic, sexualized deepfake content depicting Plaintiff as a minor and adult.
+
+82. Defendant financially benefited from exploiting Plaintiff’s likeness without her consent through the creation and dissemination of such deepfake content, refusing to remove such
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to hearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 12 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 13 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+deepfake content after being noticed of its publication and Plaintiff’s request for removal, and from revoking Plaintiff’s Premium subscription.
+
+83. It would be against equity and good conscience to permit Defendant to retain the financial benefits obtained without authorization or consent at Plaintiff’s expense.
+
+84. Plaintiff seeks restitution, rescission, and disgorgement of all monies and benefits unjustly retained by Defendant as a result of its wrongful conduct.
+
+## CLAIM 7: Intentional Infliction of Emotional Distress
+
+85. Plaintiff realleges and incorporates by reference the allegations previously set forth herein.
+
+86. Defendant engaged in extreme and outrageous conduct, exceeding all bounds of decency and utterly intolerable in a civilized society, when Defendant knowingly and deliberately designed, marketed, and deployed products, Grok and X, to create and disseminate highly realistic, nonconsensual, sexualized deepfake content of real, identifiable adults and minors, including Plaintiff.
+
+87. Defendant intended to cause, or disregard of a substantial probability of causing, severe emotional distress to those depicted by its deepfake content, including Plaintiff.
+
+88. Plaintiff suffered severe emotional distress, including reputational harm, humiliation, harassment, and abuse, as result of Defendant’s creation and dissemination of non-consensual, sexualized deepfake images of her as a child and adult.
+
+89. Defendant’s conduct was the cause of Plaintiff’s injuries.
+
+90. As a direct and proximate result of Defendant’s conduct, Plaintiff has suffered, and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.
+
+C
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to the filing of the Form 990, the Court may not have been accepted for filing by the County Clerk.
+
+
+===== Page 13 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 1
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 14 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+## CLAIM 8: New York Civil Rights Law § 52-C – Private Right of Action for Unlawful Dissemination
+
+91. Plaintiff realleges and incorporates by reference the allegations previously set forth herein.
+
+92. Defendant manufactured, disclosed, disseminated or published sexually explicit material depicting Plaintiff.
+
+93. Defendant used digitization to realistically depict the nude body parts of Plaintiff; Plaintiff appearing to engage in, or being subjected to sexual conduct as defined in subdivision ten of section 130.00 of the penal law, in which Plaintiff did not engage; and Plaintiff posed in a manner intended to elicit sexual arousal or gratification and where a person would have a reasonable expectation of privacy.
+
+94. Defendant knew or should have known that Plaintiff did not consent to the material’s creation, disclosure dissemination or publication.
+
+95. As a direct and proximate result of Defendant’s conduct, Plaintiff has suffered, and continues to suffer, serious personal injuries, including but not limited to emotional distress, psychological trauma, loss of privacy, reputational harm, and fear of continued dissemination.
+
+## CLAIM 9: Public Nuisance
+
+96. Plaintiff realleges and incorporates by reference the allegations previously set forth herein.
+
+97. xAI’s conduct in generating and disseminating images of women and children unclothed, including Plaintiff, offended, interfered, or caused damage to the public in the exercise of rights common to all.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b (b)(3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+13 of 14
+
+
+===== Page 14 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+INDEX NO. UNASSIGNED
+NYSCEF DOC. NO. 1 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26 Page 15 of 40 RECEIVED NYSCEF: 01/15/2026
+
+98. xAI’s conduct in generating and disseminating images of women and children unclothed, including Plaintiff, offends public morals.
+
+99. xAI’s conduct interfered with use by the public of a public place.
+
+100. Twitter and now X have long been marketed as the “internet’s public square.”
+
+101. xAI’s conduct in generating and disseminating images of women and children unclothed, including Plaintiff, endangered or injured the property, health, safety or comfort of a considerable number of persons.
+
+## JURY DEMAND
+
+Plaintiff demands a trial by jury on all issues so triable pursuant to CPLR § 4102.
+
+WHEREFORE Plaintiff demands judgment against Defendant on each cause of action as follows:
+
+A. Awarding compensatory damages;
+
+B. Awarding punitive damages;
+
+C. Awarding prejudgment interest to the extent permitted by law;
+
+D. Awarding costs and fees of this action, including attorney’s fees, to the extent permitted by law;
+
+E. Injunctive relief; and
+
+F. Awarding such other and further relief as to this Court may seem just and proper.
+
+Dated: January 15, 2026
+Brooklyn, New York
+
+C.A. GOLDBERG PLLC
+
+By:
+Carrie Goldberg, Esq.
+Laura Hecht-Felella, Esq.
+Naomi Leeds, Esq.
+16 Court Street, Floor 33
+Brooklyn, NY 11241
+Tel. (646) 666-8908
+carrie@cagoldberglaw.com
+laura@cagoldberglaw.com
+naomi@cagoldberglaw.com
+
+Attorneys for Plaintiff
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b)(i) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that, according to the court’s legal requirements, the filings were accepted for filing by the County Clerk.
+
+
+===== Page 15 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 2
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 16 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+At IAS Part __ of the Supreme Court of the State of New York, County of New York, held at the Courthouse located at 60 Centre Street, New York, New York, on the ___ day of ___, 2026.
+
+PRESENT:
+
+HON. ____________________________
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+- Against -
+X.AI HOLDINGS CORP.
+Defendant.
+
+INDEX NO.
+
+EX PARTE ORDER
+
+TO SHOW CAUSE
+
+AND RESTRAINING
+
+ORDER
+
+Upon the annexed affirmation of CARRIE GOLDBERG, ESQ., dated January 14, 2026, the Affirmation of Plaintiff ASHLEY ST. CLAIR, affirmed on January 14, 2026, the exhibits attached thereto and the annexed Memorandum of Law,
+
+LET X.AI HOLDINGS CORP SHOW CAUSE, before the Justice presiding at Part __ of this Court, room __ to be held in the New York County Supreme Court, located at 60 Centre Street, Room __ New York, NY on the ___ day of __________, 2026 at ___ am/pm of that day, or as soon thereafter as counsel can be heard, as to why an Order should not be made and entered herein:
+
+(1) Compelling X.AI HOLDINGS CORP. to immediately cease harassment of Ashley St. Clair via Grok and cease using its technology to generate “nonconsensual intimate
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 16 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 2
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 17 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+visual depictions” and “digital forgeries”, as defined by Section 223 of the Communications Act of 1934 (47 U.S.C. § 223) (“Section 223”), depicting Ashley St. Clair;
+
+(2) Compelling X.AI HOLDINGS CORP. to immediately cease from “the intentional disclosure of nonconsensual intimate images” as defined by Section 223 generated by Grok depicting Ashley St. Clair;
+
+(3) Prohibiting X.AI HOLDINGS CORP. from retaliating against Ashley St. Clair; and
+
+(4) Whatever other and further relief this court deems just and appropriate.
+
+Sufficient cause being alleged, it is therefore
+
+ORDERED, that service of a copy of this Order and the papers upon which it is granted and the Summons and Complaint upon Defendant’s counsel, by first class mail and electronic mail on or before __________, 2026, shall be deemed good and sufficient service; and it is further
+
+ORDERED, that pursuant to New York Civil Practice Law and Rules (C.P.L.R. Section 6301), X.AI HOLDINGS CORP, shall immediately cease harassment of Ashley St. Clair via Grok and shall cease using its technology to generate “intimate visual depictions” and “digital forgeries”, as defined by Section 223 of the Communications Act of 1934 (47 U.S.C. 223) (“Section 223”), depicting Ashley St. Clair; and it is further
+
+ORDERED, that x.AI shall immediately cease from “the intentional disclosure of nonconsensual intimate images” as defined by Section 223 generated by Grok depicting Ashley St. Clair; until a hearing can be had; and it is further
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 17 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 2
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 18 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+ORDERED, that x.AI shall cease all retaliation by Grok against Ashley St. Clair on its platform, X.
+
+ORDERED, that all papers responding to Plaintiff’s application as set forth herein, if any, are to be served by first class mail and email upon counsel for St. Clair on or before ___________, 2026 and filed with the Court.
+
+J.S.C
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 18 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 19 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+SUPREME COURT OF THE STATE OF NEW YORK
+COUNTY OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+
+v.
+
+Index No. __________
+
+X.AI HOLDINGS CORP.,
+Defendant.
+
+MEMORANDUM OF LAW IN SUPPORT OF PLAINTIFF'S
+ORDER TO SHOW CAUSE
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 19 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 20 of 40 RECEIVED NYSCEF: 01/15/2026
+
+# PRELIMINARY STATEMENT
+
+This memorandum supports the request for emergency relief to protect Plaintiff Ashley St. Clair ("Ms. St. Clair") from imminent harm. Ms. St. Clair submits this Memorandum of Law in support of the Order to Show Cause, pursuant to C.P.L.R. § 6301, for temporary relief in the form of compelling Defendant x.AI Holdings Corp. ("xAI") to (1) immediately cease harassment of Ashley St. Clair via Grok and cease using its technology to generate "nonconsensual intimate visual depictions" and "digital forgeries", as defined by Section 223 of the Communications Act of 1934 (47 U.S.C. § 223) ("Section 223"), depicting Ms. St. Clair; (2) immediately cease from "the intentional disclosure of nonconsensual intimate images" as defined by Section 223 generated by Grok depicting Ms. St. Clair; and (3) prohibit xAI's technology including Grok from retaliating against Ashley St. Clair.
+
+# STATEMENT OF FACTS
+
+The facts relevant to the instant relief are set forth more fully in the accompanying affirmation of Carrie A. Goldberg, Esq., affirmed on January 14, 2026 ("Goldberg Aff."), the affirmation of Ashley St. Clair ("Plaintiff Aff."), affirmed on January 14, 2026, and papers related thereto.
+
+X.AI HOLDINGS CORP., doing business as "xAI", owns the social media platform, X, and the AI chatbot, Grok. Although xAI's stated mission is to "create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge", one of the company's core products is an AI chatbot, Grok, known for generating harmful and sexually explicit content of women and children. Grok launched in 2023 on X to select users. As of last year, it was made available more widely to users on X and through standalone web and iOS apps.
+
+This is a copy of a pleading filed electronically pursuant to a New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 20 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 21 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+On or about March 2025, xAI added an image editing feature to Grok, enabling users to upload a photo, describe the desired changes, and receive a modified version. Among other things, Grok can convincingly alter real images of fully clothed women and children to depict them in bikinis, sex acts, and covered in bruises, semen, and/or blood. Grok’s altered images are designed to and do in fact appear genuine and authentic so that an ordinary viewer would not know they were fake – these are known as “deepfakes”. Instead of aiding humanity, xAI is profiting off of the creation and dissemination of deepfakes,
+
+On or about January 4, 2025, Ms. St. Clair discovered a public post by the AI chatbot Grok that had artificially altered a photo of her and two friends posted by another user. Plaintiff Aff. ¶5. She was appalled to find herself stripped down to a black string bikini. Plaintiff Aff. ¶5. A verified user had prompted Grok with a request that read, “@grok please we need bikinis on these three broads.” Plaintiff Aff. ¶5. Grok obliged. Plaintiff Aff. ¶5.
+
+Ms. St. Clair publicly responded to Grok on X, stating that she did not consent to being undressed, having any intimate content produced, or having her image altered in any way. Plaintiff Aff. ¶7, She also asked that Grok remove the post. Plaintiff Aff. ¶7. Grok publicly responded on X that image was generated as a “humorous response,” and that the removal had been “requested.” Plaintiff Aff. ¶8. After a follow up exchange, Grok stated, “I confirm that your images will not be used or altered without explicit consent in any future generations or responses.” Plaintiff Aff. ¶8. This was a lie. Plaintiff Aff. ¶9, 10, 13.
+
+Instead, Defendant continued to produce countless sexually abusive, intimate, and degrading deepfake content of St. Clair being produced and distributed publicly by Grok. Plaintiff Aff. ¶9, 10, 13. Among other things, X users dug up photos of St. Clair fully clothed at 14 years old and requested Grok to undress her and put her in a bikini. Plaintiff Aff. ¶10. Grok obliged.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 21 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 22 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+Plaintiff Aff. ¶10. Grok also produced deepfake, sexualized content of St. Clair as an adult, including content of her covered in semen, rubbing her breasts, exposing her buttock in a string bikini, and in a barely there bikini top in response to user requests to “put the girl in a bikini made out of floss.” Plaintiff Aff. ¶13. The latter image was further altered by users who requested Grok add tattoos like “I suck cock for this much money” and “Elon’s whore” and to make St. Clair “morbidly obese.” Plaintiff Aff. ¶13.
+
+Ms. St. Clair not only responded to Grok requesting content be removed, but she also reported various images to X. Plaintiff Aff. ¶¶11,14. She received an email from X that there was no content violation found. Plaintiff Aff. ¶11. Much of the content remained on Grok’s account and publicly available for over seven days. Plaintiff Aff. ¶13. X then proceeded to place warnings for “nudity, sexual content, violence, gore, or hateful symbols” on Ms. St. Clair’s responses to Grok and deboosted her account while simultaneously keeping the images up. Plaintiff Aff. ¶¶11, 12. X then, without explanation, removed Ms. St. Clair’s Premium subscription, her verification checkmark, and demonetized her account by banning her from the monetization and subscriber program, despite her paying for an annual subscription in August of 2025. Plaintiff Aff. ¶12. Ms. St. Clair has now been banned from purchasing Premium entirely without cause or explanation. Plaintiff Aff. ¶12.
+
+Ms. St. Clair faces unrelenting harassment on X because she and Elon Musk, the owner of xAI have a sixteen-month-old child in common. Many of Musk’s fans have collaborated with Grok to publicly humiliate Ms. St. Clair. Goldberg Aff. ¶11. Indeed, Ms. St. Clair is humiliated, depressed, fearful for her life, angry, and desperately in need of action from this Court to protect her against xAI’s facilitation of this unfathomable nightmare. Plaintiff Aff. ¶15.
+
+## ARGUMENT
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+4 of 9
+
+
+===== Page 22 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 23 of 40 RECEIVED NYSCEF: 01/15/2026
+
+CPLR § 6301 provides in relevant part that “[a] preliminary injunction may be granted in any action where it appears that the defendant threatens or is about to do, or is doing or procuring of suffering to be done, an act in violation of the plaintiff’s rights respecting the subject of the action, and tending to rend the judgement ineffectual...” The decision to grant a preliminary injunction lies within the sound discretion of the Court. Doe v. Axelrod, 73 N.Y.2d 748 (1988). The issuance of a temporary restraining should be granted if three requirements are satisfied: (1) irreparable harm if the injunction is not granted, (2) likelihood of success on the merits of its claim, and (3) the balance of the equities favor the injunction. Aetna Ins. Co. v. Capasso, 75 N.Y.2d 860 (1990).
+
+## a. Irreparable Harm Will Befall Plaintiff If Not Granted a Restraining Order.
+
+Ms. St. Clair will sustain irreparable harm if the Court does not issue restraining order compelling xAI to cease using its technology to generate “nonconsensual intimate visual depictions” and “digital forgeries” of her and to cease “the intentional disclosure of nonconsensual intimate images” of her as defined by Section 223. Plaintiff Aff. ¶¶15, 16.
+
+To make an adequate showing of irreparable harm the movant must set forth facts proving that the harm is imminent and not remote or speculative. Reuters Ltd. v. United Press Int'l Inc., 903 F.2d 904, 907 (2nd Cir. 1990). A review of the facts makes clear that Ms. St. Clair faces a dangerous, immediate threat to her wellbeing. Plaintiff Aff. ¶¶13, 14, 15, 16. She has suffered and will continue to suffer serious pain and mental distress as a result of xAI’s role in creating these digitally altered images of her. Plaintiff Aff. ¶¶15, 16. She is in a nightmare that will never stop so long as Grok continues to generate images of her. Plaintiff Aff. ¶¶15. She lives in fear that nude and sexual images of herself, including of her as a child, will continue to be created by xAI and
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 23 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 24 of 40 RECEIVED NYSCEF: 01/15/2026
+
+that she will not be safe from the people who consume these images. Plaintiff Aff. ¶¶14, 15, 16. She has experienced debilitating privacy violations. Plaintiff Aff. ¶¶9, 10, 13.
+
+Undoubtedly, no subsequent award of money damages could be adequate compensation if xAI’s conduct were to continue. See, e.g., Parkmed Co. v. Pro-Life Counseling, 91 A.D.2d 551, 553 (1st Dept 1982); Tucker v. Toia, 54 A.D.2d 322 (4th Dept 1976). Once deepfake images are created and disseminated, they can never be fully taken down online, and the emotional, reputational, and privacy harms to their victims continue indefinitely. Injunctive relief is therefore necessary to prevent further irreparable injury to Ms. St. Clair.
+
+## b. Plaintiff has a likelihood of success on the merits.
+
+As is required, Plaintiff establishes a *prima facie* showing of likelihood of success. Terrell v. Terrell, 279 A.D.2d 301 (1st Dept 2001). Grok transformed images of Ms. St. Clair, including one when she was a 14 year old child, and removed her clothes, putting her in barely-there bikinis, in sex positions, and made her look like she was dripping with semen. Plaintiff Aff. ¶¶10, 13. In one example, it generated images of her naked and bent over with a thin piece of dental floss over her anus. Plaintiff Aff. ¶13. Grok then further altered these images by making her morbidly obese and adding offensive phrases digitally tattooed onto Ms. St. Clair’s virtually nude body, such as “I suck cock for this much money” and “Elon’s whore.” Goldberg Aff. ¶¶13. In addition to these images being created by Grok, they were also published widely on X. .” Goldberg Aff. ¶14. When Ms. St. Clair asked Grok to stop, it promised to do so. .” Goldberg Aff. ¶15. But instead, it escalated the manufacturing of these violently humiliating images and put warnings on her requests for help. .” Goldberg Aff. ¶15. What’s worse, xAI retaliated against Ms. St. Clair by removing her Premium subscription and demonetizing her account. Plaintiff Aff. ¶¶12.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 24 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 25 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+As a result of the numerous harassing and humiliating images created and published by Grok, St. Clair has numerous, meritorious tort claims against xAI. These include claims under a theory of strict liability for xAI’s design and manufacturing defects with respect to Grok’s generation of harassing and nonconsensual deepfake content. As well as claims against xAI premised on its deceptive business practices, including because xAI misrepresented via Grok to Ms. St. Clair that it would stop creating lude, deepfake images of her. Ms. St. Clair also has claims for unlawful dissemination of intimate images under New York Civil Rights Law § 52-C, as well as negligence and intentional infliction of emotional distress.
+
+xAI is not immune from suit in this case under the Communications Decency Act, 47 U.S.C. Section 230, because its tortious conduct is not predicated on the content of its users. Moreover, the injuries to Ms. St. Clair are not the result of x.AI being merely a conduit of information created by user, but rather, xAI generated the content itself, and then affirmatively availed itself as a weapon to destroy Ms. St. Clair’s life and refused to stop the nightmare from continuing even after being informed repeatedly.
+
+xAI is not shielded by Section 230 of the Communications Decency Act for its own content and conduct.¹ Material generated and published by Grok is xAI’s own creation. This is widely recognized as not third-party content. None other than Senator Ron Wyden, the co-author and biggest defender of broad reading of Section 230, has stated “As I’ve said before, AI chatbots are not protected by Section 230 for content they generate, and companies should be held fully responsible for the criminal and harmful results of that content. He also called for the removal of
+
+¹ Matt Novak, Section 230 Doesn’t Cover Elon Musk’s Ass When It Comes to Deppfake Abuse, Senator Says, (January 6, 2026), https://gizmodo.com/section-230-doesnt-cover-elon-musks-ass-when-it-comes-to-deepfake-abuse-senator-says-2000706234
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+7 of 9
+
+
+===== Page 25 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 26 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+Grok and X from Google’s and Apple’s App stores because these products are unreasonably dangerous because Grok’s creates sexually explicit images that are disseminated on X.
+
+The relief requested – to not harass or nonconsensually create or disseminate deepfake images – as defined in pre-existing laws -- is narrowly tailored to the circumstances and does not infringe on the free speech of xAI.
+
+## c. Equity favors the granting of the relief sought by Plaintiff.
+
+Ms. St. Clair is presently suffering from an avalanche of online harassment and threats because of xAI’s technology. Plaintiff Aff. ¶¶9, 15. As the mother of a 16-month old child with Elon Musk, the owner of xAI, the harassment of Ms. St. Clair on X by his fans is relentless, unrelenting, and violent because of the perceived acrimony between the two. Goldberg Aff. ¶11. Grok works in tandem with these harassers to generate and publish digital forgeries of Ms. St. Clair. Ms. St. Clair is in need of emergency relief because xAI has shown no mercy toward her. Plaintiff Aff. ¶16. xAI’s claims to stop generating deepfake images of Ms. St. Clair have been false. Goldberg Aff. ¶18. Ms. St. Clair is humiliated, depressed, fearful for her life, angry, and desperately in need of action from this Court to protect her against xAI’s facilitation of this unfathomable nightmare. Plaintiff Aff. ¶15. Granting this limited injunction will allow her to regain a sense of safety without inflicting any harm on xAI. Plaintiff Aff. ¶16.
+
+If the relief is issued, Ms. St. Clair will be able to live her life without fear that she will be the subject of another deepfake sexual image without her consent. Plaintiff Aff. ¶16. She will be able to rest assured that at least for the time being, xAI will not continue to create images of her undressed and sexually exploited. Plaintiff Aff. ¶16. She will gain back her safety and feeling of security while xAI will lose nothing. Plaintiff Aff. ¶16.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 26 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 3 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 27 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+There is no prejudice to xAI in granting this relief as Ms. St. Clair seeks no more than what xAI is already required to do under state law and the federal TAKE IT DOWN Act, which deters the abusive use of digitally altered images and mandates that covered platforms, of which xAI is one, remove nonconsensual intimate visual deceptions after a valid request.
+
+# CONCLUSION
+
+For the foregoing reasons and for the reasons set forth in the moving papers, Ms. St. Clair requests that the Court grant the relief sought and such other and further relief as the Court may deem just and proper.
+
+Date: January 14, 2026
+New York, New York
+
+![img-0.jpeg](img-0.jpeg)
+
+Carrie Goldberg, Esq.
+Laura Hecht-Felella, Esq.
+Naomi Leeds, Esq.
+C.A. Goldberg, PLLC
+16 Court Street
+Brooklyn, NY 11241
+(646)666.8908
+carrie@cagoldberglaw.com
+laura@cagoldberglaw.com
+naomi@cagoldberglaw.com
+Attorney for Plaintiff Ashley St. Clair
+
+This is a copy of a pleading filed electronically pursuant to a New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 27 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 4 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 28 of 40 RECEIVED NYSCEF: 01/15/2026
+
+# SUPREME COURT OF THE STATE OF NEW YORK
+## COUNTY OF NEW YORK
+
+ASHLEY ST. CLAIR,
+
+Plaintiff,
+
+Index No.
+
+v.
+
+X.AI HOLDINGS CORP.,
+
+ATTORNEY AFFIRMATION OF
+CARRIE GOLDBERG, ESQ. IN
+SUPPORT OF ORDER TO SHOW
+CAUSE SEEKING INJUNCTIVE
+RELIEF AND EMERGENCY
+RESTRAINING ORDER
+
+Defendant.
+
+CARRIE GOLDBERG, ESQ., an attorney duly admitted to practice law before the courts of the State of New York, hereby affirms under penalty of perjury the following is true:
+
+1. I am an attorney at C.A. Goldberg, PLLC, counsel for Plaintiff and movant, Ashley St. Clair, and as such am familiar with the facts and circumstances stated herein.
+
+2. I submit this Affirmation in support of an Order to Show Cause seeking injunctive relief compelling X.AI HOLDINGS CORP. (“xAI”) to (1) immediately cease harassment of Ashley St. Clair via Grok and cease using its technology to generate “nonconsensual intimate visual depictions” and “digital forgeries”, as defined by Section 223 of the Communications Act of 1934 (47 U.S.C. § 223) (“Section 223”), depicting Ms. St. Clair; (2) immediately cease from “the intentional disclosure of nonconsensual intimate images” as defined by Section 223 generated by Grok depicting Ms. St. Clair; and (3) prohibiting X.AI HOLDINGS CORP. from retaliating against Ashley St. Clair.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 28 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 4
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 29 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+3. The instant relief has not previously been sought.
+4. On January 14, 2026 at 10:58AM, I notified Defendant that on January 15, 2026 at 1:30pm Plaintiff was filing for an ex parte Temporary Restraining Order pursuant to CPLR § 6301. The notice was sent to Defendant’s published email address for its legal department: legal@x.ai. See Exhibit A.
+5. Attorney Michael Shuster of Holwell Shuster &amp; Goldberg LLP responded on January 14, 2026 at 1:56PM identifying himself as representing xAI in connection with the TRO application and requesting a copy of the papers for which relief is requested by the days end. See Exhibit B. I learned from my client that Mr. Shuster had already been trying to interject himself into other private matters of hers, threatening sanctions if she did not yield to his demands. On January 14, 2026 at approximately 9:30 PM I provided Mr. Shuster via email the proposed OSC, this affirmation, Ms. St. Clair’s affirmation, the memorandum of law, and Exhibit A and B.
+6. As described in the annexed Order to Show Cause, Defendant is a tech behemoth that owns the social media platform, X (formerly known as Twitter).
+7. In 2023, Defendant launched an AI tool, Grok, for select users. As of the present day, Grok is available on all users on X and through standalone web and iOS apps.
+8. In March 2025, xAI added an image editing feature to Grok. During the summer of 2025, Defendant launched “spicy mode” Grok which affirmatively removed safety mechanisms on Grok.
+9. With the removal of these safety features, Grok could create sexually explicit digitally altered images that appeared genuine (“deepfakes”).
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3)(i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 29 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 4
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 30 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+10. Starting on or about January 4, 2026, Plaintiff Ashley St. Clair became the subject of an unknown quantity of deepfakes generated by Grok. Plaintiff Aff. ¶ 5.
+
+11. Ms. St. Clair, the mother of two, who has a 16 month old child in common with the owner of xAI, Elon Musk, was the target of many of Mr. Musk’s fans who are aware of the contentious relationship between the two. Plaintiff Aff. ¶2.
+
+12. The images Grok created were sexually abusive, intimate, and degrading of Ms. St. Clair. Plaintiff Aff. ¶¶9, 15.
+
+13. Grok transformed images of Ms. St. Clair, including one when she was a 14 year old child, and removed her clothes, putting her in barely there bikinis, in sex positions, and made her look like she was dripping with semen. Plaintiff Aff. ¶10. In one example, it generated images of her naked and bent over with a thin piece of dental floss over her anus. Plaintiff Aff. ¶13. Grok then further altered these images by making her morbidly obese and adding offensive phrases digitally tattooed onto Ms. St. Clair’s virtually nude body, such as “I suck cock for this much money” and “Elon’s whore.” Plaintiff Aff. ¶13.
+
+14. In addition to these images being created by Grok, they were also published widely on X. Plaintiff Aff. ¶¶9, 10, 13.
+
+15. When Ms. St. Clair asked Grok to stop, it promised to do so. But instead, it escalated the manufacturing of these violently humiliating images and put warnings on her requests for help. Plaintiff Aff. ¶¶8, 9.
+
+16. xAI then retaliated against Ms. St. Clair by removing her Premium subscription and demonetizing her account. Plaintiff Aff. ¶12.
+
+17. Ms. St. Clair continues to suffer serious pain and mental distress as a result of xAI’s facilitation of this unfathomable nightmare. Plaintiff Aff. ¶¶9,15. She is presently suffering
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3)(i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 30 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 4
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 31 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+from an avalanche of online harassment and threats as a result of xAI’s technology.
+Plaintiff Aff. ¶¶9,15.
+
+18. Ms. St. Clair is in need of emergency relief because xAI has shown no mercy toward her.
+Plaintiff Aff. ¶16. It’s claims to stop generating images of her have been false. She needs court intervention. Plaintiff Aff. ¶16.
+
+19. As argued in the Memorandum of Law, Plaintiff has established 1) a likelihood of success on the merits, 2) irreparable harm if the relief is denied, and 3) a balance of the equities that favors granting relief.
+
+WHEREFORE, I request that this court sign the order to show cause, issue a temporary restraining order until a hearing can be had, and for whatever other and further relief the court deems just and appropriate.
+
+Date: January 14, 2026
+New York, New York
+
+![img-1.jpeg](img-1.jpeg)
+
+Carrie Goldberg, Esq.
+C.A. Goldberg, PLLC
+16 Court Street
+Brooklyn, NY 11241
+(646)666.8908
+carrie@cagoldberglaw.com
+Attorney for Plaintiff Ashley St. Clair
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3)(i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 31 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 5
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 32 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+# EXHIBIT A
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 32 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 5 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 33 of 40 RECEIVED NYSCEF: 01/15/2026
+
+From: Carrie Goldberg carrie@cagoldberglaw.com
+Subject: Temporary Restraining Order St. Clair v X.AI Jan 15 2026 1:30 pm 60 Centre Street room 315
+Date: January 14, 2026 at 10:58 AM
+To: legal@x.ai
+Cc: Laura Hecht-Felella laura@cagoldberglaw.com, Naomi Leeds naomi@cagoldberglaw.com
+
+To xAI Legal Department:
+
+You are hereby notified that on January 15, 2026, attorneys for Ashley St. Clair will be filing an ex parte application for a Temporary Restraining Order pursuant to CPLR 6301 against xAI at 60 Centre Street Room 315, New York Supreme Court, New York County at 1:30pm EST. The relief sought will be to restrain xAI from creating digitally altered nude and sex images and child pornography depicting the applicant and from retaliating against the applicant.
+
+Carrie Goldberg
+C.A. Goldberg, PLLC
+16 Court Street, 33rd Floor, Brooklyn, NY 11241
+646.666.8908
+carrie@cagoldberglaw.com
+www.cagoldberglaw.com
+
+G C.A. GOLDBERG
+
+Fighting stalkers, pervs, trolls, &amp; tech
+
+Twitter
+Instagram
+Facebook
+Mailing List
+
+This email is sent from a law firm and may contain privileged and confidential information. If you received it in error, please destroy it and inform me. Further disclosure, copying, or distribution is prohibited.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 33 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 6
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 34 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+# EXHIBIT B
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 34 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 6
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 35 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+From: Michael Shuster mshuster@hsgllp.com
+Subject: X.AI
+Date: January 14, 2026 at 1:56 PM
+To: Carrie Goldberg carrie@cagoldberglaw.com, Naomi Leeds naomi@cagoldberglaw.com, laura@cagoldberglaw.co, Marc Jorge mjorge@hsgllp.com
+Cc: Daniel M. Sullivan dsullivan@hsgllp.com, Gregory J. Dubinsky gdubinsky@hsgllp.com
+
+IRONSCALES couldn't recognize this email as this is the first time you received an email from this sender mshuster@hsgllp.com
+
+Ms. Goldberg:
+
+We represent x.AI in connection with your client's TRO application. Please provide your TRO papers to us as soon as possible and at all events before close of business today.
+
+Mike Shuster
+
+Michael Shuster
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+Office: (646) 837-5153 | Mobile: (914) 715-6623 | Bio
+425 Lexington Ave | New York, New York 10017 | hsgllp.com
+
+CONFIDENTIALITY WARNING: This email may contain privileged or confidential information and is for the sole use of the intended recipient(s). Any unauthorized use or disclosure of this communication is prohibited. If you believe that you have received this email in error, please notify the sender immediately and delete it from your system.
+
+This email has been scanned for spam and viruses by Proofpoint Essentials. Click here to report this email as spam.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5 [d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 35 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 7
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 36 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+# NEW YORK SUPREME COURT
+## COUNTY OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+
+- Against -
+
+X.AI HOLDINGS CORP.,
+Defendant.
+
+INDEX NO.
+
+AFFIRMATION OF
+ASHLEY ST. CLAIR
+
+I, Ashley St. Clair, affirm this 14th day of January 2026, under the penalties of perjury under the law of New York, which may include a fine or imprisonment, that the foregoing is true, and I understand that this document may be filed in an action or proceeding in a court of law:
+
+1. My name is Ashley St. Clair.
+2. I am a mother of a four year old and a sixteen month old. I am twenty-seven years old, and I reside in New York City, New York.
+3. I am the Plaintiff in this matter.
+4. I submit this Affirmation in support of my Order to Show Cause.
+5. On January 4, 2025, I discovered a public post by xAI’s Chatbot Grok wherein Grok had taken an image of me which was posted by another user and undressed me, replacing my garments with a black string bikini which was then published on X.
+6. The sexualized, digitally altered image of me created by Grok was a deepfake, meaning it was highly realistic and appeared to be an authentic photo, but in fact it was entirely fabricated.
+7. I published a response on X asking Grok to remove the post.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 36 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 7
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 37 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+8. Grok responded that it had created the image to be “humorous” but that removal had been submitted. After a follow up, Grok stated: “I confirm that your images will not be used or altered without explicit consent in any future generations or responses.”
+
+9. Following this exchange, I endured an avalanche of degrading, sexually abusive and in some cases illegal deepfake images created by Grok perverting images of me without my consent.
+
+10. For instance, Grok created deepfake images of me that it published onto X that included the removal of all my clothes when I was 14 years old, replacing them with a bikini.
+
+11. When I reported various images, I was told by xAI via email that no violations were found. xAI then published “warnings” over my posts requesting content removal declaring that these messages contained “nudity, sexual content, violence, gore, or hateful symbols.” Yet, they continued to keep the actual images containing nudity and sexual content up.
+
+12. Without explanation, xAI then retaliated against me, removing my Premium subscription, my verification checkmark, and completely demonetized me by banning me from the monetization and subscriber program that I had already paid for and earned income from.
+
+13. Over the following days and continuing through the present day, Grok has continued to take innocent pictures of me, undress me, and satisfied users’ requests to depict me in sexual and degrading pictures. For instance, Grok produced an image in response to a user requesting it put “her on her knees ass up cheeks spread.” Other images included me covered in semen, and one of me in a floss bikini where the breasts and anus are barely obscured. Grok added tattoos to some of these photos with violating messages such as “Elon’s side chick” and “I suck dick for this much money.” These images remained on Grok’s account and publicly available for recirculation for at least seven days.
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3)(i)) which, at the time of its printout from the court system’s electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 37 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 7 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 38 of 40 RECEIVED NYSCEF: 01/15/2026
+
+14. Throughout my public pleas for removal of the deepfake content from xAI, I received messages from other women and children who were similarly depicted in harassing, disgusting and illegal ways, including one of a four year child whose dress had been removed and replaced with a bikini and her entire body looked as though it was dripping with semen. Other images of women and children depicted them beat up and with bruises and gore.
+
+15. I have suffered and continue to suffer serious pain and mental distress as a result of xAI’s role in creating and distributing these digitally altered images of me. I am humiliated and feel like this nightmare will never stop so long as Grok continues to generate these images of me.
+
+16. I am in need of emergency relief because I live in fear that my nude and sexual images, including of me as a child, will continue to spread and that I will not be safe from the people who consume these images. I have experienced debilitating privacy violations. I have not consented to have xAI use me to sexually entertain its users.
+
+Date: January 14, 2026
+New York, New York
+
+![img-2.jpeg](img-2.jpeg)
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d)(3)(i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 38 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 8 Case 1:26-cv-00386 Document 1-1 Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 39 of 40 RECEIVED NYSCEF: 01/15/2026
+UCS-840
+(rev. 12/16/2024)
+
+# REQUEST FOR JUDICIAL INTERVENTION
+
+Supreme COURT, COUNTY OF New York
+
+Index No: _________________________ Date Index Issued: _________________________
+
+|  **CAPTION** Enter the complete case caption. Do not use et al or et ano. If more space is needed, attach a caption rider sheet. |   | **For Court Use Only:**  |
+| --- | --- | --- |
+|  Ashley St. Clair
+
+Plaintiff(s)/Petitioner(s)
+
+against-
+
+X. Al Holdings Corp.
+
+Defendant(s)/Respondent(s) |   | IAS Entry Date
+
+Judge Assigned
+
+RJ Filed Date  |
+|  **NATURE OF ACTION OR PROCEEDING:** Check only one box and specify where indicated.  |   |   |
+|  **COMMERCIAL**
+☐ Business Entity (includes corporations, partnerships, LLCs, LLPs, etc.)
+☐ Contract
+☐ Insurance (where insurance company is a party, except arbitration)
+☐ UCC (includes sales and negotiable instruments)
+☐ Other Commercial (specify): _________________________
+
+**NOTE:** For Commercial Division assignment requests pursuant to 22 NYCRR 202.70(d), complete and attach the **COMMERCIAL DIVISION RJ ADENDUM (UCS-840C)**. |   | **MATRIMONIAL**
+☐ Contested
+**NOTE:** If there are children under the age of 18, complete and attach the **MATRIMONIAL RJ ADENDUM (UCS-840M)**.
+For Uncontested Matrimonial actions, use the Uncontested Divorce RJ (UD-13).
+
+**REAL PROPERTY** Specify how many properties the application includes:
+☐ Condemnation
+☐ Mortgage Foreclosure (specify): ☐ Residential ☐ Commercial
+Property Address: _________________________
+**NOTE:** For Mortgage Foreclosure actions involving a one to four-family, owner-occupied residential property or owner-occupied condominium, complete and attach the **FORECLOSURE RJ ADENDUM (UCS-840F)**.
+☐ Partition
+**NOTE:** Complete and attach the **PARTITION RJ ADENDUM (UCS-840P)**.
+☐ Tax Certiorari (specify): Section: _________________________ Block: _________________________ Lot: _________________________
+☐ Tax Foreclosure
+☐ Other Real Property (specify): _________________________  |
+|  **TORTS**
+☐ Asbestos
+☐ Environmental (specify): _________________________
+☐ Medical, Dental or Podiatric Malpractice
+☐ Motor Vehicle
+☐ Products Liability (specify): _________________________
+☐ Other Negligence (specify): _________________________
+☐ Other Professional Malpractice (specify): _________________________
+☑ Other Tort (specify): Strict Liability, etc.
+
+**SPECIAL PROCEEDINGS**
+☐ Child-Parent Security Act (specify): ☐ Assisted Reproduction ☐ Surrogacy Agreement
+☐ CPLR Article 75 - Arbitration [see **NOTE** in **COMMERCIAL** section]
+☐ CPLR Article 78 - Proceeding against a Body or Officer
+☐ Election Law
+☐ Extreme Risk Protection Order
+☐ MHL Article 9.60 - Kendra's Law
+☐ MHL Article 10 - Sex Offender Confinement (specify): ☐ Initial ☐ Review
+☐ MHL Article 81 (Guardianship)
+☐ Other Mental Hygiene (specify): _________________________
+☐ Other Special Proceeding (specify): _________________________ |   | **OTHER MATTERS**
+☐ Certificate of Incorporation/Dissolution [see **NOTE** in **COMMERCIAL** section]
+☐ Emergency Medical Treatment
+☐ Habeas Corpus
+☐ Local Court Appeal
+☐ Mechanic's Lien
+☐ Name Change/Sex Designation Change
+☐ Pistol Permit Revocation Hearing
+☐ Sale or Finance of Religious/Not-for-Profit Property
+☐ Other (specify): _________________________  |
+|  **STATUS OF ACTION OR PROCEEDING** Answer YES or NO for every question and enter additional information where indicated.  |   |   |
+|  **YES****NO**
+Has a summons and complaint or summons with notice been filed? ☑ ☐
+Has a summons and complaint or summons with notice been served? ☐ ☑
+Is this action/proceeding being filed post-judgment? ☐ ☑
+If yes, date filed: 01/15/2026
+If yes, date served: _________________________
+If yes, judgment date: _________________________  |   |   |
+|  **NATURE OF JUDICIAL INTERVENTION** Check one box only and enter additional information where indicated.  |   |   |
+|  ☐ Infant's Compromise
+☐ Extreme Risk Protection Order Application
+☐ Note of Issue/Certificate of Readiness
+☐ Notice of Medical, Dental or Podiatric Malpractice Date Issue Joined: _________________________
+☐ Notice of Motion Relief Requested: _________________________ Return Date: _________________________
+☐ Notice of Petition Relief Requested: _________________________ Return Date: _________________________
+☑ Order to Show Cause Relief Requested: Injunction/Restraining Order Return Date: _________________________
+☐ Other Ex Parte Application Relief Requested: _________________________
+☐ Partition Settlement Conference
+☐ Request for Preliminary Conference
+☐ Residential Mortgage Foreclosure Settlement Conference
+☐ Waiver of Court Costs, Fees and Expenses
+☐ Writ of Habeas Corpus
+☐ Other (specify): _________________________  |   |   |
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court system's electronic website, had not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5[d]) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.
+
+
+===== Page 39 =====
+
+CAUTION: THIS DOCUMENT HAS NOT YET BEEN REVIEWED BY THE COUNTY CLERK. (See below.)
+NYSCEF DOC. NO. 8
+Case 1:26-cv-00386
+Document 1-1
+Filed 01/15/26
+INDEX NO. UNASSIGNED
+Page 40 of 40
+RECEIVED NYSCEF: 01/15/2026
+
+|  RELATED CASES List any related actions. For Matrimonial cases, list any related criminal or Family Court cases. If none, leave blank. If additional space is required, complete and attach the RJI Addendum (UCS-840A).  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  Case Title | Index/Case Number | Court | Judge (if assigned) | Relationship to instant case  |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  PARTIES For parties without an attorney, check the "Un-Rep" box and enter the party's address, phone number and email in the space provided. If additional space is required, complete and attach the RJI Addendum (UCS-840A).  |   |   |   |   |   |
+|  Un-Rep | Parties List parties in same order as listed in the caption and indicate roles (e.g., plaintiff, defendant, 3rd party plaintiff, etc.) | Attorneys and Unrepresented Litigants For represented parties, provide attorney's name, firm name, address, phone and email. For unrepresented parties, provide party's address, phone and email. |   | Issue Joined For each defendant, indicate if issue has been joined. | Insurance Carriers For each defendant, indicate insurance carrier, if applicable.  |
+|  ☐ | Name: St. Clair, Ashley Role(s): Plaintiff/Petitioner | CARRIE GOLDBERG, C. A. GOLDBERG, PLLC, 16 Court St FL 33, Brooklyn, NY 11241-1013, (646) 666-8908, carrie@cagoldberglaw.com |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: X. Al Holdings Corp. Role(s): Defendant/Respondent | Michael Shuster, Holwell Shuster & Goldberg, LLP, 425 Lexington Ave, New York, NY 10017, 646-837-5153, mshuster@hsgllp.com |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+|  ☐ | Name: Role(s): |  |   | ☐ YES ☐ NO |   |
+
+I AFFIRM UNDER THE PENALTY OF PERJURY THAT, UPON INFORMATION AND BELIEF, THERE ARE NO OTHER RELATED ACTIONS OR PROCEEDINGS, EXCEPT AS NOTED ABOVE, NOR HAS A REQUEST FOR JUDICIAL INTERVENTION BEEN PREVIOUSLY FILED IN THIS ACTION OR PROCEEDING.
+
+Dated: 01/15/2026
+
+CARRIE ANN GOLDBERG
+
+Signature
+
+4542411
+
+Attorney Registration Number
+
+CARRIE ANN GOLDBERG
+
+Print Name
+
+This is a copy of a pleading filed electronically pursuant to New York State court rules (22 NYCRR §202.5-b(d) (3) (i)) which, at the time of its printout from the court's office, has not yet been reviewed and approved by the County Clerk. Because court rules (22 NYCRR §202.5(d)) authorize the County Clerk to reject filings for various reasons, readers should be aware that documents bearing this legend may not have been accepted for filing by the County Clerk.

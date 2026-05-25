@@ -1,0 +1,314 @@
+Source PDF: gov.uscourts.nysd.656279.65.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.65.0.pdf
+OCR Pages: 17
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 1 of 17
+
+# UNITED STATES DISTRICT COURT
+## FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+v.
+X.AI HOLDINGS CORP., X.AI LLC,
+and X.AI CORP.,
+Defendants.
+
+Case No. 1:26-cv-00386
+
+# DEFENDANTS' FURTHER SUPPLEMENTAL MEMORANDUM
+## OF LAW IN SUPPORT OF THEIR MOTION TO TRANSFER VENUE
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 2 of 17
+
+# TABLE OF CONTENTS
+
+PRELIMINARY STATEMENT ...1
+
+BACKGROUND ...2
+
+A. Defendants’ Structure, X’s Terms Of Service, And Plaintiff’s Assent ...2
+
+B. Plaintiff Alleges X Is Closely Related To X.AI And Seeks Relief Against It ...4
+
+ARGUMENT ...5
+
+I. Defendants Can Enforce The X Terms of Service As Third-Party Beneficiaries ...5
+
+II. Because It Is A Close Corporate Affiliate, X.AI Can Enforce The X Terms Of Service ...8
+
+CONCLUSION ...11
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 3 of 17
+
+# TABLE OF AUTHORITIES
+
+## Cases
+
+Page(s)
+
+Agency for International Development v. Alliance for Open Society International, Inc., 591 U.S. 430 (2020) ...6
+Alliance for Open Society International, Inc. v. United States Agency for International Development, 911 F.3d 104 (2d Cir. 2018) ...6
+Alvarez v. Experian Info. Sols. Inc., 2024 WL 3643269 (E.D.N.Y. Aug. 2, 2024) ...7
+Alvarez v. Experian Info. Sols., Inc., 661 F. Supp. 3d 18 (E.D.N.Y. 2023) ...7
+Ambac Assurance Corporation v. Adelanto Public Utility Authority, 2013 WL 139557 (S.D.N.Y. Jan. 11, 2013) ...7
+American Patriot v. Mutual Risk Management, 364 F.3d 884 (7th Cir. 2004) ...11
+Anselmo v. Univision Station Group, Inc., 1993 WL 17173 (S.D.N.Y. Jan. 15, 1993) ...11
+Atlantic Marine v. U.S. District Court, 571 U.S. 49 (2013) ...10
+Cadena Commercial USA Corp. v. Texas Alcoholic Beverage Comm'n, 518 S.W.3d 318 (Tex. 2017) ...6
+City of Houston v. Williams, 353 S.W.3d 128 (Tex. 2011) ...6
+Direct Mail Prod. Servs. Ltd. v. MBNA Corp., 2000 WL 1277597 (S.D.N.Y. Sept. 7, 2000) ...8, 11
+Elec. Mobile Cars, LLC v. Elec. Mobile Cars, Inc., 2012 WL 5264454 (S.D.N.Y. Oct. 17, 2012) ...10
+Eliza Labs, Inc. v. X Corp., 2025 WL 3003766 (N.D. Cal. Oct. 27, 2025) ...9
+Exp.-Imp. Bank v. Hi-Films S.A., 2010 WL 3743826 (S.D.N.Y. Sept. 24, 2010) ...10
+Fasano v. Li, 47 F.4th 91 (2d Cir. 2022) ...1, 8, 9, 10
+Flickinger v. Harold C. Brown &amp; Co., 947 F.2d 595 (2d Cir. 1991) ...5
+
+
+===== Page 3 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 4 of 17
+
+In re Generali COVID-19 Travel Ins. Litig.,
+577 F. Supp. 3d 284 (S.D.N.Y. 2021) ...7, 8
+In re Optimal U.S. Litigation,
+813 F. Supp. 2d 351 (S.D.N.Y. 2011) ...9
+In re Optimal U.S. Litigation,
+813 F. Supp. 2d 383 (S.D.N.Y. 2011) ...9
+In re Palm Harbor Homes, Inc.,
+195 S.W.3d 672 (Tex. 2006) ...5, 7
+Levin v. Tiber Holding Corp.,
+277 F.3d 243 (2d Cir. 2002) ...6
+Magi XXI, Inc. v. Stato della Citta del Vaticano,
+714 F.3d 714 (2d Cir. 2013) ...8
+Melwani v. Amazon.com,
+2021 WL 4429604 (S.D.N.Y. 2021) ...10
+Meyer v. Uber Techs., Inc.,
+868 F.3d 66 (2d Cir. 2017) ...10
+Miller-Rich v. Altum Pharms. Inc.,
+2023 WL 8187875 (S.D.N.Y. Nov. 27, 2023) ...9
+Overseas Ventures, LLC v. ROW Mgmt., Ltd., Inc.,
+2012 WL 5363782 (S.D.N.Y. Oct. 26, 2012) ...8
+RBG Mgmt. Corp. v. Vill. Super Mkt., Inc.,
+2024 WL 1574026 (S.D.N.Y. Apr. 11, 2024) ...9
+Schuyler v. Sun Life Assurance Co. of Canada,
+150 F.4th 57 (2d Cir. 2025) ...6
+Sgouros v. TransUnion Corp.,
+817 F.3d 1029 (7th Cir. 2016) ...11
+SingularDTV GmbH v. LeBeau,
+2022 WL 6771081 (S.D.N.Y. Oct. 11, 2022) ...11
+Taddeo-Waite v. X. Corp.,
+2025 WL 3237422 (D. Conn. Nov. 20, 2025) ...1, 9, 11
+Ward v. Am. Airlines, Inc.,
+498 F. Supp. 3d 909 (N.D. Tex. 2020) ...7, 8
+Weingard v. Telepathy, Inc.,
+2005 WL 2990645 (S.D.N.Y. Nov. 7, 2005) ...11
+
+Statutes
+28 U.S.C. § 1404 ...11
+
+
+===== Page 4 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 5 of 17
+
+Texas Business Organizations Code § 1.002...6
+
+## Other Authorities
+
+Black’s Law Dictionary (12th ed. 2024)...6
+
+Williston on Contracts, § 37:10 (4th ed.)...5
+
+
+===== Page 5 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 6 of 17
+
+Defendants X.AI Holdings Corp., X.AI LLC, and X.AI Corp. (together, “Defendants” or “X.AI”) submit in support of their motion to transfer, Dkt. 11, this further supplemental memorandum of law “on the issue of X.AI being able to assert the forum selection clause in X’s terms of service,” Dkt. 61. Defendants incorporate by reference their previous briefs (Dkt. 13 (Opening Br.); Dkt. 21 (Reply Br.); Dkt. 41 (Suppl. Br.)).
+
+## PRELIMINARY STATEMENT
+
+The Court directed further briefing addressing whether X.AI may enforce the X Terms of Service. The clear answer is yes, for at least two reasons.
+
+First, Defendants are expressly denominated third-party beneficiaries of the forum-selection clause in the X Terms of Service. Under governing law, therefore, Defendants may enforce the clause in the X Terms of Service providing for an exclusive forum in Texas.
+
+Second, even if Defendants were not so denominated, Second Circuit precedent “permit[s] non-signatories to an agreement . . . to enforce[] forum selection clauses where, under the circumstances, the non-signatories enjoyed a sufficiently close nexus to the dispute or to another signatory.” Fasano v. Li, 47 F.4th 91, 103 (2d Cir. 2022). And courts must take care to avoid “g[i]v[ing] the forum selection clause an unwarrantedly narrow interpretation and thereby undercount[ing] the non-signatory defendants who should be covered.” Id. at 100. X Corp. and X.AI indeed share a close relationship, as Plaintiff’s own allegations and the public record make clear. “Thus, X.AI Corp.’s non-signatory status to the [X Corp.] Terms does not alter [its] ability to invoke the forum-selection clauses within those terms in seeking to transfer the instant action to the Northern District of Texas.” Taddeo-Waite v. X. Corp., 2025 WL 3237422, at *3 (D. Conn. Nov. 20, 2025).
+
+All forum-related roads here lead to Texas. The Court should transfer this case.
+
+
+===== Page 6 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 7 of 17
+
+# BACKGROUND
+
+## A. Defendants' Structure, X's Terms Of Service, And Plaintiff's Assent
+
+1. Defendant X.AI Holdings Corp.—now X.AI Holdings LLC—is the direct parent entity of Defendant X.AI Corp. and the indirect parent of both X Corp. and Defendant X.AI LLC. Dkt. 12 (Jan. 16 Murphy Decl.), ¶ 4; Dkt. 18 (Jan. 21 Birkenfeld-Malpass Decl.), ¶ 4; Feb. 18 Declaration of Samantha Birkenfeld-Malpass (“Feb. 18 Birkenfeld-Malpass Decl.”), ¶ 4. X Corp. owns and operates the X platform, which was formerly known as Twitter. See Dkt. 18, ¶ 5; Dkt. 29 (Jan. 30 Birkenfeld-Malpass Decl.), ¶ 4. Defendants and X Corp. are all U.S. headquartered and incorporated. See Dkt. 12, ¶ 3; Dkt. 18, ¶ 3.
+
+2. As relevant here, the current X Terms of Service became effective as of January 15, 2026. See Dkt. 22 (Jan. 23 Birkenfeld-Malpass Decl.), ¶¶ 4–5.¹ The X Terms of Service require that “all disputes” (whether “pending” or in the “future” and “regardless of when the conduct relating to the dispute arose or occurred”) “arising out of or relating to” a user’s (or others’) use of the X “Service,” or “Content” on X, “shall be brought and must proceed exclusively” in federal or state court in Tarrant County, Texas.² The Terms also specify that “[t]he choice of law and forum selection provisions of this paragraph shall also extend to disputes involving [X’s] U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph.” See Feb. 18 Birkenfeld-Malpass Decl., Ex. A, § 6 (PDF p. 12) (emphasis added).
+
+Section 6 of the X Terms of Service is excerpted below (emphases added):
+
+The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other
+
+¹ Although Defendants previously provided links to the X Terms of Service, and the Court could take judicial notice of them, see Dkt. 21 (Reply Br.) at 3 &amp; n.2; Dkt. 22, ¶¶ 4–5, for completeness, Defendants provide the Court the current X Terms of Service herewith. See Feb. 18 Birkenfeld-Malpass Decl., Ex. A.
+
+² The U.S. District Court for the Northern District of Texas covers Tarrant County, Texas. See https://www.txnd.uscourts.gov/court-locator.
+
+
+===== Page 7 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 8 of 17
+
+agreement to the contrary, all disputes related to these Terms, the Services, or any patents — including without limitation disputes related to or arising from any Content (whether your or others’ Content), or your or others’ use of the Services or the complete or partial termination thereof — shall be brought and must proceed exclusively in the federal or state courts located in Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph.
+
+Id.
+
+The preliminary statement to the X Terms of Service defines “Services” as “access to and use of, and anything otherwise relating to, our or our corporate affiliates’ services[.]” Id. at PDF p. 4. It further defines “Content” as “any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as ‘Content’).” Id. And the X Terms of Service define, as the “X Entities,” “X Corp., its parents, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors.” Id. at PDF p. 10.
+
+3. On December 16, 2025, X posted a notice to its website, notifying users that X was “updating the X Terms of Service and Privacy Policy”; “summar[izing]” those changes; “encourag[ing] [users] to read these changes in full since they govern your use of X”; and reminding users that “[i]f you continue to use our products or services on or after January 15, 2026, you agree” to the updated Terms of Service and Privacy Policy.³
+
+³ See Updates to our Terms and Privacy Policy (Dec. 16, 2025), available at https://privacy.x.com/en/blog/2025/updates-tos-privacy-policy.
+
+
+===== Page 8 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 9 of 17
+
+Further, “[w]hen X Corp. changed its Terms of Service . . . it sent all users a prompt through the X platform notifying them of the revised terms” and “X Corp.’s records reflect that [Plaintiff] received such a prompt for [this] iteration[] of the Terms of Service and clicked through them.” Dkt. 22 (Jan. 23 Birkenfeld-Malpass Decl.), ¶¶ 6–7. Specifically, X Corp.’s records show Plaintiff “[c]licked” on the “Got It” button on December 16, 2025 at 11:37 a.m.—i.e., the same day X Corp. posted the website notice advising of the change in terms—thereby manifesting assent to the X Terms of Service and Privacy Policy that became effective as of January 15, 2026. See Dkt. 29, ¶¶ 10–11; Dkt. 29-3 (Ex. C), at pp. 1, 6; Supp. Br. 11–14.
+
+## B. Plaintiff Alleges X Is Closely Related To X.AI And Seeks Relief Against It
+
+Plaintiff’s operative complaint, filed February 3, 2026 (Dkt. 36), is replete with references to, and claims of misconduct by, X Corp., including purported dissemination of the at-issue images on the X platform. Indeed, the operative complaint makes clear that X Corp. is a central character in Plaintiff’s allegations. Consider just a few examples. See, e.g., Dkt. 36, ¶ 23 (“Ms. St. Clair’s claims are concerned with Grok’s *integration into X* and its own output it *publishes on X*.” (emphasis added)); id. ¶ 7 (“Defendants are directly liable for the harassment and explicit images created by its own chatbot, Grok, and *disseminated on its own platform, X*.” (emphasis added)); id. ¶ 81 (alleging that “X” unexplainedly “removed Ms. St. Clair’s Premium subscription, her verification checkmark, and demonetized her account by banning her from the monetization and subscriber program”); id. ¶ 166 (“The deepfake images depicting Plaintiff that Defendants created via Grok and *published via X* are falsehoods.” (emphasis added)).
+
+Plaintiff also alleges that X and X.AI are closely related and operate in concert. See id. ¶ 3 (“xAI . . . publish[ed] sexually exploitive material . . . on its affiliated social media platform X.” (emphasis added)); ¶ 18 (“X CORP . . . operates the social media platform X on which xAI’s generative artificial intelligence chatbot, Grok, is a feature within its own tab within X, ‘Grok-in-
+
+
+===== Page 9 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 10 of 17
+
+X,' and account that interacts with X users."); id. ¶ 27 (“xAI and X Corp have collaborated to integrate Grok into the X social media platform . . .”); id. ¶ 41 (“xAI, through its @Grok account on X, was creating and publishing digitally altered images of women and children that were sexually explicit and degrading.”); id. ¶ 113 (“Defendants trained and installed a feature, Grok, that creates nonconsensual deepfake, sexualized content, including digitally undressing people, and established a system for that content to be immediately and frictionlessly published onto X.”); see also id. ¶¶ 42, 96, 104, 107, 121, 122, 129, 136, 140, 157.
+
+In this vein, at the conference on January 27, Plaintiff's counsel admitted that Plaintiff "seek[s] relief against" X Corp., Dkt. 26 at 21:14–15, and reiterated Plaintiff's assertion that X and X.AI are closely related—indeed, "alter egos," id. at 8:20–25 ("[T]hese companies are all, sort of, alter egos.").
+
+## ARGUMENT
+
+Defendants may enforce the mandatory forum-selection clause in the X Terms of Service for at least two distinct reasons. First, Defendants are expressly denominated third-party beneficiaries of the forum-selection clause in the X Terms of Service. Second, they are closely related to X and therefore, under binding Second Circuit precedent, are entitled to enforce this contractually agreed venue provision. Each basis independently requires transfer.⁴
+
+## I. Defendants Can Enforce The X Terms of Service As Third-Party Beneficiaries
+
+It is black-letter law that a third-party beneficiary of a contract can enforce the contract as if it were a party. In re Palm Harbor Homes, Inc., 195 S.W.3d 672, 677 (Tex. 2006); Flickinger v. Harold C. Brown &amp; Co., 947 F.2d 595, 600 (2d Cir. 1991). “[T]he intent to benefit a third party can be shown . . . by the contract’s express language.” Williston on Contracts, § 37:10 (4th ed.);
+
+
+===== Page 10 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 11 of 17
+
+see City of Houston v. Williams, 353 S.W.3d 128, 145 (Tex. 2011); Levin v. Tiber Holding Corp., 277 F.3d 243, 249 (2d Cir. 2002).
+
+The X Terms of Service leave no room for doubt that the X.AI entities are third-party beneficiaries of the agreement between Plaintiff and X Corp. The Terms state: “The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph.” Feb. 18 Birkenfeld-Malpass Decl., Ex. A § 6 (PDF p. 12) (emphasis added).
+
+Under controlling law, Defendants may therefore enforce the forum-selection clause in the X Terms of Service. Defendants are all “U.S. corporate affiliate[s]” of X, as they are all either the indirect parent corporation or entities controlled by a common parent. Dkt. 12, ¶ 4; Dkt. 18, ¶ 4; Feb. 18 Birkenfeld-Malpass Decl., ¶ 4. See Cadena Commercial USA Corp. v. Texas Alcoholic Beverage Comm’n, 518 S.W.3d 318, 329 (Tex. 2017) (“An ‘affiliate’ is ‘a person who controls, is controlled by, or is under common control with another person.’” (quoting Tex. Bus. Orgs. § 1.002.)); All. for Open Soc’y Int’l, Inc. v. United States Agency for Int’l Dev., 911 F.3d 104, 112 (2d Cir. 2018) (defining affiliate as “[a] corporation that is related to another corporation by shareholdings or other means of control; a subsidiary, parent, or sibling corporation.” (citation modified)), rev’d on other grounds sub nom., Agency for Int’l Dev. v. All. for Open Soc’y Int’l, Inc., 591 U.S. 430 (2020); Schuyler v. Sun Life Assurance Co. of Canada, 150 F.4th 57, 66 (2d Cir. 2025) (“Black’s Law Dictionary defines ‘affiliate’ as ‘[a] corporation that is related to another corporation by shareholdings or other means of control; a subsidiary, parent, or sibling corporation.’” (quoting Affiliate, Black’s Law Dictionary (12th ed. 2024))).
+
+As a result, under the X Terms of Service, Defendants are all “intended third-party beneficiaries” of the “forum selection provisions” contained in those terms and may enforce them.
+
+
+===== Page 11 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 12 of 17
+
+See, e.g., In re Palm Harbor Homes, Inc., 195 S.W.3d at 677 (permitting third-party enforcement of arbitration agreement when contract stated “that it ‘inure[d] to the benefit of the [third-party]’”); Ambac Assur. Corp. v. Adelanto Pub. Util. Auth., 2013 WL 139557, at *3 (S.D.N.Y. Jan. 11, 2013) (“Because Ambac is a third party beneficiary to the Swap Agreement, the forum selection clause is enforceable”; “It is well settled that an entity or individual that is a third-party beneficiary of the agreement may enforce a forum selection clause found within the agreement.” (citation modified)).
+
+This conclusion does not change merely because the contract at issue consists of terms of service. To the contrary, courts routinely enforce third-party beneficiary provisions in terms of service or use. See, e.g., In re Generali COVID-19 Travel Ins. Litig., 577 F. Supp. 3d 284, 286, 290 (S.D.N.Y. 2021) (the “basis of Generali’s motion to compel arbitration is an arbitration clause in the terms of service of Vrbo.com, which provided that Generali was a beneficiary of the clause”; compelling arbitration because the clause “unambiguously provides that arbitration is required for any ‘[c]laims . . . against any companies offering products or services through us (which are beneficiaries of this arbitration agreement)’”); Alvarez v. Experian Info. Sols., Inc., 661 F. Supp. 3d 18, 22, 27 (E.D.N.Y. 2023) (noting that “[e]ven if Experian could not enforce the Arbitration Agreement as a party, under a third-party beneficiary theory, Experian may do so” pursuant to terms of use between plaintiff and “ConsumerInfo.com, Inc. . . . a corporate affiliate of Experian, both wholly owned by Experian Holdings, Inc., and shar[ing] the same parent company Experian plc.”), report and recommendation adopted, 2024 WL 3643269 (E.D.N.Y. Aug. 2, 2024); Ward v. Am. Airlines, Inc., 498 F. Supp. 3d 909, 922 (N.D. Tex. 2020) (enforcing “Expedia’s Terms of Use,” which “unequivocally provide[d] ‘any Claims you assert against . . . our travel suppliers or any companies offering products or services through us (which are beneficiaries of this arbitration agreement)’ must be ‘resolved by binding arbitration’” (alterations omitted)).
+
+
+===== Page 12 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 13 of 17
+
+Accordingly, because the X Terms of Service “clearly express[] an intent to confer on [X.AI]” the “right to invoke the” forum-selection clause, In re Generali, 577 F. Supp. 3d at 292, X.AI may “invoke the [forum-selection] clause[] to compel” Plaintiff to try her claims in Texas, Ward, 498 F. Supp. 3d at 921.
+
+## II. Because It Is A Close Corporate Affiliate, X.AI Can Enforce The X Terms Of Service
+
+Even aside from the express third-party beneficiary clause of the X Terms of Service, Second Circuit precedent establishes that a “closely related” non-signatory defendant may enforce a forum-selection clause. See Magi XXI, Inc. v. Stato della Citta del Vaticano, 714 F.3d 714 (2d Cir. 2013). In Magi, the Circuit “h[e]ld that a non-signatory to a contract containing a forum selection clause may enforce the forum selection clause against a signatory when the non-signatory is ‘closely related’ to another signatory.” Id. at 723. “In such instances, the relationship between the non-signatory and that (latter) signatory must be sufficiently close that the non-signatory’s enforcement of the forum selection clause is ‘foreseeable.’” Id. The Circuit has since emphasized the rule articulated in Magi. See Fasano, 47 F.4th at 100 (applying rule and explaining that “the district court gave the forum selection clause an unwarrantedly narrow interpretation and thereby undercounted the non-signatory defendants who should be covered”).
+
+The “closely related” test is easily satisfied here.
+
+A. To begin, “[t]he ‘closely related’ test is necessarily satisfied where the defendant is a third-party beneficiary of the agreement.” Overseas Ventures, LLC v. ROW Mgmt., Ltd., Inc., 2012 WL 5363782, at *5 (S.D.N.Y. Oct. 26, 2012); see Direct Mail Prod. Servs. Ltd. v. MBNA Corp., 2000 WL 1277597, at *4 (S.D.N.Y. Sept. 7, 2000) (non-signatory defendants could invoke forum-selection clause where, inter alia, “[a]greement explicitly provided that the data supplied by Direct Mail could be used for the benefit of related MBNA companies”). That is true here. See
+
+
+===== Page 13 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 14 of 17
+
+supra Part I. Thus, “the forum-selection clauses within the [X] Terms—which invoke ‘X Entities’ including X Corp.’s ‘related companies’—are broad enough such that X.AI Corp.’s enforcement of the clauses was foreseeable.” Taddeo-Waite v. X. Corp., 2025 WL 3237422, at *3 (D. Conn. Nov. 20, 2025).
+
+Further, although it is sufficient, “third-party beneficiary status is not required” to satisfy the test. In re Optimal U.S. Litig., 813 F. Supp. 2d 351, 369 (S.D.N.Y. 2011), on reconsideration in part, 813 F. Supp. 2d 383 (S.D.N.Y. 2011). In addition, a non-signatory may enforce a forum-selection clause where “allegations underscore the closeness of the relationship” with the signatory. See RBG Mgmt. Corp. v. Vill. Super Mkt., Inc., 2024 WL 1574026, at *4 (S.D.N.Y. Apr. 11, 2024).
+
+Plaintiff alleges just such a close relationship between X and X.AI. She effectively contends that they acted in concert to harm Plaintiff. See, e.g., Dkt. 36 ¶ 7 (“Defendants are directly liable for the harassment and explicit images created by its own chatbot, Grok, and disseminated on its own platform, X.”); id. ¶ 23 (“Ms. St. Clair’s claims are concerned with Grok’s integration into X and its own output it publishes on X.”); id. ¶ 27 (“xAI and X Corp have collaborated to integrate Grok into the X social media platform[.]”). This too satisfies the “closely related” test. Miller-Rich v. Altum Pharms. Inc., 2023 WL 8187875, at *11 (S.D.N.Y. Nov. 27, 2023) (non-signatory “fit within a recognized category of ‘closely related’ parties, namely, parties that allegedly acted in concert with signatories”); see Fasano, 47 F.4th at 103 (enforcement of forum clause by non-signatory foreseeable where “the non-signatories enjoyed a sufficiently close nexus to the dispute”). Accordingly, “non-parties to an agreement containing a forum-selection clause, like the X.AI Defendants vis-à-vis the X User Terms, can benefit from such a clause where,
+
+
+===== Page 14 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 15 of 17
+
+as here, the litigation concerns conduct related to the agreement.” *Eliza Labs, Inc. v. X Corp.*, 2025 WL 3003766, at *5 (N.D. Cal. Oct. 27, 2025) (citation modified).
+
+Moreover, Plaintiff has alleged that X Corp. and X.AI are “alter egos” and “affiliated” companies engaged in a “corporate shell game.” Dkt. 26 at 8:20–25 (“[T]hese companies are all, sort of, alter egos.”); Dkt. 36, ¶ 3 (“x.AI . . . publish[ed] sexually exploitative material . . . on its affiliated social media platform X.”); Dkt. 47 (Pltf. Supp. Br.) at 9. This is also enough. See Elec. Mobile Cars, LLC v. Elec. Mobile Cars, Inc., 2012 WL 5264454, at *1 (S.D.N.Y. Oct. 17, 2012) (non-signatory and signatory “closely related” because they were allegedly “alter egos”).
+
+B. Finally, Plaintiff has not come close to making a “clear[] show[ing]” that allowing X.AI to enforce the venue provision in the X Terms of Service—a provision of which X.AI is an expressly identified beneficiary—“would be unreasonable and unjust, or that the clause was invalid for such reasons as fraud or overreaching.” *Fasano*, 47 F.4th at 101 (citation modified).
+
+Plaintiff has argued that transfer would be “unreasonable and unjust” because of the disparity of resources and the inconvenience of litigating in Texas. Dkt. 47 (Pltf. Supp. Br.) at 11–12. These arguments fail as a matter of law; the Court “must deem the private-interest factors,” such as traveling distance or financial disparity, “to weigh entirely in favor of the preselected forum.” *Atlantic Marine v. U.S. Dist. Ct.*, 571 U.S. 49, 64 (2013); see *Melwani v. Amazon.com*, 2021 WL 4429604, at *5 (S.D.N.Y. 2021) (referencing “Plaintiff’s personal proximity to the Southern District” and holding that “the Court cannot give Plaintiff’s private interests or forum preference any weight in this analysis”); *Exp.-Imp. Bank v. Hi-Films S.A.*, 2010 WL 3743826, at *10 (S.D.N.Y. Sept. 24, 2010) (A party’s “personal financial difficulties are [] insufficient to rebut the presumption of enforceability.”). Nor has Plaintiff argued that her assent to the X Terms of Service was the product of any fraud, for good reason—she manifested specific assent to the
+
+
+===== Page 15 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 16 of 17
+
+operative Terms of Service by clicking “Got It.” Supra at 4; Dkt. 29, ¶¶ 10–11; see Meyer v. Uber Techs., Inc., 868 F.3d 66, 75 (2d Cir. 2017) (“Courts around the country have recognized that [an] electronic ‘click’ can suffice to signify the acceptance of a contract[.]” (quoting Sgouros v. TransUnion Corp., 817 F.3d 1029, 1033 (7th Cir. 2016))).
+
+In sum, “Plaintiff identifies no fraud, overreaching, or fundamental unfairness in the chosen forum,” and her “remaining arguments” including “the inconvenience of litigating pro se . . . do not implicate any strong [] public policy or demonstrate that trial in Texas would deprive h[er] of h[er] day in court.” Taddeo-Waite, 2025 WL 3237422 at *4.
+
+Nor does it matter that X Corp. is not a party here, contrary to Plaintiff’s suggestion otherwise. Dkt. 47 at 8–10 &amp; n.1. Courts have routinely rejected that very contention. See SingularDTV GmbH v. LeBeau, 2022 WL 6771081, at *4 (S.D.N.Y. Oct. 11, 2022) (enforcing forum selection clause “even though neither Defendant [wa]s a party to the Agreement”); Direct Mail, 2000 WL 1277597, at *3 (enforcing forum selection clause even though it was an “undisputed fact that none of the defendants was a signatory to the Agreement containing the clause”). And rightly so—it has long been recognized that a party cannot get around a mandatory venue clause by artful pleading. See American Patriot v. Mutual Risk Management, 364 F.3d 884, 889 (7th Cir. 2004) (Posner, J.) (A “forum-selection clause” cannot “be defeated by suing an affiliate or affiliates of the party to the contract in which the clause appears, or employees of the affiliates.”); Weingard v. Telepathy, Inc., 2005 WL 2990645, at *4 (S.D.N.Y. Nov. 7, 2005) (“A forum selection clause cannot ‘be defeated by artful pleading of claims . . .’” (quoting Anselmo v. Univision Station Group, Inc., 1993 WL 17173, at *2 (S.D.N.Y. Jan. 15, 1993))).
+
+## CONCLUSION
+
+The Court should transfer this action to the U.S. District Court for the Northern District of Texas pursuant to 28 U.S.C. § 1404.
+
+
+===== Page 16 =====
+
+Case 1:26-cv-00386-ALC Document 65 Filed 02/18/26 Page 17 of 17
+
+Dated: February 18, 2026
+New York, New York
+
+/s/ Michael S. Shuster
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+Michael S. Shuster
+Daniel M. Sullivan
+Gregory J. Dubinsky
+Brian T. Goldman
+425 Lexington Ave., 14th Floor
+New York, New York 10017
+Tel: 646.837.5151
+mshuster@hsgllp.com
+dsullivan@hsgllp.com
+gdubinsky@hsgllp.com
+bgoldman@hsgllp.com
+
+Attorneys for Defendants

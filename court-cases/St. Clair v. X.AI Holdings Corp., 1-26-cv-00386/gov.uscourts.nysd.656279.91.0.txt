@@ -1,0 +1,82 @@
+Source PDF: gov.uscourts.nysd.656279.91.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.91.0.pdf
+OCR Pages: 4
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 91 Filed 03/24/26 Page 1 of 4
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+March 24, 2026
+
+Re: Ashley St. Clair v. X.AI Holdings Corp. et al., No. 1:26-cv-00386
+
+Dear Judge Carter,
+
+I write on behalf of Defendants ("X.AI"). Dkt. 90. Although Plaintiff has focused on whether she used X on or after January 15, 2026—and the undisputed record evidence makes clear she did—that question is academic, as transfer is warranted for several independent reasons.¹
+
+A. Version 20 of the X TOS Requires Transfer
+
+Assent. The X TOS in effect from November 15, 2024 through January 14, 2026 ("Version 20" (Ex. A hereto)) provided "for exclusive jurisdiction in state and federal courts in Texas." Dkt. 40 at 13; Dkt. 21 at 3 &amp; n.2. Version 20 says a user "form[s] a binding contract" when a user "[i] accept[s] these Terms and/or [ii] us[es] the Services, which constitutes acceptance of these Terms." Version 20, § 1. Plaintiff bound herself to Version 20 both ways. First, X sent Plaintiff "in-app prompts notifying her of both iterations of the Terms of Service" (including Version 20), Dkt. 29, ¶ 6, and she "[c]licked" a "Got It" button on October 24, 2024, thereby manifesting assent to Version 20, id. ¶¶ 7–9; Meyer v. Uber Techs., Inc., 868 F.3d 66, 79 (2d Cir. 2017) ("A reasonable user would know that by clicking the... button, he was agreeing to the terms and conditions[.]"). Second, Plaintiff admits she used the X platform during the period when Version 20 was operative: she acknowledges that she "last posted on X on January 14, 2026." Dkt. 69-1, ¶ 7. Plaintiff is therefore wrong that she never received "inquiry notice" or "manifested... assent" to the X TOS (Dkt. 69 at 12). See, e.g., Doe v. X Corp., 2025 WL 3500543, at *7 (N.D. Cal. Nov. 6, 2025) ("Plaintiff was on notice of this change and assented to the revised Terms of Service when [s]he continued to use the website."). She is bound by Version 20.
+
+Enforcement. Version 20's forum clause is thus "presumptively enforceable." Martinez v. Bloomberg LP, 740 F.3d 211, 217 (2d Cir. 2014). X.AI may rely on that "presumptively enforceable" clause because X Corp. and X.AI are "closely related" parties, so "it was foreseeable that" X.AI "would enforce the forum selection clause[.]." Magi XXI, Inc. v. Stato della Citta del Vaticano, 714 F.3d 714, 724 (2d Cir. 2013). The "X Entities" in Version 20 includes "X Corp.[s]" "affiliates." Version 20, § 5. And Plaintiff's "allegations underscore the closeness of the relationship" between X.AI and the signatory, X. See Dkt. 65 at 9–10 (citing allegations). Thus, "the forum-selection clauses within the [X] Terms—which invoke 'X Entities' including X Corp.'s 'related companies'—are broad enough such that X.AI Corp.'s enforcement of the clauses was foreseeable." Taddeo-Waite v. X. Corp., 2025 WL 3237422, at *3 (D. Conn. Nov. 20, 2025).
+
+Against this, Plaintiff suggests that X.AI has abandoned this line of argument or cannot enforce Version 20 because it lacks a third-party beneficiary clause. Dkt. 69 at 5. Wrong again. X.AI has repeatedly invoked Version 20, see Dkt. 21 at 3 &amp; n.2; Dkt. 40 at 10–14; Dkt. 65 at 1 (incorporating prior briefing), and it does not matter that Version 20 contains no third-party beneficiary clause. "[T]hird-party beneficiary status is not required" to satisfy the test. In re Optimal U.S. Litig., 813 F. Supp. 2d 351, 369 (S.D.N.Y. 2011). As explained, X.AI may enforce Version 20 because X Corp. "enjoy[s] a sufficiently close nexus to the dispute." Fasano v. Li, 47 F.4th 91, 103 (2d Cir. 2022); Dkt. 65 at 8–11.
+
+¹ X.AI addresses here only the submissions since the last conference, and incorporates by reference prior arguments.
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 91 Filed 03/24/26 Page 2 of 4
+
+# HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+## B. Version 21 of the X TOS Independently Requires Transfer
+
+**Assent.** Plaintiff is also bound by the operative X TOS (“Version 21” (Ex. B hereto)). Version 21, like Version 20, says a user “form[s] a binding contract” when she “accept[s] these Terms and/or us[es] the Services, which constitutes acceptance of these Terms.” Version 21, § 1. Plaintiff “accepted th[o]se Terms,” and therefore “form[ed] a binding contract” with X, when, “on December 16, 2025,” she “received [an] in-app prompt[]” on the X platform and “clicked the ‘Got It’ button.” Version 21, § 1; Dkt. 29, ¶¶ 6, 7, 10, 11; see Meyer, 868 F.3d at 79. That Version 21 became effective a month later (January 15, 2026) does not negate her manifestation of assent to be bound and the formation of a binding contract in December.
+
+Plaintiff’s counterarguments fail. She argues that Version 21 “only bind[s] X users who ‘continue to use our products or services on or after January 15, 2026.’” Dkt. 69 at 3 (emphasis in original). However, Plaintiff is not quoting Version 21, but rather is adding her own words to a notice posted about Version 21; the conceit of her claim—that it “only” binds X users who use X after a date certain—does not appear anywhere either in Version 21 or the notice she quotes. Indeed, Version 21 says the opposite, explaining that it “constitutes acceptance” of Version 21 if X users “accept[] these Terms and/or us[e] the Services.” Version 21, § 1. That is what Plaintiff did, by clicking the “Got It” button via the in-app prompt she received on December 16, 2025.
+
+Plaintiff next points to Section 6 of Version 21, which says that “[b]y continuing to access or use the Services after those revisions become effective, you agree to be bound by the revised Terms.” Dkt. 69 at 4 (quoting Version 21, § 6). That undermines, not helps, Plaintiff. In the first place, Section 6 does not replace the methods of acceptance set forth in Section 1 of Version 21. It provides an additional form of acceptance. Moreover, it is undisputed that Plaintiff did “access the Services” after January 15, 2026: X.AI submitted an access log of Plaintiff’s X account showing she accessed the X platform on nine different dates after January 15, 2026. Dkt. 71, ¶¶ 9–10 &amp; Ex. A (PDF pp. 5–7).
+
+After X.AI presented this evidence, Plaintiff asserted she accessed X to “study” the X TOS, Dkt. 76-1, ¶ 18, and submitted her browser history showing, at most, two such instances, Dkt. 84-1 (PDF pp. 5–6). Even assuming Plaintiff only accessed X to study its TOS (which is inaccurate, see Dkt. 79, ¶¶ 6–8), Version 21 defines “Services” as “access to and use of anything of, and anything otherwise relating to, our or our corporate affiliates’ services,” Version 21 (PDF p. 4). That expansive definition encompasses visits to the X platform to “study” the X TOS. Dkt. 84-1, ¶¶ 5, 8. While Plaintiff contends this is not “genuine use,” Dkt. 76-1, ¶ 16, her elastic term—“genuine use”—appears nowhere in the contract; “access or use” (Version 21, § 6) is enough.
+
+In any event, even if some undefined “genuine use” were required, X.AI’s unrebutted evidence shows that, in the first two months of 2026, Plaintiff logged into the X platform on seven different dates from January 16 to February 3 (Dkt. 71, ¶ 9 &amp; Ex. A)—and Plaintiff has not submitted any evidence, from her browser history or elsewhere, contending that, on all these days, she only used the X platform to “study” the TOS.² Plaintiff is therefore also bound by Version 21
+
+² Although the Court need not reach the issue, Plaintiff’s self-study explanation is highly implausible. The access logs (Dkt. 71 Ex. A) show Plaintiff’s X account accessed X on January 16, 2026, but the X Terms of Service were not mentioned in briefing until January 23, 2026, see Dkt. 21 at 3.
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386-ALC Document 91 Filed 03/24/26 Page 3 of 4
+
+# HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+both because she accepted the terms (the "Got It" button) and through her "access" and "use" of the "Services."
+
+Enforcement. Version 21 has an explicit third-party beneficiary provision that extends the "forum selection provisions" to "disputes involving... U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph." Version 21, § 6. X.AI is a corporate affiliate of X Corp., see Dkt. 65 at 6, and thus can enforce Version 21's forum-selection clause, id. at 7 (citing cases). X.AI can also enforce Version 21 for the same reasons it can enforce Version 20: Plaintiff has alleged that X.AI and X Corp. are "closely related." See supra; Dkt. 65 at 8-10.
+
+Plaintiff argues that X.AI is not an "intended third-party beneficiary" because it is not expressly "named" in Version 21 and that Version 21 separately "define[s]" "U.S. corporate affiliate." Dkt. 69 at 7. That is wrong—nowhere in Version 21 is "U.S. corporate affiliate" defined (let alone in the odd way Plaintiff suggests, Dkt. 69 at 6-7). It is also wrong as a legal matter, as the only case Plaintiff cites deals with the circumstance (not present here) where the contract lists some third parties, but not others. Id. at 7 (citing Sony Corp. v. Fujifilm Holdings Corp., 2017 WL 4342126, at *7 (S.D.N.Y. Sept. 28, 2017)). Here, third-party beneficiary status is granted to "U.S. corporate affiliates" without identifying specific affiliates. That suffices to capture X.AI. Newman &amp; Schwartz v. Asplundh Tree Expert Co., 102 F.3d 660, 663 (2d Cir. 1996) ("[A] party need not necessarily be specifically mentioned in a contract to be considered a third-party beneficiary.")
+
+Plaintiff also attempts to distinguish multiple cases that have allowed X. Corp's corporate affiliates to enforce X's TOS and transfer actions to Texas on the basis that in those cases, "X Corp. [wa]s a defendant." Dkt. 69 at 8. That is a distinction without a difference, and courts have routinely rejected that very contention. Dkt. 65 at 11 (citing cases). Nor does Plaintiff's attempt to get around the closely-related test work: she herself alleged X.AI and X Corp. are 'closely related' in her First Amended Complaint, and the forum-selection clause encompasses all disputes "related to or arising from any Content" on the X platform. Versions 20 &amp; 21 § 6; see also Taddeo-Waite, 2025 WL 3237422, at *3.
+
+## C. The X.AI TOS Require Transfer
+
+Finally, Plaintiff says X.AI "originally sought to enforce X.AI's TOS," (Dkt. 69 n.2) suggesting that X.AI no longer relies on those terms for transfer. Not so. The X.AI TOS (Ex. C hereto) require transfer to Texas too. It is unrebutted that Plaintiff created an X.AI account in December 2024, and in doing so, agreed to the X.AI TOS. Dkt. 55, ¶¶ 5-27. Texas law governed those terms. Dkt. 23-1 (PDF p. 20). The X.AI TOS specified that "continued use of the Service after any change to these Terms constitutes your acceptance of the new Terms of Service" and that users should "review th[e] page periodically" to see "update[s]" to the TOS. Id. (PDF pp. 19-20). There is unrebutted evidence that Plaintiff used Grok in January 2026. Dkt. 29, ¶¶ 13-15, Dkt. 29-4, Ex. D. Under Texas law, that is sufficient to bind her to the current X.AI TOS (Plaintiff's claims all arise after the current X.AI TOS took effect, so no retroactive application is sought). Tello v. Porsche Fin. Servs., Inc., 2024 WL 5456734, at *3 (W.D. Tex. June 20, 2024) ("By virtue of accessing the website after the updated agreement, Tello assented to these updated terms[.]"); SCI Shared Res., LLC v. Echovita, Inc., 679 S.W.3d 193, 201 (Tex. App. 2023).
+
+
+===== Page 3 =====
+
+Case 1:26-cv-00386-ALC Document 91 Filed 03/24/26 Page 4 of 4
+
+# HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+Respectfully submitted,
+
+/s/ Michael Shuster
+
+Michael Shuster
+
+4

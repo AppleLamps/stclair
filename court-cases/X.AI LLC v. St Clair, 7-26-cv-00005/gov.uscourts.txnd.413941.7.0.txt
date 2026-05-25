@@ -1,0 +1,24 @@
+Source PDF: gov.uscourts.txnd.413941.7.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\X.AI LLC v. St Clair, 7-26-cv-00005\gov.uscourts.txnd.413941.7.0.pdf
+OCR Pages: 1
+
+===== Page 0 =====
+
+Case 7:26-cv-00005-O Document 7 Filed 02/05/26 Page 1 of 1 PageID 23
+
+# IN THE UNITED STATES DISTRICT COURT FOR THE NORTHERN DISTRICT OF TEXAS WICHITA FALLS DIVISION
+
+|  X.AI LLC, ET AL., | §  |
+| --- | --- |
+|  Plaintiffs, | §  |
+|  v. | § Civil Action No. 7:26-CV-00005-O  |
+|  ASHLEY ST. CLAIR | §  |
+|  Defendant. | §  |
+
+# ORDER
+
+Before the Court is Plaintiff's Motion to Seal the Affidavit of Service (ECF No. 6) filed on February 2, 2026. Plaintiffs seek an order at the request of Defendant's counsel, who expressed concern for the safety of Defendant because the Affidavit of Service lists Defendant's residential address. Id. "To decide whether something should be sealed, the court must undertake a document-by-document, line-by-line balancing of the public's common law right of access against the interests favoring nondisclosure." June Med. Servs., L.L.C. v. Phillips, 22 F.4th 512, 521 (5th Cir. 2022) (cleaned up). Having reviewed the briefing and relevant caselaw, Plaintiff's motion (ECF No. 6) is GRANTED because the disclosure of Defendant's residential address might result in a risk to the safety of her family. The Clerk of the Court is directed to file the Affidavit of Service (ECF No. 6-1) under SEAL.
+
+SO ORDERED on this 5th day of February 2026.
+
+![img-0.jpeg](img-0.jpeg)

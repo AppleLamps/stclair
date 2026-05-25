@@ -1,0 +1,107 @@
+1
+00:00:00,000 --> 00:00:06,180
+You probably didn't hear about Trump's new healthcare initiative, because on the surface, it sounds kind of boring.
+
+2
+00:00:06,520 --> 00:00:07,300
+Medical records?
+
+3
+00:00:07,980 --> 00:00:10,460
+But I'm going to tell you why you should be concerned.
+
+4
+00:00:10,680 --> 00:00:24,500
+What it really does is creates a national pipeline where your doctors, your hospitals, your insurance companies, and even big tech apps like Amazon and Noom can plug directly into your medical health history.
+
+5
+00:00:24,500 --> 00:00:27,280
+They're calling it the Aligned Network.
+
+6
+00:00:27,580 --> 00:00:30,040
+This is not just about digitizing records.
+
+7
+00:00:30,340 --> 00:00:36,120
+This is about who gets access, because over 40 companies have already signed onto this.
+
+8
+00:00:36,380 --> 00:00:42,160
+We have Apple, we have Google, we have Amazon, and we have UnitedHealthcare.
+
+9
+00:00:42,320 --> 00:00:47,440
+I wonder why the kingpin of claim denial would think this is a great idea to sign onto.
+
+10
+00:00:47,740 --> 00:01:01,180
+Once you hit share records, your blood work, your prescriptions, your therapy notes, they are flowing into a system that currently has no federal protections to stop insurers or big tech from exploiting this data.
+
+11
+00:01:01,460 --> 00:01:02,520
+That's the problem.
+
+12
+00:01:02,520 --> 00:01:05,500
+If they are going to build this system, we need guardrails.
+
+13
+00:01:05,660 --> 00:01:07,300
+And right now, there are none.
+
+14
+00:01:07,360 --> 00:01:13,360
+Once your data leaves the doctor, HIPAA, the privacy law that you think protects you, no longer applies.
+
+15
+00:01:13,540 --> 00:01:14,720
+The government admits this.
+
+16
+00:01:15,020 --> 00:01:17,220
+The apps are outside of the law.
+
+17
+00:01:17,520 --> 00:01:29,320
+This would mean that your lab results have the same legal protections as your Amazon card, except the only difference is that Jeff Bezos doesn't get to decide whether or not you walk again like your insurers do.
+
+18
+00:01:29,740 --> 00:01:37,960
+We need immediately updated privacy laws that cover this data pipeline, because otherwise, it is open season on your medical records.
+
+19
+00:01:38,340 --> 00:01:41,340
+And remember, insurers do not make money covering you.
+
+20
+00:01:41,440 --> 00:01:46,080
+They make money denying you, and every new data set is more ammunition for them.
+
+21
+00:01:46,360 --> 00:01:50,440
+And right now, we have nothing stopping them from using this against you.
+
+22
+00:01:50,780 --> 00:02:04,020
+We already know how they're going to use this, because after a Senate investigation, we found out that UnitedHealthcare, Aetna, and other companies were denying claims after surgery up to 16 times more than other claims.
+
+23
+00:02:04,500 --> 00:02:08,460
+People were fresh out of surgery, barely walking, and the insurer was just like, nope.
+
+24
+00:02:08,840 --> 00:02:11,800
+And that was before they had a real time feed of your health data.
+
+25
+00:02:11,920 --> 00:02:21,680
+Your health records used to be between you and your doctor, and now they are between you, the federal government, big tech, and insurers who profit off of telling you no.
+
+26
+00:02:22,000 --> 00:02:28,620
+Sorry, you are not going to sell me on this system just saying that it's convenient, and it's easier, and we need a more streamlined system.
+
+27
+00:02:29,000 --> 00:02:39,840
+Okay, until there are ironclad federal protections in place, especially when it comes to insurers exploiting that data, then there's no conversation to be had.

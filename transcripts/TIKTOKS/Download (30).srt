@@ -1,0 +1,319 @@
+1
+00:00:00,460 --> 00:00:02,400
+I think it's time for a lawsuit update.
+
+2
+00:00:02,720 --> 00:00:04,540
+At least on one of them.
+
+3
+00:00:04,980 --> 00:00:06,420
+Hi, my name is Ashley St. Clair,
+
+4
+00:00:06,480 --> 00:00:09,180
+and for those unfamiliar, I am currently suing XAI
+
+5
+00:00:09,680 --> 00:00:11,780
+because of the actions of its chatbot, Grok.
+
+6
+00:00:12,100 --> 00:00:13,680
+If you weren't paying attention to the news
+
+7
+00:00:13,680 --> 00:00:17,080
+a couple months ago, Grok was released onto the public
+
+8
+00:00:17,080 --> 00:00:19,900
+with a new image generation and manipulation feature
+
+9
+00:00:19,900 --> 00:00:23,360
+in which it was allowed to undress women and children
+
+10
+00:00:24,000 --> 00:00:25,640
+without any parameters,
+
+11
+00:00:25,860 --> 00:00:28,600
+and then distribute this publicly on the X platform.
+
+12
+00:00:29,440 --> 00:00:32,260
+I was the wrong person to do that to, I will tell you what.
+
+13
+00:00:32,340 --> 00:00:34,720
+So I went ahead and got an attorney,
+
+14
+00:00:34,720 --> 00:00:37,980
+and we decided to sue XAI for this behavior
+
+15
+00:00:37,980 --> 00:00:39,860
+because it was egregious.
+
+16
+00:00:40,000 --> 00:00:42,180
+So we sued XAI in New York
+
+17
+00:00:42,180 --> 00:00:45,620
+because they released an unsafe product onto the public.
+
+18
+00:00:45,880 --> 00:00:47,000
+This is a public nuisance.
+
+19
+00:00:47,120 --> 00:00:48,540
+It's a product liability issue,
+
+20
+00:00:48,960 --> 00:00:51,120
+among many, many other things.
+
+21
+00:00:51,540 --> 00:00:53,700
+Now, XAI is countersuing me
+
+22
+00:00:53,700 --> 00:00:56,480
+for terms of service violation in Texas
+
+23
+00:00:56,480 --> 00:01:00,780
+because they claim, under the terms of service of XAI
+
+24
+00:01:00,780 --> 00:01:05,100
+and now X, that I need to, if I'm to take any action,
+
+25
+00:01:05,220 --> 00:01:07,500
+I'm supposed to sue them in one rinky-dink court
+
+26
+00:01:07,500 --> 00:01:10,260
+in Bumblefuck, Texas, where the only judge
+
+27
+00:01:11,200 --> 00:01:14,940
+is the judge who owns test stocks.
+
+28
+00:01:15,920 --> 00:01:18,080
+If you haven't been in a lawsuit
+
+29
+00:01:18,080 --> 00:01:20,460
+or any legal conundrum before,
+
+30
+00:01:20,860 --> 00:01:22,540
+the process is really laborious,
+
+31
+00:01:22,580 --> 00:01:25,680
+and it's not really accessible to most people
+
+32
+00:01:25,680 --> 00:01:28,340
+who need help because of how tedious it is.
+
+33
+00:01:28,520 --> 00:01:30,540
+Though we filed this lawsuit in January,
+
+34
+00:01:30,780 --> 00:01:32,420
+we're still fighting over venue
+
+35
+00:01:32,420 --> 00:01:35,800
+and whether or not I am bound by the terms of service
+
+36
+00:01:36,400 --> 00:01:39,420
+after this chatbot decided to abuse me.
+
+37
+00:01:39,620 --> 00:01:41,600
+Why am I updating you on this, right?
+
+38
+00:01:41,680 --> 00:01:43,260
+Everyone wants the big updates.
+
+39
+00:01:43,400 --> 00:01:45,800
+We won, we took down XAI, we took down Grok.
+
+40
+00:01:46,380 --> 00:01:48,380
+I'm updating you because of the arguments
+
+41
+00:01:48,380 --> 00:01:49,380
+that they're using.
+
+42
+00:01:49,640 --> 00:01:51,840
+XAI has claimed that I am bound
+
+43
+00:01:51,840 --> 00:01:53,540
+by XAI's terms of service
+
+44
+00:01:53,540 --> 00:01:55,980
+and that I have to bring this lawsuit in Texas
+
+45
+00:01:55,980 --> 00:01:59,260
+or that I'm released of different claims, yada yada who,
+
+46
+00:01:59,780 --> 00:02:01,840
+but they are also claiming this for X.
+
+47
+00:02:02,120 --> 00:02:04,300
+They are claiming that since I have an X account,
+
+48
+00:02:04,460 --> 00:02:06,620
+even though I haven't used it
+
+49
+00:02:06,620 --> 00:02:08,320
+since beginning this litigation,
+
+50
+00:02:08,940 --> 00:02:10,560
+they are claiming that I am bound
+
+51
+00:02:10,560 --> 00:02:12,160
+by the X terms of service,
+
+52
+00:02:12,460 --> 00:02:15,500
+which they say states that any claims
+
+53
+00:02:15,500 --> 00:02:17,420
+against any of X's affiliates,
+
+54
+00:02:17,500 --> 00:02:20,020
+which at this point could be SpaceX, Tesla,
+
+55
+00:02:20,700 --> 00:02:23,480
+XAI, Elon Musk himself, who knows?
+
+56
+00:02:23,860 --> 00:02:25,720
+These undefined affiliates.
+
+57
+00:02:26,180 --> 00:02:28,780
+You must also take this to this rinky-dink court
+
+58
+00:02:28,780 --> 00:02:29,840
+in Bumblefuck, Texas,
+
+59
+00:02:30,000 --> 00:02:31,940
+where the only judge owns Tesla stocks.
+
+60
+00:02:32,400 --> 00:02:35,340
+And I say all of this to tell you guys
+
+61
+00:02:35,340 --> 00:02:38,540
+that having an X account at all
+
+62
+00:02:38,540 --> 00:02:41,060
+can damage your future potential
+
+63
+00:02:41,060 --> 00:02:43,580
+of bringing accountability to this company
+
+64
+00:02:43,580 --> 00:02:46,140
+if you are also harmed by its products,
+
+65
+00:02:46,140 --> 00:02:49,580
+by its actions, so on and so forth.
+
+66
+00:02:50,140 --> 00:02:52,880
+Terms of service are really the only place in the world
+
+67
+00:02:52,880 --> 00:02:56,260
+where you can have these one-click legal agreements
+
+68
+00:02:56,260 --> 00:02:57,440
+where there's no negotiation,
+
+69
+00:02:57,980 --> 00:03:00,000
+there's no revisions of the contract.
+
+70
+00:03:00,360 --> 00:03:04,400
+You are just bound to this long list of demands
+
+71
+00:03:04,400 --> 00:03:06,840
+that mostly benefit the company.
+
+72
+00:03:07,320 --> 00:03:12,280
+As I said, I have not used X since this litigation began.
+
+73
+00:03:12,500 --> 00:03:14,680
+I can't log in because then they'll claim
+
+74
+00:03:14,680 --> 00:03:16,580
+that I am bound by this terms of service,
+
+75
+00:03:16,700 --> 00:03:18,320
+which whatever, I've been kicked out
+
+76
+00:03:18,320 --> 00:03:19,720
+of better places before, Janika.
+
+77
+00:03:20,020 --> 00:03:22,260
+You really, really need to be careful
+
+78
+00:03:22,260 --> 00:03:25,300
+about these accounts and these platforms that you use
+
+79
+00:03:25,300 --> 00:03:27,500
+because it could impact your ability
+
+80
+00:03:28,010 --> 00:03:30,000
+for justice or accountability later on.

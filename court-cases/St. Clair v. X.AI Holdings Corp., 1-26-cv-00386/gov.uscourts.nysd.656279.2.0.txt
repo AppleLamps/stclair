@@ -1,0 +1,238 @@
+Source PDF: gov.uscourts.nysd.656279.2.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.2.0.pdf
+OCR Pages: 2
+
+===== Page 0 =====
+
+JS 44C/SDNY
+REV. 12/2025
+Case 1:26-cv-00386 Document 2 Filed 01/15/26 Page 1 of 2
+
+# CIVIL COVER SHEET
+
+The JS-44 civil cover sheet and the information contained herein neither replace nor supplement the filing and service of pleadings or other papers as required by law, except as provided by local rules of court. This form, approved by the Judicial Conference of the United States in September 1974, is required for use of the Clerk of Court for the purpose of initiating the civil docket sheet.
+
+|  PLAINTIFFS
+Ashley St. Clair | DEFENDANTS
+x.AI Holdings Corp.  |
+| --- | --- |
+|  ATTORNEYS (Firm Name, Address, And Telephone Number)
+C.A. Goldberg PLLC, 16 Court Street, Floor 33, Brooklyn, NY 11241, (646) 666-8908 | ATTORNEYS (If Known)
+Holwell Shuster & Goldberg LLP, 425 Lexington Ave., New York, NY 10017, (646) 837-5151  |
+|  CAUSE OF ACTION (CITE THE U.S. CIVIL STATUTE UNDER WHICH YOU ARE FILING AND WRITE A BRIEF STATEMENT OF CAUSE)
+(DO NOT CITE JURISDICTIONAL STATUTES UNLESS DIVERSITY)
+28 U.S.C. §§ 1332, 1441, and 1446  |   |
+|  Has this action, case, or proceeding, or one essentially the same, been previously filed in SDNY at any time? No ☑ Yes ☐
+(If yes, Judge Previously Assigned)  |   |
+|  If yes, was this case Vol. ☐ Invol. ☐ Dismissed. No ☐ Yes ☐ If yes, give date ______________ & Case No. ______________
+Is this an international arbitration case? Yes ☐ No ☐  |   |
+
+NATURE OF SUIT (PLACE AN [x] IN ONE BOX ONLY)
+Click here for: Nature of Suit Code Descriptions.
+
+|  TORTS |   |   | ACTIONS UNDER STATUTES  |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  Contract | Torts |   | Forfeiture/Penalty | Bankruptcy | Other Statutes  |
+|  ☐ 110 Insurance
+☐ 120 Marine
+☐ 130 Miller Act
+☐ 140 Negotiable
+☐ 150 Instrument
+☐ 152 Recovery Of
+Overpayment &
+Enforcement Of
+Judgment
+☐ 151 Medicare Act
+☐ 152 Recovery Of
+Defaunted Student
+Loans (Excl
+Veterans)
+☐ 153 Recovery Of
+Overpayment Of
+Veteran's Benefits
+☐ 160 Stockholders Suits
+☐ 190 Other Contract
+☐ 195 Contract Product
+Liability
+☐ 196 Franchise | PERSONAL INJURY
+☐ 310 Airplane
+☐ 315 Airplane Product
+Liability
+☐ 320 Assault, Libel &
+Slander
+☐ 330 Federal Employers'
+Liability
+☐ 340 Marine
+☐ 345 Marine Product
+Liability
+☐ 350 Motor Vehicle
+☐ 355 Motor Vehicle
+Product Liability
+☐ 360 Other Personal
+Injury
+☐ 362 Personal Injury -
+Medical Malpractice | PERSONAL INJURY
+☐ 365 Personal Injury
+Product Liability
+Health Care/
+Pharmaceutical
+Asbestos Personal
+Injury Product
+Liability
+☐ 370 Other Fraud
+☐ 371 Truth In Lending
+☐ 380 Other Personal
+Property Damage
+☐ 385 Property Damage
+Product Liability | ☐ 625 Drug Related
+Seizure Of Property
+21 USC 881
+☐ 690 Other | ☐ 422 Appeal 28 USC 158
+☐ 423 Withdrawal
+28 USC 157
+☐ 600 Other | ☐ 375 False Claims Act
+☐ 376 Qui Tam (31 USC
+3729(a))
+☐ 400 State
+Reapportionment
+☐ 410 Antitrust
+☐ 430 Banks & Banking
+☐ 450 Commerce
+☐ 460 Deportation
+☐ 470 Racketeer
+Influenced & Corrupt
+Organization Act
+(Rico)
+☐ 480 Consumer Credit
+(15 USC 1681 or
+1692)
+☐ 485 Telephone
+Consumer Protection
+Act
+☐ 490 Cable/Satellite TV
+☐ 850 Securities/
+Commodities/
+Exchange
+☐ 890 Other Statutory
+Actions
+☐ 891 Agricultural Acts
+☐ 893 Environmental
+Matters
+☐ 895 Freedom Of
+Information Act
+☐ 896 Arbitration
+☐ 899 Administrative
+Procedure Act
+Review or Appeal of
+Agency Decision
+Constitutionality Of
+State Statutes  |
+|  Real Property | Civil Rights | Prisoner Petitions | Immigration | Social Security |   |
+|  ☐ 210 Land Condemnation
+☐ 220 Foreclosure
+☐ 230 Rent Lease &
+Ejectment
+☐ 240 Torts To Land
+☐ 245 Tort Product Liability
+☐ 290 All Other Real
+Property | ☐ 440 Other Civil Rights
+(Non-Prisoner)
+☐ 441 Voting
+☐ 442 Employment
+☐ 443 Housing/
+Accommodations
+☐ 445 Americans With
+Disabilities -
+Employment
+☐ 446 Americans With
+Disabilities - Other
+☐ 448 Education | Habeas Corpus
+☐ 463 Alien Detainee
+☐ 510 Motions To Vacate
+Sentence
+☐ 530 General
+☐ 535 Death Penalty
+Other
+☐ 540 Mandamus & Other
+☐ 550 Civil Rights
+☐ 555 Prison Condition
+☐ 560 Civil Detainee -
+Conditions Of
+Confinement | ☐ 462 Naturalization
+Application
+☐ 465 Other Immigration
+Actions | ☐ 861 HIA (1395ff)
+☐ 862 Black Lung (923)
+☐ 863 DWC/DWW
+(405(0))
+☐ 864 SSID Title XVI
+☐ 865 RSI (405(g)) | ☐ 891
+☐ 893
+☐ 896
+☐ 899
+☐ 899
+☐ 870 Taxes (U.S. Plaintiff
+Or Defendant)
+IRS-Third Party
+26 USC 7609  |
+
+Check if demanded in complaint:
+
+☐ CHECK IF THIS IS A CLASS ACTION UNDER F.R.C.P. 23
+
+DEMAND $ ______________ OTHER ______________
+
+Check YES only if demanded in complaint
+
+JURY DEMAND: ☐ YES ☐ NO
+
+Do you claim this case is related to a civil case now pending in S.D.N.Y. as defined by Local Rule For Division of Business 13?
+
+If so, state:
+
+JUDGE ______________ DOCKET NUMBER ______________
+
+NOTE: You must also submit at the time of filing the Statement of Relatedness form (Form IH-32) with an explanation as to why the cases are deemed related.
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386 Document 2 Filed 01/15/26 Page 2 of 2
+
+|  (PLACE AN X IN ONE BOX ONLY) |   |   | ORIGIN  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  ☐ 1 Original Proceeding | ☐ 2 Removed from State Court
+☑ 3. all parties represented
+☐ D. At least one party is pro se. | ☐ 3 Remanded from Appellate Court | ☐ 4 Reinstated or Reopened | ☐ 5 Transferred from (Specify District) | ☐ 6 Multidistrict Litigation (Transferred) | ☐ 7 Appeal to District Judge from Magistrate Judge | ☐ 8 Multidistrict Litigation (Direct File) |   |
+|  (PLACE AN x IN ONE BOX ONLY) |   |   | BASIS OF JURISDICTION |   |   | IF DIVERSITY, INDICATE CITIZENSHIP BELOW.  |   |   |
+|  ☐ 1 U.S. Government Plaintiff | ☐ 2 U.S. Government Defendant | ☐ 3 Federal Question (U.S. Government NOT A PARTY) |   | ☑ 4 Diversity  |   |   |   |   |
+|  CITIZENSHIP OF PRINCIPAL PARTIES (FOR DIVERSITY CASES ONLY)
+(Place an [X] in one box for Plaintiff and one box for Defendant)  |   |   |   |   |   |   |   |   |
+|  CITIZEN OF THIS STATE | PTF ☐ 1 | DEF ☐ 1 | CITIZEN OR SUBJECT OF A FOREIGN COUNTRY | PTF ☐ 3 | DEF ☐ 3 | INCORPORATED and PRINCIPAL PLACE OF BUSINESS IN ANOTHER STATE | PTF ☐ 5 | DEF ☐ 5  |
+|  CITIZEN OF ANOTHER STATE | ☐ 2 | ☐ 2 | INCORPORATED or PRINCIPAL PLACE OF BUSINESS IN THIS STATE | ☐ 4 | ☐ 4 | FOREIGN NATION | ☐ 6 | ☐ 6  |
+
+PLAINTIFF(S) ADDRESS(ES) AND COUNTY(IES)
+
+New York, New York
+
+DEFENDANT(S) ADDRESS(ES) AND COUNTY(IES)
+
+1450 Page Mill Road, Palo Alto, Santa Clara County, California
+
+DEFENDANT(S) ADDRESS UNKNOWN
+
+Representation is hereby made that, at this time, I have been unable, with reasonable diligence, to ascertain the residence addresses of the following Defendants:
+
+|  COURTHOUSE ASSIGNMENT  |   |   |   |
+| --- | --- | --- | --- |
+|  I have reviewed Rules 18(a) and 20(a) of the Rules for the Division of Business Among District Judges, Southern District of New York, and I hereby certify that this case should be assigned to the courthouse indicated below pursuant thereto.  |   |   |   |
+|  Check one: THIS ACTION SHOULD BE ASSIGNED TO: ☐ WHITE PLAINS ☑ MANHATTAN  |   |   |   |
+|  (DO NOT check either box if this a PRISONER PETITION.)  |   |   |   |
+|  DATE 1/15/2026 | SIGNATURE OF ATTORNEY OF RECORD | ADMITTED TO PRACTICE IN THIS DISTRICT  |   |
+|  RECEIPT # | /s/ Michael S. Shuster | ☐ NO ☑ YES (DATE ADMITTED Mo. 02 Yr. 1991)  |   |
+|   |   |  Attorney Bar Code #MS4910  |   |
+|  Magistrate Judge is to be designated by the Clerk of the Court.  |   |   |   |
+|  Magistrate Judge ______________________________ is so Designated.  |   |   |   |
+|  Tammi M. Hellwig, Clerk of Court by __________________ Deputy Clerk, DATED __________________.  |   |   |   |
+
+UNITED STATES DISTRICT COURT (NEW YORK SOUTHERN)

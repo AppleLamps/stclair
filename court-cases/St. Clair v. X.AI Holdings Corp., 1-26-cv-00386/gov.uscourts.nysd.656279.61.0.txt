@@ -1,0 +1,39 @@
+Source PDF: gov.uscourts.nysd.656279.61.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.61.0.pdf
+OCR Pages: 1
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 61 Filed 02/13/26 Page 1 of 1
+USDC SDNY
+DOCUMENT
+ELECTRONICALLY FILED
+DOC#:
+DATE FILED: 2/13/26
+
+# UNITED STATES DISTRICT COURT
+## SOUTHERN DISTRICT OF NEW YORK
+
+|  x | ASHLEY ST. CLAIR, | ; | :  |
+| --- | --- | --- | --- |
+|  : | Petitioner, | ; | :  |
+|  -against- |  | : | 1:26-cv-00386-ALC  |
+|  X.AI HOLDINGS CORP., | ; | : | **ORDER**  |
+|  Respondents. | ; | : | :  |
+|  ... | ... | ... | ...  |
+|  ... | ... | ... | x  |
+
+ANDREW L. CARTER, JR., United States District Judge:
+
+As discussed at today’s telephonic conference, the Court orders additional briefing in this matter. Specifically, the Court orders additional briefing on the issue of X.AI being able to assert the forum selection clause in X’s terms of service. Defendant should file its brief by February 18, 2026. Plaintiff shall file its reply if any by February 23, 2026.
+
+SO ORDERED.
+
+Dated: February 13, 2026
+
+New York, New York
+
+![img-0.jpeg](img-0.jpeg)
+
+ANDREW L. CARTER, JR.
+United States District Judge

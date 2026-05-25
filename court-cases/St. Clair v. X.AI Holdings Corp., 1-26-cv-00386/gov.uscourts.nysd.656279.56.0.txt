@@ -1,0 +1,41 @@
+Source PDF: gov.uscourts.nysd.656279.56.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.56.0.pdf
+OCR Pages: 1
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 56 Filed 02/10/26 Page 1 of 1
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+425 Lexington Avenue
+New York, New York 10017
+Tel: (646) 837-5151
+Fax: (646) 837-5150
+www.hsgllp.com
+
+Michael Shuster
+(646) 837-5153
+mshuster@hsgllp.com
+
+February 10, 2026
+
+VIA ECF
+Hon. Andrew L. Carter Jr.
+Thurgood Marshall
+United Staes Courthouse
+40 Foley Square
+New York, NY 10007
+
+Re: Ashley St. Clair v. X.AI Holdings Corp. et al., No. 1:26-cv-00386
+
+Dear Judge Carter,
+
+We write on behalf of Defendants X.AI Holdings Corp., X.AI LLC, and X.AI Corp. (collectively "X.AI"), pursuant to Rule 6.C.ii of Your Honor's Individual Practices, to respectfully request that the Court permit Defendants to file under seal Exhibit A to the Further Supplemental Declaration of Barry Murphy in Support of Defendants' Motion to Transfer Venue.
+
+As this Court previously instructed, Defendants should seal "any sensitive, personal, or identifying information" contained within the records Defendants have submitted in connection with their motion to transfer venue. See Dkt. 25; see also Jan. 27, 2026 Tr. at 28:17-20 (explaining "it would be helpful for counsel to file under seal or, perhaps, to simply e-mail to plaintiffs and to the Court" certain information). Out of an abundance of caution, Defendants have redacted Plaintiff's IP address and related location information in Exhibit A. Should Plaintiff wish to unseal it, Defendants have no objection.
+
+Respectfully submitted,
+
+/s/ Michael Shuster
+Michael Shuster

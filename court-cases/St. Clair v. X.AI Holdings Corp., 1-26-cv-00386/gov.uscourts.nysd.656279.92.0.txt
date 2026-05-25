@@ -1,0 +1,100 @@
+Source PDF: gov.uscourts.nysd.656279.92.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.92.0.pdf
+OCR Pages: 3
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 92 Filed 03/24/26 Page 1 of 3
+
+646.666.8908 | BROOKLYN, NY 11241
+
+CARRIE@CAGOLDBERGLAW.COM | WWW.CAGOLDBERGLAW.COM
+
+March 24, 2026
+
+VIA ECF
+
+Hon. Andrew L. Carter
+United States District Judge
+Southern District of New York
+500 Pearl Street
+New York, NY 10007
+
+Re: Ashley St. Clair v. X.AI Holdings Corp., et al., No. 1:26-cv-00386ALC
+Letter Addressing Additional Submissions, Per Docket No. 90
+
+Dear Judge Carter:
+
+This firm is counsel for Plaintiff Ashley St. Clair in the above-captioned matter. We write in response to the memorandum endorsed and dated March 12, 2026, instructing the Parties to submit short letters addressing the recent submissions in this case related to xAI’s 28 U.S.C. 1404 motion to transfer the case to Texas.¹ See (Doc. 90). The Court should deny such motion and allow Plaintiff to proceed with litigation in the state where she resides and suffered injury.
+
+As a reminder, this case arises from injuries caused by xAI’s decision to train its AI bot, Grok, to undress women and children and publish those images.² St. Clair has suffered immensely after she was viciously targeted by vulgar and explicit Grok-generated images of her.
+
+The recent rounds of legal argument bear no resemblance to the relief xAI initially requested – to transfer venue based on the first-filed rule and xAI’s venue selection clause. Plaintiff clearly established xAI’s Texas case fit into the “anticipatory filing” exception to the first-filed rule (Doc. 16), and xAI conceded the cases were not duplicative. Plaintiff never saw, had the opportunity to review or assented to any version of xAI’s Terms of Service, and thus cannot be bound by them. Defendants provided no proof that the design requirements of an electronic agreement were satisfied. Plaintiff’s own evidence affirmatively shows that her account was created by xAI’s founder prior to the release of xAI’s products to the public.
+
+In desperation, Defendants now try to invoke non-party X Corp.’s Terms of Service instead. However, this too is a dead end. X. Corp. is not a party to this action, nor does it meet the “closely related” test necessary for Defendants to enjoy the benefits of X Corp.’s Terms of Service even if Plaintiff had agreed to be bound by them – and she did not agree.
+
+Defendants seek to enforce Version 21 of X Corp.’s Terms of Service (the “TOS”), which went into effect on January 15, 2026. Defendants rely on this version of the X TOS, because the preceding terms, Version 20 (the “Prior TOS”), do not contain any “corporate
+
+¹ Defendants have a pending litigation against St. Clair based entirely on the theory that her notice of intent to file this lawsuit breached the xAI Terms of Service.
+
+² Since the filing of this lawsuit, xAI has been sued in two different class action lawsuits for this feature.
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 92 Filed 03/24/26 Page 2 of 3
+
+646.666.8908 | BROOKLYN, NY 11241
+
+CARRIE@CAGOLDBERGLAW.COM | WWW.CAGOLDBERGLAW.COM
+
+affiliate” language that could be even remotely construed as granting xAI third-party beneficiary rights. See (Doc. 69).
+
+Even in Version 21, however, that language is insufficient. In those TOS, the only two “corporate affiliates” listed on the webpage hyperlinked to the phrase “corporate affiliate” and titled “X, Our Services, and Corporate Affiliates” are Vine Archive and Twitpic Archive. This Court has found such omissions dispositive in similar cases involving parties like X Corp., which are “sophisticated, international, commercial entities that have access to the best legal services[.,]” because “[i]f the parties intended to permit third party beneficiaries to assert the forum selection clause, the clause could have been drafted to include such language[.].” See Sony Corp. v. Fujifilm Holdings Corp., No. 16 CIV. 5988 (PGG), 2017 WL 4342126, at *7 (S.D.N.Y. Sept. 28, 2017). (“For example, where certain parties are listed as third party beneficiaries of a particular contractual clause, an inference may arise that the parties did not intend to extend third party beneficiary status to others.”) (internal citations omitted).
+
+Significantly, Defendants fail to meet their burden under the “Closely Related” doctrine, which is not a simple inquiry into whether entities are “related,” in terms of corporate ownership or factual relation in a case. Rather, the doctrine is a specific analysis of whether it is foreseeable within the context of contract formation that this type of dispute would be governed by a third-party defendant’s forum selection clause. The fact that xAI and X Corp. are separate legal entities with different products – and different user agreements – demonstrates that their TOS were never intended to be substitutable. Ms. St. Clair did not foresee at the time of contract formation with X, a social media platform, that it would bind her to litigate in Texas when injured by a different company’s perverted AI technology. xAI didn’t even foresee using X Corp.’s forum selection clause earlier in this dispute, as it was never mentioned in its original filings supporting this motion. Defendants provide no authority where a non-party's forum selection clause is imposed on a dispute.
+
+Further weakening their argument, Defendants allege that Plaintiff assented to the Version 21 TOS because, according to them, she acknowledged an in-app pop-up in December 2025 alerting her of upcoming changes, see (Doc. 65) at 3-4, but this does not constitute assent based on the TOS’s plain language, which states that the changes therein shall only bind X users who “continue to use [X Corp.’s] products or services on or after January 15, 2026.” (Doc. 65).
+
+Defendants attempt to distract from the legal insufficiencies of their argument by litigating Plaintiff’s use of X on or after January 15, 2026. As we will outline below, they lose here. But it should be noted that the dates of St. Clair’s use of X are not dispositive where Defendants have failed the Closely Related test and have no right to enforce X Corp.’s TOS against her.
+
+For the sake of completeness, the following facts demonstrate that Plaintiff did not assent to Version 21 of X Corp.’s TOS, which Defendants seek to enforce here:
+
+(1): Plaintiff’s final post on X was on January 14, 2026, and Plaintiff testified in a sworn affidavit that she has not used X or its services since January 14, 2026 (Doc. 69);
+
+(2): Defendants’ purported evidence to show that Plaintiff “used” X on or after January 15, 2026, is misleading, because Plaintiff is in New York (UTC-5) and X. Corp is headquartered
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386-ALC Document 92 Filed 03/24/26 Page 3 of 3
+
+646.666.8908 | BROOKLYN, NY 11241
+
+CARRIE@CAGOLDBERGLAW.COM | WWW.CAGOLDBERGLAW.COM
+
+in Texas (UTC-6), yet Defendants’ evidence is in “Zulu time,” or UTC-0. See (Doc. 71, 76). Nowhere do Defendants acknowledge or explain that Zulu time is used or why this would be appropriate. (It is not.) Looking at Defendants’ evidence with the proper time zones in mind, each of the “uses” occurred prior to 12:00 a.m. January 15, 2026 — in Texas and New York;
+
+(3): As to the remaining data points in Defendants’ evidence, Defendants offer no explanation to assist the Court in interpreting their own internal data that they purport show Plaintiff “used” X after January 15, 2026. Upon information and belief, the remaining datapoints in Defendants’ evidence are nothing more than ghost pings to Plaintiff’s IP address.
+
+Defendant also offers no substantive use of X – no posts, replies, direct messages, links, likes, retweets, etc., on or after January 15, 2026 (UTC-5 or UTC-6). Defendant merely cites internal “log entries,” while conveniently omitting any explanation of how such entries are created and by whom or what, what kinds of alleged uses correspond to these entries. (Doc. 80).
+
+Purportedly dispositive evidence cannot be solely in the form of ambiguous internal code – particularly with such high stakes. Given the complete lack of interpretive guidance, Defendants appear to expect this Court to simply take them at their word, but the law requires more.
+
+Defendants further provide no case law in which contract formation is not conclusively established, yet that same contract then sustains a motion to transfer in a case against a third-party non-signatory. If anything, this contract formation dispute underscores how unforeseeable it was to St. Clair that X’s forum selection clause could bind her in litigation against xAI.
+
+Finally, despite Plaintiff’s numerous citations to binding precedent regarding online contracts of adhesion and the vital importance of user-facing design elements, seen or acknowledged by the actual user in the dispute, in determining whether a valid contract was formed between that specific user and the website or app (Doc. 16, 47, 69), Defendants have yet to provide that necessary evidence for this Court to rule on the contract formation issue here.
+
+Defendants have repeatedly failed to introduce sufficient evidence to bind Plaintiff to any of xAI or X Corp.’s terms they seek to enforce, leaving no option but to deny their motion.
+
+Respectfully,
+
+C.A. GOLDBERG, PLLC
+
+/s/ Carrie Goldberg
+
+Carrie Goldberg, Esq.
+
+Attorneys for Plaintiff
+
+Copy to: All counsel via ECF

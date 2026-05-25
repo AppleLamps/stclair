@@ -1,0 +1,155 @@
+Source PDF: gov.uscourts.nysd.656279.13.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.13.0.pdf
+OCR Pages: 9
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 1 of 9
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ASHLEY ST. CLAIR,
+Plaintiff,
+v.
+X.AI HOLDINGS CORP.,
+Defendant.
+
+Case No. 1:26-cv-00386
+
+DEFENDANT'S MEMORANDUM OF LAW IN SUPPORT OF ITS MOTION,
+BY ORDER TO SHOW CAUSE, TO TRANSFER VENUE UNDER 28 U.S.C. § 1404
+
+
+===== Page 1 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 2 of 9
+
+Pursuant to 28 U.S.C. § 1404, Defendant X.AI Holdings Corp. (“xAI Holdings”) submits this memorandum in support of its motion, by order to show cause, to transfer this action to Texas—a forum (i) that Plaintiff Ashley St. Clair (“Plaintiff”) agreed would be the exclusive venue for disputes between her and xAI Holdings and its affiliates and (ii) where a first-filed action between Plaintiff and xAI Holdings and one of its affiliates is currently pending. Because the Plaintiff has filed a motion for a temporary restraining order seeking emergency relief in this forum, contrary to the forum-selection clause she agreed to, Defendant is proceeding by order to show cause.
+
+## PRELIMINARY STATEMENT
+
+Plaintiff filed this action in New York state court in the teeth of her agreement to litigate disputes with xAI in Texas—and only did so after xAI Holdings and its operating subsidiary, X.AI LLC (“xAI LLC”) had already commenced suit against her in the proper forum in Texas. Defendant now brings this motion to vindicate its rights and to send this dispute to the parties’ contractually agreed-upon forum.
+
+The forum-selection clause governing this case could not be clearer. Plaintiff and xAI LLC agreed that “all disputes” regarding the subject matter in this case “shall be brought and must proceed exclusively in the federal U.S. District Court for the Northern District of Texas or state courts located in Tarrant County, Texas.” That agreement is also crystal clear that xAI Holdings, as an affiliate of xAI LLC, is an “intended third-party beneficiar[y]” of the forum-selection clause.
+
+The law is equally unambiguous. The United States Supreme Court has recognized that, for purposes of the venue transfer statute, a “valid forum-selection clause”—such as the one governing this case—“should be given controlling weight in all but the most exceptional cases.” Atl. Marine Constr. Co. v. U.S. Dist. Ct. for W. Dist. of Texas, 571 U.S. 49, 63 (2013) (internal
+
+
+===== Page 2 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 3 of 9
+
+quotation marks omitted) (emphasis added). This case is not remotely exceptional. Accordingly, Defendant respectfully requests that the Court transfer the case to the forum where Plaintiff agreed disputes would be brought—and where it can be consolidated with the first-filed lawsuit currently pending in that same forum.
+
+## BACKGROUND
+
+Defendant xAI Holdings is an affiliate of xAI LLC (collectively, the "xAI Entities"), which operates the popular artificial-intelligence chatbot known as Grok. Plaintiff signed up for an account with the xAI Entities on December 10, 2024. Declaration of Barry Murphy ("Murphy Decl.") ¶ 5. In order to do so, Plaintiff was required to manifest assent to the xAI Terms of Service. Id. ¶ 6. At the time she created her account, those Terms of Service provided that Plaintiff's "continued use of the Service after any change to these Terms constitutes [her] acceptance of the new Terms of Service." Id. ¶ 8. "Service" was defined to include the use of Grok and other related services provided by xAI LLC. Id. ¶ 7. Since signing up for her account, Plaintiff has used xAI LLC's Service, including Grok, on multiple occasions, including less than two weeks ago, on January 4, 2026. See id. ¶¶ 11–12.
+
+At present and at the time Plaintiff most recently used the Service, the xAI Terms of Service have included choice-of-law and forum-selection clauses stating as follows:
+
+Governing Law; Jurisdiction and Venue. The laws of the State of Texas, excluding its choice of law provisions, will govern these Terms and any dispute that arises between you and us, notwithstanding any other agreement between you and us to the contrary. Notwithstanding any other agreement to the contrary, all disputes related to these Terms, the Service, or any patents – including without limitation disputes related to or arising from any Content (whether your or others' Content), or your or others' use of the Service or the complete or partial termination thereof – shall be brought and must proceed exclusively in the federal U.S. District Court for the Northern District of Texas or state courts located in Tarrant County, Texas, United States, and you consent to personal jurisdiction in those forums and waive any objection as to inconvenient forum. For the avoidance of doubt, the choice of law and forum selection provisions of this paragraph shall apply regardless of whether a dispute or any claims contained
+
+
+===== Page 3 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 4 of 9
+
+therein are based in contract, tort, statute, common law, or otherwise, and the choice of law and forum selection provisions of this paragraph shall apply to pending and future disputes and shall apply to your dispute regardless of when the conduct relating to the dispute arose or occurred. The choice of law and forum selection provisions of this paragraph shall also extend to disputes involving our U.S. corporate affiliates, who are intended third-party beneficiaries of this paragraph. Without prejudice to the foregoing, you agree that, in its sole discretion, xAI may bring any claim, cause of action, or dispute we have against you in any competent court in the country in which you reside that has jurisdiction and venue over the claim.
+
+Id. ¶ 10 (emphases added).
+
+Despite Plaintiff's agreement that her claims against xAI LLC's affiliates—including Defendant here—“shall be brought and must proceed exclusively” in Texas, Plaintiff initiated this action in New York Supreme Court yesterday, on January 15, 2026. See Notice of Removal, Ex. A (State Court Filings), ECF No. 1-1. Plaintiff's lawsuit was filed after xAI LLC had already commenced suit in federal court in Texas to seek recompense for Plaintiff's threatened—and now effectuated—breach of the forum-selection clause. X.AI LLC, et al. v. St. Clair, No. 7:26-cv-00005 (N.D. Tex. Jan. 15, 2026).
+
+Plaintiff's Complaint is based entirely on her allegations concerning the Grok chatbot and related products and services—features expressly governed by the Terms of Service. See generally Complaint ¶¶ 9–34, ECF No. 1-1. Defendant filed a Notice of Removal of the state court action yesterday, shortly after the action was filed. Defendant now seeks to enforce the parties' forum-selection clause by way of this motion to transfer the action to the Northern District of Texas.
+
+# ARGUMENT
+
+28 U.S.C. § 1404(a) provides that “[f]or the convenience of parties and witnesses, in the interest of justice, a district court may transfer any civil action to any other district or division where it might have been brought or to any district or division to which all parties have
+
+
+===== Page 4 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 5 of 9
+
+consented.” “[A] forum-selection clause may be enforced by a motion to transfer under § 1404(a),” and “[w]hen a defendant files such a motion . . . a district court should transfer the case unless extraordinary circumstances unrelated to the convenience of the parties clearly disfavor a transfer.” Atl. Marine, 571 U.S. at 52. Unsurprisingly, then, federal courts in this district and elsewhere regularly apply Section 1404 to transfer cases to the parties’ contractually chosen forum.
+
+## I. The Parties’ Binding Forum-Selection Clause Is Presumptively Controlling
+
+There can be no question that the parties entered into a valid forum selection clause and that it points to the federal and state courts in Texas. Murphy Decl. ¶ 10.
+
+Applying Atlantic Marine, the Second Circuit has recognized that a forum-selection clause must be enforced where it was “communicated to the party resisting enforcement,” where it is “mandatory” and not permissive, and where the “claims and parties involved in the suit are subject to the forum selection clause.” Martinez v. Bloomberg LP, 740 F.3d 211, 217 (2d Cir. 2014) (internal quotation marks omitted). Each of these prongs is readily satisfied.
+
+First, Defendant communicated the forum-selection clause to Plaintiff when Plaintiff created her Grok account operated by xAI LLC. Courts in this Circuit routinely hold—in circumstances indistinguishable from these—that when an individual agrees to terms of service including a forum-selection clause when creating an online account, the forum-selection clause is reasonably communicated to the Plaintiff. See, e.g., We Are the People, Inc. v. Facebook, Inc., 2020 WL 2908260, at *2 (S.D.N.Y. June 3, 2020) (reasoning that Facebook’s requirement that all users agree to Facebook’s terms of use was “more than sufficient to establish” that Facebook users “assented to the Terms of Use and therefore to the forum selection clause therein”); Castronuova v. Meta Platforms, Inc., 2024 WL 1623274, at *5 (E.D.N.Y. Apr. 15, 2024) (similar conclusion regarding forum-selection clauses in Meta’s and X’s terms of service).
+
+
+===== Page 5 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 6 of 9
+
+Second, the forum-selection clause is mandatory, not permissive. At all relevant times, the xAI Terms of Service provided that “all disputes” regarding the relevant subject matter “shall be brought and must proceed exclusively” in the Northern District of Texas or certain Texas state courts. Murphy Decl. ¶ 10 (emphasis added). Such language epitomizes a mandatory forum-selection clause. See, e.g., Rabinowitz v. Kelman, 75 F.4th 73, 82 (2d Cir. 2023) (“Mandatory forum selection clauses require that disputes must be brought in the designated forum, to the exclusion of all other fora where jurisdiction may also lie.” (internal quotation marks omitted)).
+
+Third, the parties and claims in Plaintiff’s Complaint fall within the forum-selection clause. The clause makes clear that it covers “all disputes related to these Terms, the Service, or any patents – including without limitation disputes related to or arising from any Content (whether your or others’ Content) or your or others’ use of the Service or the complete or partial termination thereof.” Murphy Decl. ¶ 10 (emphasis added). The clause further emphasizes that it applies “regardless of whether a dispute or any claims contained therein are based in contract, tort, statute, common law, or otherwise,” and likewise expressly clarifies that it “extend[s] to disputes involving [xAI LLC’s] corporate affiliates, . . . who are intended third-party beneficiaries of the provision. Id.”¹
+
+¹ Texas law—which governs the agreement—is clear that “[a] third-party beneficiary . . . [can] enforce the contract if that contract was made for that person’s benefit.” Crawford v. GuideOne Mut., 420 F. Supp. 2d 584, 599 (N.D. Tex. 2006). The law is no different in this State or this Circuit. E.g., Chalfin v. Go Big Solar, LLC, 2025 WL 2022012, at *13 (S.D.N.Y. July 17, 2025) (“Third-party beneficiaries have standing under New York law to enforce a contract.”). Indeed, were it otherwise, a party could seek to evade a forum selection simply by naming the wrong corporate affiliate, as Plaintiff has attempted to do here in naming the parent xAI holding company rather than its operating subsidiary.
+
+
+===== Page 6 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 7 of 9
+
+Plaintiff cannot seriously contend that the claims in her Complaint, which exclusively concern the alleged use of Grok and related services, fall outside the scope of such sweeping language.
+
+## II. There Is No Exception Justifying Refusing To Enforce The Forum Selection Clause
+
+Atlantic Marine “clarified that when construing an enforceable forum selection clause under § 1404(a), the default forum non conveniens analysis undertaken by courts is to be replaced with a more limited set of considerations in order to vindicate the parties’ pre-selection of a forum.” Opera Sols., LLC v. Schwan's Home Serv., Inc., 2015 WL 1378968, at *1 (S.D.N.Y. Mar. 25, 2015) (Carter, J). Such a clause is thus “presumptively enforceable” so long as it “was communicated to the resisting party, has mandatory force and covers the claims and parties involved in the dispute,” which factors are indisputably satisfied here. Martinez, 740 F.3d at 217 (internal quotation marks omitted) (emphasis added). Plaintiff can overcome that presumption only by “making a sufficiently strong showing that enforcement would be unreasonable or unjust, or that the clause was invalid for such reasons as fraud or overreaching.” Id. (internal quotation marks omitted). Plaintiff cannot make that showing here.
+
+Courts decline to enforce a forum-selection clause only under narrow circumstances. Specifically—where “(1) its incorporation was the result of fraud or overreaching; (2) the law to be applied in the selected forum is fundamentally unfair; (3) enforcement contravenes a strong public policy of the forum in which suit is brought; or (4) trial in the selected forum will be so difficult and inconvenient that the plaintiff effectively will be deprived of his day in court.” Starkey v. G Adventures, Inc., 796 F.3d 193, 198 (2d Cir. 2015) (citing Martinez, 740 F.3d at 228). Plaintiff cannot in good faith suggest that any of these circumstances exist. Unsurprisingly, her Complaint contains zero allegations whatsoever even addressing the forum selection clause, let alone these exceptions to the enforceability of that clause.
+
+
+===== Page 7 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 8 of 9
+
+Not only is there no strong reason not to enforce the forum selection clause, in fact there is a “strong public policy of enforcing forum selection clauses so that parties are able to rely on the terms of the contracts they make.” Brodsky v. Match.com, LLC, 2009 WL 3490277, at *4 (S.D.N.Y. Oct. 28, 2009). Day in and day out, federal courts across the country give full effect to parties’ contractual agreements to send their disputes to specific fora. See, e.g., id. (granting motion to transfer to the Northern District of Texas in light of “valid and enforceable” forum-selection clause); Ceru v. Ally Bank, 2025 WL 1617088, at *2 (S.D.N.Y. June 6, 2025) (“The Court concludes that the forum selection clause is enforceable and warrants transfer of this action [to the District of Utah].”); Kraljevich v. Courser Athletics, Inc., 2022 WL 3597760, at *1 (S.D.N.Y. Aug. 23, 2022) (“Because the Court concludes that the parties’ forum selection clause is valid, enforceable and covers the existing dispute, the action will be transferred to the District of Massachusetts.”).
+
+xAI respectfully requests that the Court follow this persistent practice and summarily transfer this case to the Northern District of Texas, where a first-filed action between Plaintiff and the xAI Entities is already pending—an action that should be given precedence anyway. See United States Sec. &amp; Exch. Comm'n v. Alpine Sec. Corp., 768 F. App’x 93, 94 (2d Cir. 2019) (“With limited exceptions, the first-filed rule instructs that the first suit takes priority.”); Texas Health Mgmt. LLC v. HealthSpring Life &amp; Health Ins. Co. LLC, 315 F. Supp. 3d 814, 816 (S.D.N.Y. 2018) (observing that “the first-filed rule creates a presumption that the case should be transferred to the Eastern District of Texas” and transferring case there under 28 U.S.C. § 1404(a)) (Marrero, J.).
+
+## CONCLUSION
+
+For the foregoing reasons, xAI Holdings respectfully requests that the Court transfer this action to the U.S. District Court for the Northern District of Texas pursuant to 28 U.S.C. § 1404.
+
+
+===== Page 8 =====
+
+Case 1:26-cv-00386-ALC Document 13 Filed 01/16/26 Page 9 of 9
+
+Dated: January 16, 2026
+
+New York, New York
+
+/s/ Michael S. Shuster
+
+HOLWELL SHUSTER &amp; GOLDBERG LLP
+
+Michael S. Shuster
+
+Daniel M. Sullivan
+
+Gregory J. Dubinsky
+
+425 Lexington Ave., 14th Floor
+
+New York, New York 10017
+
+Tel: 646.837.5151
+
+mshuster@hsgllp.com
+
+dsullivan@hsgllp.com
+
+gdubinsky@hsgllp.com
+
+Attorneys for Defendant
+
+8

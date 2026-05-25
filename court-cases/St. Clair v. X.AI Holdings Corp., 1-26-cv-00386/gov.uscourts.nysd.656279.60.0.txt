@@ -1,0 +1,36 @@
+Source PDF: gov.uscourts.nysd.656279.60.0.pdf
+Source Path: C:\Users\lucas\Desktop\elonvstclair\St. Clair v. X.AI Holdings Corp., 1-26-cv-00386\gov.uscourts.nysd.656279.60.0.pdf
+OCR Pages: 1
+
+===== Page 0 =====
+
+Case 1:26-cv-00386-ALC Document 60 Filed 02/13/26 DOCKETED DOCUMENT ELECTRONICALLY FILED DOC#: ________________ DATE FILED: 2/13/26
+
+# UNITED STATES DISTRICT COURT
+## SOUTHERN DISTRICT OF NEW YORK
+
+|  x | ASHLEY ST. CLAIR, | ; | ;  |
+| --- | --- | --- | --- |
+|  ; | Petitioner, | ; | ;  |
+|  -against- | : | : | 1:26-cv-00386-ALC  |
+|  X.AI HOLDINGS CORP., | ; | ; | ORDER  |
+|  Respondents. | ; | ; | ;  |
+|  ... | ... | ... | ...  |
+|  ... | ... | ... | ...  |
+
+ANDREW L. CARTER, JR., United States District Judge:
+
+As discussed at today’s telephonic conference, Defendants’ motions to seal are hereby granted in part and denied in part. The request to redact Plaintiff’s email address and IP address specifically is **granted**. The request to seal all other information is hereby **denied**. The parties should meet and confer to ensure there is no other sensitive information such as Plaintiff’s address or date of birth. Thereafter, Defendants should refile with the appropriate line redactions.
+
+The Clerk of Court is respectfully directed to terminate the pending motions at ECF Nos. 28, 39, and 56.
+
+SO ORDERED.
+
+Dated: February 13, 2026
+
+New York, New York
+
+![img-0.jpeg](img-0.jpeg)
+
+ANDREW L. CARTER, JR.
+United States District Judge
