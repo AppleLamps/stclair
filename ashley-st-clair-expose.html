@@ -15,33 +15,288 @@
       --bg: #fcfcfc;
       --muted: #5a5a5a;
       --accent: #8b0000;
+      --accent-soft: rgba(139, 0, 0, 0.08);
       --rule: #d4d4d4;
       --card-bg: #f5f4f0;
       --then: #2c1810;
       --now: #1a2a3a;
+      --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      --serif: Georgia, "Times New Roman", serif;
+      --content-max: 720px;
+      --toc-width: 220px;
+      --header-h: 3.25rem;
+      color-scheme: light;
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
     }
     *, *::before, *::after { box-sizing: border-box; }
-    html { scroll-behavior: smooth; }
+    html { scroll-behavior: smooth; scroll-padding-top: calc(var(--header-h) + 1rem); }
+    ::selection { background: var(--accent-soft); color: var(--text); }
     body {
       margin: 0;
-      font-family: Georgia, "Times New Roman", serif;
+      font-family: var(--serif);
       font-size: 1.125rem;
       line-height: 1.75;
       color: var(--text);
       background: var(--bg);
+    }
+    .skip-link {
+      position: absolute;
+      top: -100%;
+      left: 1rem;
+      z-index: 1000;
+      padding: 0.65rem 1rem;
+      background: var(--accent);
+      color: #fff;
+      font-family: var(--sans);
+      font-size: 0.85rem;
+      text-decoration: none;
+      border-radius: 0 0 4px 4px;
+    }
+    .skip-link:focus {
+      top: 0;
+      outline: 2px solid #fff;
+      outline-offset: 2px;
+    }
+    .progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      width: 0%;
+      z-index: 200;
+      background: linear-gradient(90deg, #5c0000, var(--accent), #c44);
+      transition: width 0.12s ease-out;
+      pointer-events: none;
+    }
+    .site-header {
+      position: sticky;
+      top: 0;
+      z-index: 150;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      height: var(--header-h);
+      padding: 0 1.25rem;
+      background: rgba(252, 252, 252, 0.92);
+      border-bottom: 1px solid var(--rule);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      transform: translateY(-100%);
+      opacity: 0;
+      transition: transform 0.25s ease, opacity 0.25s ease;
+      pointer-events: none;
+    }
+    .site-header.is-visible {
+      transform: translateY(0);
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .site-header-title {
+      font-family: var(--sans);
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text);
+      text-decoration: none;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .site-header-title:hover { color: var(--accent); }
+    .site-header-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-shrink: 0;
+    }
+    .btn-icon {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.25rem;
+      height: 2.25rem;
+      padding: 0;
+      border: 1px solid var(--rule);
+      border-radius: 4px;
+      background: #fff;
+      color: var(--text);
+      cursor: pointer;
+      font-family: var(--sans);
+      transition: border-color 0.15s, background 0.15s, color 0.15s;
+    }
+    .btn-icon:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+    .btn-icon:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .btn-icon svg { width: 1.1rem; height: 1.1rem; }
+    .layout {
+      display: block;
+    }
+    .toc {
+      font-family: var(--sans);
+    }
+    .toc-panel {
+      position: fixed;
+      top: var(--header-h);
+      right: 0;
+      z-index: 140;
+      width: min(88vw, 280px);
+      max-height: calc(100vh - var(--header-h) - 1rem);
+      margin: 0.5rem;
+      padding: 1.25rem 1.35rem;
+      background: #fff;
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.12);
+      overflow-y: auto;
+      transform: translateX(calc(100% + 1rem));
+      opacity: 0;
+      visibility: hidden;
+      transition: transform 0.28s ease, opacity 0.28s ease, visibility 0.28s;
+    }
+    .toc-panel.is-open {
+      transform: translateX(0);
+      opacity: 1;
+      visibility: visible;
+    }
+    .toc-backdrop {
+      position: fixed;
+      inset: 0;
+      z-index: 130;
+      background: rgba(0, 0, 0, 0.35);
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.25s ease, visibility 0.25s;
+    }
+    .toc-backdrop.is-open {
+      opacity: 1;
+      visibility: visible;
+    }
+    .toc-heading {
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin: 0 0 0.85rem;
+    }
+    .toc-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    .toc-list a {
+      display: block;
+      padding: 0.45rem 0;
+      font-size: 0.82rem;
+      line-height: 1.35;
+      color: var(--muted);
+      text-decoration: none;
+      border-left: 2px solid transparent;
+      padding-left: 0.65rem;
+      margin-left: -0.65rem;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .toc-list a:hover { color: var(--accent); }
+    .toc-list a.is-active {
+      color: var(--accent);
+      border-left-color: var(--accent);
+      font-weight: 600;
+    }
+    .toc-reading {
+      margin-top: 1rem;
+      padding-top: 0.85rem;
+      border-top: 1px solid var(--rule);
+      font-size: 0.72rem;
+      color: var(--muted);
+      letter-spacing: 0.04em;
+    }
+    @media (min-width: 1100px) {
+      .layout {
+        display: grid;
+        grid-template-columns: 1fr minmax(0, var(--content-max)) var(--toc-width) 1fr;
+      }
+      .wrap {
+        grid-column: 2;
+      }
+      .toc {
+        grid-column: 3;
+        position: relative;
+      }
+      .toc-panel {
+        position: sticky;
+        top: 5.5rem;
+        right: auto;
+        width: var(--toc-width);
+        margin: 0;
+        max-height: calc(100vh - 6rem);
+        transform: none;
+        opacity: 1;
+        visibility: visible;
+        box-shadow: none;
+        background: transparent;
+        border: none;
+        border-left: 1px solid var(--rule);
+        border-radius: 0;
+        padding: 0 0 0 1.25rem;
+      }
+      .toc-backdrop { display: none; }
+      #toc-toggle { display: none; }
+      .site-header { padding-right: calc(var(--toc-width) + 2rem); }
     }
     .hero {
       min-height: 72vh;
       display: flex;
       flex-direction: column;
       justify-content: flex-end;
+      align-items: center;
       padding: 4rem 1.5rem 5rem;
       background: linear-gradient(180deg, #0d0d0d 0%, #1a1a1a 45%, #2a1515 100%);
       color: #f8f6f2;
       text-align: center;
+      position: relative;
+    }
+    .hero-scroll {
+      position: absolute;
+      bottom: 1.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.35rem;
+      color: #9a9088;
+      font-family: var(--sans);
+      font-size: 0.65rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      text-decoration: none;
+      animation: hero-bounce 2.2s ease-in-out infinite;
+    }
+    .hero-scroll svg {
+      width: 1.25rem;
+      height: 1.25rem;
+      opacity: 0.85;
+    }
+    .hero-scroll:hover { color: #e8e0d8; }
+    @keyframes hero-bounce {
+      0%, 100% { transform: translateX(-50%) translateY(0); }
+      50% { transform: translateX(-50%) translateY(6px); }
     }
     .hero-kicker {
-      font-family: system-ui, -apple-system, sans-serif;
+      font-family: var(--sans);
       font-size: 0.7rem;
       letter-spacing: 0.28em;
       text-transform: uppercase;
@@ -49,7 +304,7 @@
       margin-bottom: 1.5rem;
     }
     .hero h1 {
-      font-family: system-ui, -apple-system, sans-serif;
+      font-family: var(--sans);
       font-weight: 700;
       font-size: clamp(2.2rem, 6vw, 3.75rem);
       line-height: 1.08;
@@ -66,19 +321,28 @@
       line-height: 1.55;
     }
     .hero-meta {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.8rem;
       letter-spacing: 0.06em;
       color: #9a9088;
     }
     .hero-meta span { margin: 0 0.75rem; }
+    .hero-reading {
+      display: inline-block;
+      margin-top: 0.5rem;
+      padding: 0.35rem 0.75rem;
+      border: 1px solid rgba(201, 160, 160, 0.35);
+      border-radius: 999px;
+      font-size: 0.72rem;
+      color: #c9a0a0;
+    }
     .wrap {
-      max-width: 720px;
+      max-width: var(--content-max);
       margin: 0 auto;
       padding: 0 1.5rem 6rem;
     }
     .section-label {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.65rem;
       letter-spacing: 0.22em;
       text-transform: uppercase;
@@ -86,9 +350,16 @@
       margin: 4rem 0 1rem;
       padding-top: 2rem;
       border-top: 1px solid var(--rule);
+      scroll-margin-top: calc(var(--header-h) + 1rem);
     }
+    .section-label a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .section-label a:hover { text-decoration: underline; text-underline-offset: 0.2em; }
     h2 {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
+      scroll-margin-top: calc(var(--header-h) + 0.5rem);
       font-weight: 600;
       font-size: 1.65rem;
       line-height: 1.25;
@@ -108,7 +379,7 @@
       padding: 0.08em 0.12em 0 0;
       color: var(--accent);
       font-weight: 700;
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
     }
     blockquote {
       margin: 2.5rem 0;
@@ -124,7 +395,7 @@
       margin-top: 1rem;
       font-size: 0.8rem;
       font-style: normal;
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       color: var(--muted);
       letter-spacing: 0.04em;
     }
@@ -135,13 +406,17 @@
     }
     blockquote.court strong {
       display: block;
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.7rem;
       letter-spacing: 0.12em;
       text-transform: uppercase;
       color: var(--accent);
       margin-bottom: 0.75rem;
       font-weight: 600;
+    }
+    blockquote:focus-within {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
     }
     .divider {
       border: none;
@@ -159,12 +434,17 @@
     }
     .card {
       padding: 1.5rem 1.35rem;
-      border-radius: 2px;
+      border-radius: 4px;
       border: 1px solid var(--rule);
       background: var(--card-bg);
+      transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    }
+    .card:hover {
+      border-color: #bbb;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
     }
     .card-label {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.65rem;
       font-weight: 700;
       letter-spacing: 0.2em;
@@ -181,22 +461,43 @@
       font-size: 0.98rem;
     }
     .card-meta {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.72rem;
       color: var(--muted);
       margin-top: 0.85rem;
     }
     .timeline {
       margin: 2rem 0;
-      padding-left: 1.5rem;
-      border-left: 2px solid var(--accent);
+      padding-left: 0;
+      list-style: none;
     }
     .timeline li {
-      margin-bottom: 1.25rem;
-      padding-left: 0.5rem;
+      position: relative;
+      margin-bottom: 1.35rem;
+      padding-left: 1.75rem;
+    }
+    .timeline li::before {
+      content: "";
+      position: absolute;
+      left: 0.35rem;
+      top: 0.55rem;
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 0 3px var(--accent-soft);
+    }
+    .timeline li:not(:last-child)::after {
+      content: "";
+      position: absolute;
+      left: 0.68rem;
+      top: 1.35rem;
+      bottom: -1rem;
+      width: 2px;
+      background: var(--rule);
     }
     .timeline strong {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.75rem;
       letter-spacing: 0.08em;
       text-transform: uppercase;
@@ -208,7 +509,7 @@
       margin-top: 3rem;
       padding-top: 2rem;
       border-top: 1px solid var(--rule);
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       line-height: 1.5;
     }
     .accent-line {
@@ -228,7 +529,7 @@
       line-height: 1.65;
     }
     .record-note strong {
-      font-family: system-ui, sans-serif;
+      font-family: var(--sans);
       font-size: 0.68rem;
       letter-spacing: 0.14em;
       text-transform: uppercase;
@@ -236,9 +537,77 @@
       display: block;
       margin-bottom: 0.5rem;
     }
+    .back-to-top {
+      position: fixed;
+      right: 1.25rem;
+      bottom: 1.25rem;
+      z-index: 120;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.75rem;
+      height: 2.75rem;
+      border: 1px solid var(--rule);
+      border-radius: 50%;
+      background: #fff;
+      color: var(--accent);
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+      cursor: pointer;
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(0.5rem);
+      transition: opacity 0.2s, visibility 0.2s, transform 0.2s, border-color 0.15s;
+    }
+    .back-to-top.is-visible {
+      opacity: 1;
+      visibility: visible;
+      transform: translateY(0);
+    }
+    .back-to-top:hover {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+    }
+    .back-to-top:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
+    .back-to-top svg { width: 1.15rem; height: 1.15rem; }
+    @media print {
+      .progress-bar,
+      .site-header,
+      .toc,
+      .toc-backdrop,
+      .back-to-top,
+      .hero-scroll { display: none !important; }
+      .hero {
+        min-height: auto;
+        padding: 2rem 1rem;
+        background: #fff;
+        color: #000;
+      }
+      .hero-deck, .hero-kicker, .hero-meta { color: #333; }
+      body { font-size: 11pt; }
+      .wrap { max-width: 100%; padding: 0 1rem; }
+      blockquote, .card, .record-note { break-inside: avoid; }
+      a { color: #000; text-decoration: underline; }
+    }
   </style>
 </head>
 <body>
+
+<a class="skip-link" href="#main">Skip to article</a>
+<div class="progress-bar" id="progress" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Reading progress"></div>
+
+<header class="site-header" id="site-header" aria-hidden="true">
+  <a class="site-header-title" href="#">The Fracture</a>
+  <div class="site-header-actions">
+    <button type="button" class="btn-icon" id="toc-toggle" aria-expanded="false" aria-controls="toc-panel" aria-label="Open table of contents">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+    </button>
+  </div>
+</header>
+
+<div class="toc-backdrop" id="toc-backdrop" hidden></div>
 
 <header class="hero">
   <p class="hero-kicker">Investigative Report</p>
@@ -248,16 +617,22 @@
     <span>By Investigative Desk</span>
     <span>·</span>
     <span>May 25, 2026</span>
+    <span class="hero-reading" id="reading-time">~28 min read</span>
   </p>
+  <a class="hero-scroll" href="#main" aria-label="Scroll to article">
+    <span>Begin</span>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+  </a>
 </header>
 
-<article class="wrap">
+<div class="layout">
+<article class="wrap" id="main">
 
   <p class="lead">Ashley St. Clair did not stumble into the culture war. She was manufactured inside it—then seduced, in her word, by the wealthiest man in the room. What follows is not speculation. It is a reconstruction from 30,383 lines of archived X data (~26,500 unique posts, 2018–2026), 45 OCR court filings across two federal cases, and more than fifty interview and TikTok transcripts. The arc is simple and brutal: she built a brand on anti-trans children’s literature and pro-MAGA grievance; she courted Elon Musk with rocket-baby jokes and Babylon Bee access; she bore a son he helped name; she fought him over paternity, money, and custody; and when Grok undressed her as a child on the platform he owns, the tech utopianism she once defended became the weapon that broke her alignment forever.</p>
 
   <div class="accent-line"></div>
 
-  <p class="section-label">I — Ideological Genesis</p>
+  <p class="section-label" id="genesis"><a href="#genesis">I — Ideological Genesis</a></p>
   <h2>The Factory Floor</h2>
 
   <p class="dropcap">At eighteen, Ashley St. Clair entered college and, within a year, the conveyor belt of Turning Point USA. In a May 2026 interview, she described Charlie Kirk scrolling her Twitter feed by text—“maybe post this or go this direction, don’t do this”—while she was “simultaneously doing beer bongs” and guesting at CPAC as a “micro e-celeb.” She still has those messages. The architecture she now calls a cult was, at the time, validation.</p>
@@ -295,7 +670,7 @@
 
   <hr class="divider">
 
-  <p class="section-label">II — The Seduction of the Orbit</p>
+  <p class="section-label" id="seduction"><a href="#seduction">II — The Seduction of the Orbit</a></p>
   <h2>Rocket Babies and the Matrix</h2>
 
   <p>The court papers in <em>St. Clair v. X.AI Holdings Corp.</em> (S.D.N.Y. 1:26-cv-00386) identify her as a New York writer and political strategist with roughly one million followers—and, in emergency filings, as “the mother of a 16 month old child in common with the owner of xAI, Elon Musk.” The paternity war lives mostly in transcripts and posts, not in the xAI docket, but the texts reporters have verified are extraordinary.</p>
@@ -328,7 +703,7 @@
 
   <hr class="divider">
 
-  <p class="section-label">III — The Fracturing of Reality</p>
+  <p class="section-label" id="fracturing"><a href="#fracturing">III — The Fracturing of Reality</a></p>
   <h2>Romulus and Custody as Retaliation</h2>
 
   <p>Public MAGA alignment collided with private litigation logic. When she expressed remorse for anti-trans rhetoric—citing pain possibly caused to Musk’s daughter Vivian Wilson—Musk posted that he would seek “full custody,” claiming she implied she might “transition a one-year-old boy.” She told CNN she was “not at liberty to discuss it further,” but the post she was answering is explicit: “I feel immense guilt for my role and even more guilt that things I have said in the past may have caused my son's sister more pain.”</p>
@@ -351,7 +726,7 @@
 
   <hr class="divider">
 
-  <p class="section-label">IV — The Deepfake Catalyst</p>
+  <p class="section-label" id="deepfake"><a href="#deepfake">IV — The Deepfake Catalyst</a></p>
   <h2>Grok’s “Spicy” Machine</h2>
 
   <p>On January 15, 2026, St. Clair filed suit in New York Supreme Court against X.AI Holdings Corp., removed the same day to federal court. The complaint—nine causes of action including strict liability, NY GBL § 349, IIED, and Civil Rights Law § 52-c—reads like a horror brief.</p>
@@ -385,7 +760,7 @@
 
   <hr class="divider">
 
-  <p class="section-label">V — De-Radicalization and “Dark Woke”</p>
+  <p class="section-label" id="deradicalization"><a href="#deradicalization">V — De-Radicalization and “Dark Woke”</a></p>
   <h2>The Witness Becomes the Evidence</h2>
 
   <p>By 2026 she calls X “evil,” admits the site induces “spiritual regress,” and says she carries “immense guilt” while insisting her children are “victims—some of which I bear responsibility for.” On Taylor Lorenz’s show she asked whether trans people were “just demonizing a group… to obfuscate from real issues,” confessed she wrote anti-trans children’s books before she had children, and named Vivian Wilson as family she may have harmed. She described MAGA as predatory toward young people with “student loan debt” and “security” needs—Turning Point recruiters telling kids to skip school and “be a professional MAGA spokesperson.”</p>
@@ -435,7 +810,7 @@
 
   <hr class="divider">
 
-  <p class="section-label">VI — The MAGA Machine</p>
+  <p class="section-label" id="machine"><a href="#machine">VI — The MAGA Machine</a></p>
   <h2>Paid Campaigns and the Club</h2>
 
   <p>St. Clair’s post-MAGA testimony is not only personal—it is structural. On Mehdi Hasan’s show she described multiple WhatsApp-style chats where “members of the administration,” “the Trump children,” and “big names of the conservative media machine” coordinate responses in real time, alongside undisclosed paid posts ranging from “a couple hundred dollars” per tweet to six figures. On David Pakman’s program she said she still possesses texts from MAGA creators discussing trans content: “oh, that will fly… that will do numbers,” and named organizations that “fund content or messaging campaigns regarding the trans issue”—what she now calls “trans panic,” not an issue but a product.</p>
@@ -465,7 +840,7 @@
 
   <hr class="divider">
 
-  <p class="section-label">Coda</p>
+  <p class="section-label" id="coda"><a href="#coda">Coda</a></p>
   <h2>The Crushing Weight of the Timeline</h2>
 
   <p>Ashley St. Clair’s tragedy for the MAGA machine is not that she lied about the movement; it is that she told the truth about how she joined it. Charlie Kirk’s texts. The seduction joke. The lasers-from-space thread. The disobedience child support. The guilt aimed at Vivian Wilson. The federal complaint’s semen-smeared clown deepfake. Each item is verifiable. Each item damages a different constituency: TPUSA parents, Musk fans, free-speech absolutists, anti-trans activists who bought her book.</p>
@@ -475,5 +850,139 @@
   <p class="footnote">Sources: <em>Ashley-posts.jsonl</em> (30,383 lines, ~26,500 unique posts, 2018–2026); RECAP OCR filings in <em>St. Clair v. X.AI Holdings Corp.</em>, 1:26-cv-00386 (S.D.N.Y.) and <em>X.AI LLC v. St. Clair</em>, 7:26-cv-00005 (N.D. Tex.); <em>CASE_BRIEFING_StClair_v_xAI.md</em>; interview and TikTok transcripts under <em>transcripts/INTERVIEWS/</em> and <em>transcripts/TIKTOKS/</em>. Custody and paternity disputes are documented in posts and transcripts; no separate Musk family-court docket appears in this archive. Court quotations are from filed pleadings as OCR’d; social posts are verbatim from JSONL. No external stylesheets.</p>
 
 </article>
+
+<nav class="toc" aria-label="Table of contents">
+  <aside class="toc-panel" id="toc-panel">
+    <p class="toc-heading">Contents</p>
+    <ol class="toc-list" id="toc-list">
+      <li><a href="#genesis">I — Ideological Genesis</a></li>
+      <li><a href="#seduction">II — The Seduction of the Orbit</a></li>
+      <li><a href="#fracturing">III — The Fracturing of Reality</a></li>
+      <li><a href="#deepfake">IV — The Deepfake Catalyst</a></li>
+      <li><a href="#deradicalization">V — De-Radicalization</a></li>
+      <li><a href="#machine">VI — The MAGA Machine</a></li>
+      <li><a href="#coda">Coda</a></li>
+    </ol>
+    <p class="toc-reading" id="toc-reading">~28 min · scroll to track</p>
+  </aside>
+</nav>
+</div>
+
+<button type="button" class="back-to-top" id="back-to-top" aria-label="Back to top" hidden>
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+</button>
+
+<script>
+(function () {
+  var progress = document.getElementById("progress");
+  var siteHeader = document.getElementById("site-header");
+  var backToTop = document.getElementById("back-to-top");
+  var tocToggle = document.getElementById("toc-toggle");
+  var tocPanel = document.getElementById("toc-panel");
+  var tocBackdrop = document.getElementById("toc-backdrop");
+  var tocLinks = document.querySelectorAll(".toc-list a");
+  var sections = ["genesis", "seduction", "fracturing", "deepfake", "deradicalization", "machine", "coda"]
+    .map(function (id) { return document.getElementById(id); })
+    .filter(Boolean);
+
+  function readingMinutes() {
+    var text = document.querySelector(".wrap");
+    if (!text) return 28;
+    var words = (text.innerText || "").trim().split(/\s+/).length;
+    return Math.max(1, Math.round(words / 220));
+  }
+
+  var mins = readingMinutes();
+  var label = "~" + mins + " min read";
+  var rt = document.getElementById("reading-time");
+  var tr = document.getElementById("toc-reading");
+  if (rt) rt.textContent = label;
+  if (tr) tr.textContent = "~" + mins + " min · scroll to track";
+
+  function setScrollState() {
+    var doc = document.documentElement;
+    var scrollTop = doc.scrollTop || document.body.scrollTop;
+    var height = doc.scrollHeight - doc.clientHeight;
+    var pct = height > 0 ? Math.min(100, (scrollTop / height) * 100) : 0;
+    if (progress) {
+      progress.style.width = pct + "%";
+      progress.setAttribute("aria-valuenow", String(Math.round(pct)));
+    }
+    if (siteHeader) {
+      var show = scrollTop > window.innerHeight * 0.45;
+      siteHeader.classList.toggle("is-visible", show);
+      siteHeader.setAttribute("aria-hidden", show ? "false" : "true");
+    }
+    if (backToTop) {
+      var showTop = scrollTop > 600;
+      backToTop.classList.toggle("is-visible", showTop);
+      backToTop.hidden = !showTop;
+    }
+    var active = sections[0];
+    for (var i = 0; i < sections.length; i++) {
+      if (sections[i].getBoundingClientRect().top <= 120) active = sections[i];
+    }
+    tocLinks.forEach(function (link) {
+      var on = active && link.getAttribute("href") === "#" + active.id;
+      link.classList.toggle("is-active", on);
+      if (on) link.setAttribute("aria-current", "true");
+      else link.removeAttribute("aria-current");
+    });
+  }
+
+  function closeToc() {
+    if (!tocPanel) return;
+    tocPanel.classList.remove("is-open");
+    if (tocBackdrop) {
+      tocBackdrop.classList.remove("is-open");
+      tocBackdrop.hidden = true;
+    }
+    if (tocToggle) tocToggle.setAttribute("aria-expanded", "false");
+  }
+
+  function openToc() {
+    if (!tocPanel) return;
+    tocPanel.classList.add("is-open");
+    if (tocBackdrop) {
+      tocBackdrop.hidden = false;
+      tocBackdrop.classList.add("is-open");
+    }
+    if (tocToggle) tocToggle.setAttribute("aria-expanded", "true");
+  }
+
+  if (tocToggle) {
+    tocToggle.addEventListener("click", function () {
+      if (tocPanel.classList.contains("is-open")) closeToc();
+      else openToc();
+    });
+  }
+  if (tocBackdrop) tocBackdrop.addEventListener("click", closeToc);
+  tocLinks.forEach(function (link) {
+    link.addEventListener("click", function () {
+      if (window.matchMedia("(max-width: 1099px)").matches) closeToc();
+    });
+  });
+  if (backToTop) {
+    backToTop.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  }
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape") closeToc();
+  });
+
+  var ticking = false;
+  window.addEventListener("scroll", function () {
+    if (!ticking) {
+      ticking = true;
+      requestAnimationFrame(function () {
+        setScrollState();
+        ticking = false;
+      });
+    }
+  }, { passive: true });
+  setScrollState();
+})();
+</script>
 </body>
 </html>
